@@ -1,0 +1,56 @@
+name: AI News Alerts
+
+on:
+  schedule:
+    # Run at 8am, 2pm, 8pm Lima time (UTC-5)
+    # Lima 8am = 1pm UTC
+    # Lima 2pm = 7pm UTC
+    # Lima 8pm = 1am UTC (next day)
+    - cron: '0 13 * * *'  # 8am Lima
+    - cron: '0 19 * * *'  # 2pm Lima
+    - cron: '0 1 * * *'   # 8pm Lima (1am UTC next day)
+
+  # Allow manual trigger for testing
+  workflow_dispatch:
+
+jobs:
+  fetch-and-notify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run news alert script
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          python main.py
+
+      - name: Commit updated sent articles
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/sent_articles.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update sent articles [skip ci]"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

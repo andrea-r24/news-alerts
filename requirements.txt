@@ -1,0 +1,17 @@
+# RSS Feed Parsing
+feedparser==6.0.10
+
+# NewsAPI Integration
+newsapi-python==0.2.7
+
+# Telegram Bot
+python-telegram-bot==20.7
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+requests==2.31.0
+
+# Testing (optional)
+pytest==7.4.3
+pytest-cov==4.1.0
