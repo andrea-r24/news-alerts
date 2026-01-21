@@ -43,5 +43,20 @@
     "sent_at": "2026-01-20T20:15:42.051301",
     "title": "The era of agentic chaos and how data will save us",
     "url": "https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/"
+  },
+  "https://venturebeat.com/data/cfos-are-now-getting-their-own-vibe-coding-moment-thanks-to-datarails": {
+    "sent_at": "2026-01-21T19:31:23.705403",
+    "title": "CFOs are now getting their own 'vibe coding' moment thanks to Datarails",
+    "url": "https://venturebeat.com/data/cfos-are-now-getting-their-own-vibe-coding-moment-thanks-to-datarails"
+  },
+  "https://venturebeat.com/orchestration/what-servicenow-and-openai-signal-for-enterprises-as-ai-moves-from-advice-to": {
+    "sent_at": "2026-01-21T19:31:23.705403",
+    "title": "ServiceNow positions itself as the control layer for enterprise AI execution",
+    "url": "https://venturebeat.com/orchestration/what-servicenow-and-openai-signal-for-enterprises-as-ai-moves-from-advice-to"
+  },
+  "https://venturebeat.com/infrastructure/truefoundry-launches-truefailover-to-automatically-reroute-enterprise-ai": {
+    "sent_at": "2026-01-21T19:31:23.705403",
+    "title": "TrueFoundry launches TrueFailover to automatically reroute enterprise AI traffic during model outages",
+    "url": "https://venturebeat.com/infrastructure/truefoundry-launches-truefailover-to-automatically-reroute-enterprise-ai"
   }
 }
