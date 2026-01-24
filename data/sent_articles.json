@@ -73,5 +73,20 @@
     "sent_at": "2026-01-23T03:01:39.620402",
     "title": "Report: Apple plans to launch AI-powered wearable pin device as soon as 2027",
     "url": "https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/"
+  },
+  "https://venturebeat.com/orchestration/claude-cowork-turns-claude-from-a-chat-tool-into-shared-ai-infrastructure": {
+    "sent_at": "2026-01-24T02:55:49.017814",
+    "title": "Claude Cowork turns Claude from a chat tool into shared AI infrastructure",
+    "url": "https://venturebeat.com/orchestration/claude-cowork-turns-claude-from-a-chat-tool-into-shared-ai-infrastructure"
+  },
+  "https://venturebeat.com/data/how-openai-is-scaling-the-postgresql-database-to-800-million-users": {
+    "sent_at": "2026-01-24T02:55:49.017814",
+    "title": "How OpenAI is scaling the PostgreSQL database to 800 million users",
+    "url": "https://venturebeat.com/data/how-openai-is-scaling-the-postgresql-database-to-800-million-users"
+  },
+  "https://venturebeat.com/security/12-ai-defenses-claimed-near-zero-attack-success-researchers-broke-all-of-them": {
+    "sent_at": "2026-01-24T02:55:49.017814",
+    "title": "Researchers broke every AI defense they tested. Here are 7 questions to ask vendors.",
+    "url": "https://venturebeat.com/security/12-ai-defenses-claimed-near-zero-attack-success-researchers-broke-all-of-them"
   }
 }
