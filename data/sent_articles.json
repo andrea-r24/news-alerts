@@ -128,5 +128,30 @@
     "sent_at": "2026-01-27T13:44:08.412661",
     "title": "The Download: OpenAI’s plans for science, and chatbot age verification",
     "url": "https://www.technologyreview.com/2026/01/27/1131767/the-download-openais-plans-for-science-and-chatbot-age-verification/"
+  },
+  "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/": {
+    "sent_at": "2026-01-27T19:30:45.661748",
+    "title": "OpenAI’s latest product lets you vibe code science",
+    "url": "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/"
+  },
+  "https://venturebeat.com/technology/contextual-ai-launches-agent-composer-to-turn-enterprise-rag-into-production": {
+    "sent_at": "2026-01-27T19:30:45.661748",
+    "title": "Contextual AI launches Agent Composer to turn enterprise RAG into production-ready AI agents",
+    "url": "https://venturebeat.com/technology/contextual-ai-launches-agent-composer-to-turn-enterprise-rag-into-production"
+  },
+  "https://venturebeat.com/orchestration/moonshot-ai-debuts-kimi-k2-5-most-powerful-open-source-llm-beating-opus-4-5": {
+    "sent_at": "2026-01-27T19:30:45.661748",
+    "title": "How Moonshot's Kimi K2.5 helps AI builders spin up agent swarms easier than ever",
+    "url": "https://venturebeat.com/orchestration/moonshot-ai-debuts-kimi-k2-5-most-powerful-open-source-llm-beating-opus-4-5"
+  },
+  "https://venturebeat.com/technology/a-european-ai-challenger-goes-after-github-copilot-mistral-launches-vibe-2-0": {
+    "sent_at": "2026-01-27T19:30:45.661748",
+    "title": "A European AI challenger goes after GitHub Copilot: Mistral launches Vibe 2.0",
+    "url": "https://venturebeat.com/technology/a-european-ai-challenger-goes-after-github-copilot-mistral-launches-vibe-2-0"
+  },
+  "https://venturebeat.com/security/theorem-wants-to-stop-ai-written-bugs-before-they-ship-and-just-raised-usd6m": {
+    "sent_at": "2026-01-27T19:30:45.661748",
+    "title": "Theorem wants to stop AI-written bugs before they ship — and just raised $6M to do it",
+    "url": "https://venturebeat.com/security/theorem-wants-to-stop-ai-written-bugs-before-they-ship-and-just-raised-usd6m"
   }
 }
