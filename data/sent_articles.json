@@ -103,5 +103,25 @@
     "sent_at": "2026-01-26T19:28:00.684234",
     "title": "Anthropic embeds Slack, Figma and Asana inside Claude, turning AI chat into a workplace command center",
     "url": "https://venturebeat.com/infrastructure/anthropic-embeds-slack-figma-and-asana-inside-claude-turning-ai-chat-into-a"
+  },
+  "https://venturebeat.com/security/mcp-shipped-without-authentication-clawdbot-shows-why-thats-a-problem": {
+    "sent_at": "2026-01-27T03:06:31.515384",
+    "title": "MCP shipped without authentication. Clawdbot shows why that's a problem.",
+    "url": "https://venturebeat.com/security/mcp-shipped-without-authentication-clawdbot-shows-why-thats-a-problem"
+  },
+  "https://venturebeat.com/technology/qwen3-max-thinking-beats-gemini-3-pro-and-gpt-5-2-on-humanitys-last-exam": {
+    "sent_at": "2026-01-27T03:06:31.515384",
+    "title": "Qwen3-Max Thinking beats Gemini 3 Pro and GPT-5.2 on Humanity's Last Exam (with search)",
+    "url": "https://venturebeat.com/technology/qwen3-max-thinking-beats-gemini-3-pro-and-gpt-5-2-on-humanitys-last-exam"
+  },
+  "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/": {
+    "sent_at": "2026-01-27T03:06:31.515384",
+    "title": "OpenAI spills technical details about how its AI coding agent works",
+    "url": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/"
+  },
+  "https://venturebeat.com/orchestration/claude-codes-tasks-update-lets-agents-work-longer-and-coordinate-across": {
+    "sent_at": "2026-01-27T03:06:31.515384",
+    "title": "Claude Code's 'Tasks' update lets agents work longer and coordinate across sessions",
+    "url": "https://venturebeat.com/orchestration/claude-codes-tasks-update-lets-agents-work-longer-and-coordinate-across"
   }
 }
