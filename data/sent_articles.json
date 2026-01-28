@@ -158,5 +158,15 @@
     "sent_at": "2026-01-28T03:04:08.509200",
     "title": "SOC teams are automating triage — but 40% will fail without governance boundaries",
     "url": "https://venturebeat.com/security/tier-1-soc-work-becoming-code-architectural-decisions-hours-minutes-response"
+  },
+  "https://venturebeat.com/data/airtables-superagent-maintains-full-execution-visibility-to-solve-multi": {
+    "sent_at": "2026-01-28T19:34:14.826271",
+    "title": "Airtable's Superagent maintains full execution visibility to solve multi-agent context problem",
+    "url": "https://venturebeat.com/data/airtables-superagent-maintains-full-execution-visibility-to-solve-multi"
+  },
+  "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/": {
+    "sent_at": "2026-01-28T19:34:14.826271",
+    "title": "Rules fail at the prompt, succeed at the boundary",
+    "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/"
   }
 }
