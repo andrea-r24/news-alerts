@@ -153,5 +153,10 @@
     "sent_at": "2026-01-27T19:30:45.661748",
     "title": "Theorem wants to stop AI-written bugs before they ship — and just raised $6M to do it",
     "url": "https://venturebeat.com/security/theorem-wants-to-stop-ai-written-bugs-before-they-ship-and-just-raised-usd6m"
+  },
+  "https://venturebeat.com/security/tier-1-soc-work-becoming-code-architectural-decisions-hours-minutes-response": {
+    "sent_at": "2026-01-28T03:04:08.509200",
+    "title": "SOC teams are automating triage — but 40% will fail without governance boundaries",
+    "url": "https://venturebeat.com/security/tier-1-soc-work-becoming-code-architectural-decisions-hours-minutes-response"
   }
 }
