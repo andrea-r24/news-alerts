@@ -168,5 +168,25 @@
     "sent_at": "2026-01-28T19:34:14.826271",
     "title": "Rules fail at the prompt, succeed at the boundary",
     "url": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/"
+  },
+  "https://venturebeat.com/security/clawdbot-exploits-48-hours-what-broke": {
+    "sent_at": "2026-01-29T19:33:51.011061",
+    "title": "Infostealers added Clawdbot to their target lists before most security teams knew it was running",
+    "url": "https://venturebeat.com/security/clawdbot-exploits-48-hours-what-broke"
+  },
+  "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/": {
+    "sent_at": "2026-01-29T19:33:51.011061",
+    "title": "New OpenAI tool renews fears that “AI slop” will overwhelm scientific research",
+    "url": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/"
+  },
+  "https://venturebeat.com/infrastructure/ai-agents-can-talk-to-each-other-they-just-cant-think-together-yet": {
+    "sent_at": "2026-01-29T19:33:51.011061",
+    "title": "AI agents can talk to each other — they just can't think together yet",
+    "url": "https://venturebeat.com/infrastructure/ai-agents-can-talk-to-each-other-they-just-cant-think-together-yet"
+  },
+  "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/": {
+    "sent_at": "2026-01-29T19:33:51.011061",
+    "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+    "url": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/"
   }
 }
