@@ -203,5 +203,10 @@
     "sent_at": "2026-01-30T19:36:14.089630",
     "title": "The trust paradox killing AI at scale: 76% of data leaders can't govern what employees already use",
     "url": "https://venturebeat.com/data/the-trust-paradox-killing-ai-at-scale-76-of-data-leaders-cant-govern-what"
+  },
+  "https://venturebeat.com/security/openclaw-agentic-ai-security-risk-ciso-guide": {
+    "sent_at": "2026-01-31T03:23:25.902020",
+    "title": "OpenClaw proves agentic AI works. It also proves your security model doesn't. 180,000 developers just made that your problem.",
+    "url": "https://venturebeat.com/security/openclaw-agentic-ai-security-risk-ciso-guide"
   }
 }
