@@ -218,5 +218,15 @@
     "sent_at": "2026-02-03T14:03:30.174487",
     "title": "Vercel rebuilt v0 to tackle the 90% problem: Connecting AI-generated code to existing production infrastructure, not prototypes",
     "url": "https://venturebeat.com/infrastructure/vercel-rebuilt-v0-to-tackle-the-90-problem-connecting-ai-generated-code-to"
+  },
+  "https://venturebeat.com/data/databricks-serverless-database-slashes-app-development-from-months-to-days": {
+    "sent_at": "2026-02-03T19:46:24.915632",
+    "title": "Databricks' serverless database slashes app development from months to days as companies prep for agentic AI",
+    "url": "https://venturebeat.com/data/databricks-serverless-database-slashes-app-development-from-months-to-days"
+  },
+  "https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/": {
+    "sent_at": "2026-02-03T19:46:24.915632",
+    "title": "Senior staff departing OpenAI as firm prioritizes ChatGPT development",
+    "url": "https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/"
   }
 }
