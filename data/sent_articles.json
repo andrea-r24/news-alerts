@@ -213,5 +213,10 @@
     "sent_at": "2026-02-03T03:35:08.422078",
     "title": "Shared memory is the missing layer in AI orchestration",
     "url": "https://venturebeat.com/orchestration/shared-memory-is-the-missing-layer-in-ai-orchestration"
+  },
+  "https://venturebeat.com/infrastructure/vercel-rebuilt-v0-to-tackle-the-90-problem-connecting-ai-generated-code-to": {
+    "sent_at": "2026-02-03T14:03:30.174487",
+    "title": "Vercel rebuilt v0 to tackle the 90% problem: Connecting AI-generated code to existing production infrastructure, not prototypes",
+    "url": "https://venturebeat.com/infrastructure/vercel-rebuilt-v0-to-tackle-the-90-problem-connecting-ai-generated-code-to"
   }
 }
