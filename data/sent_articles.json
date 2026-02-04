@@ -228,5 +228,20 @@
     "sent_at": "2026-02-03T19:46:24.915632",
     "title": "Senior staff departing OpenAI as firm prioritizes ChatGPT development",
     "url": "https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/"
+  },
+  "https://venturebeat.com/technology/qwen3-coder-next-offers-vibe-coders-a-powerful-open-source-ultra-sparse": {
+    "sent_at": "2026-02-04T03:32:53.370494",
+    "title": "Qwen3-Coder-Next offers vibe coders a powerful open source, ultra-sparse model with 10x higher throughput for repo tasks",
+    "url": "https://venturebeat.com/technology/qwen3-coder-next-offers-vibe-coders-a-powerful-open-source-ultra-sparse"
+  },
+  "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/": {
+    "sent_at": "2026-02-04T03:32:53.370494",
+    "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
+    "url": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/"
+  },
+  "https://venturebeat.com/technology/apple-integrates-anthropics-claude-and-openais-codex-into-xcode-26-3-in-push": {
+    "sent_at": "2026-02-04T03:32:53.370494",
+    "title": "Apple integrates Anthropic’s Claude and OpenAI’s Codex into Xcode 26.3 in push for ‘agentic coding’",
+    "url": "https://venturebeat.com/technology/apple-integrates-anthropics-claude-and-openais-codex-into-xcode-26-3-in-push"
   }
 }
