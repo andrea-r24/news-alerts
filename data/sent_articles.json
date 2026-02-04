@@ -243,5 +243,10 @@
     "sent_at": "2026-02-04T03:32:53.370494",
     "title": "Apple integrates Anthropic’s Claude and OpenAI’s Codex into Xcode 26.3 in push for ‘agentic coding’",
     "url": "https://venturebeat.com/technology/apple-integrates-anthropics-claude-and-openais-codex-into-xcode-26-3-in-push"
+  },
+  "https://venturebeat.com/orchestration/the-brownie-recipe-problem-why-llms-must-have-fine-grained-context-to": {
+    "sent_at": "2026-02-04T19:40:39.168997",
+    "title": "The ‘brownie recipe problem’: why LLMs must have fine-grained context to deliver real-time results",
+    "url": "https://venturebeat.com/orchestration/the-brownie-recipe-problem-why-llms-must-have-fine-grained-context-to"
   }
 }
