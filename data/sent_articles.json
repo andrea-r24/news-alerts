@@ -273,5 +273,25 @@
     "sent_at": "2026-02-05T14:04:43.218797",
     "title": "This is the most misunderstood graph in AI",
     "url": "https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/"
+  },
+  "https://venturebeat.com/technology/openais-gpt-5-3-codex-drops-as-anthropic-upgrades-claude-ai-coding-wars-heat": {
+    "sent_at": "2026-02-05T19:39:29.292844",
+    "title": "OpenAI’s GPT-5.3-Codex drops as Anthropic upgrades Claude — AI coding wars heat up ahead of Super Bowl ads",
+    "url": "https://venturebeat.com/technology/openais-gpt-5-3-codex-drops-as-anthropic-upgrades-claude-ai-coding-wars-heat"
+  },
+  "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/": {
+    "sent_at": "2026-02-05T19:39:29.292844",
+    "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+    "url": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/"
+  },
+  "https://venturebeat.com/technology/anthropics-claude-opus-4-6-brings-1m-token-context-and-agent-teams-to-take": {
+    "sent_at": "2026-02-05T19:39:29.292844",
+    "title": "Anthropic's Claude Opus 4.6 brings 1M token context and 'agent teams' to take on OpenAI's Codex",
+    "url": "https://venturebeat.com/technology/anthropics-claude-opus-4-6-brings-1m-token-context-and-agent-teams-to-take"
+  },
+  "https://venturebeat.com/technology/fundamental-emerges-from-stealth-with-first-major-foundation-model-trained": {
+    "sent_at": "2026-02-05T19:39:29.292844",
+    "title": "Beyond the lakehouse: Fundamental's NEXUS bypasses manual ETL with a native foundation model for tabular data",
+    "url": "https://venturebeat.com/technology/fundamental-emerges-from-stealth-with-first-major-foundation-model-trained"
   }
 }
