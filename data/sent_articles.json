@@ -248,5 +248,20 @@
     "sent_at": "2026-02-04T19:40:39.168997",
     "title": "The ‘brownie recipe problem’: why LLMs must have fine-grained context to deliver real-time results",
     "url": "https://venturebeat.com/orchestration/the-brownie-recipe-problem-why-llms-must-have-fine-grained-context-to"
+  },
+  "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/": {
+    "sent_at": "2026-02-05T03:33:50.913953",
+    "title": "Should AI chatbots have ads? Anthropic says no.",
+    "url": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/"
+  },
+  "https://venturebeat.com/technology/mistral-drops-voxtral-transcribe-2-an-open-source-speech-model-that-runs-on": {
+    "sent_at": "2026-02-05T03:33:50.913953",
+    "title": "Mistral drops Voxtral Transcribe 2, an open-source speech model that runs on-device for pennies",
+    "url": "https://venturebeat.com/technology/mistral-drops-voxtral-transcribe-2-an-open-source-speech-model-that-runs-on"
+  },
+  "https://venturebeat.com/orchestration/kilo-cli-1-0-brings-open-source-vibe-coding-to-your-terminal-with-support": {
+    "sent_at": "2026-02-05T03:33:50.913953",
+    "title": "Kilo CLI 1.0 brings open source vibe coding to your terminal with support for 500+ models",
+    "url": "https://venturebeat.com/orchestration/kilo-cli-1-0-brings-open-source-vibe-coding-to-your-terminal-with-support"
   }
 }
