@@ -293,5 +293,25 @@
     "sent_at": "2026-02-05T19:39:29.292844",
     "title": "Beyond the lakehouse: Fundamental's NEXUS bypasses manual ETL with a native foundation model for tabular data",
     "url": "https://venturebeat.com/technology/fundamental-emerges-from-stealth-with-first-major-foundation-model-trained"
+  },
+  "https://venturebeat.com/security/recruitment-fraud-cloud-iam-2-billion-attack-surface": {
+    "sent_at": "2026-02-06T03:32:24.039949",
+    "title": "How recruitment fraud turned cloud IAM into a $2 billion attack surface",
+    "url": "https://venturebeat.com/security/recruitment-fraud-cloud-iam-2-billion-attack-surface"
+  },
+  "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/": {
+    "sent_at": "2026-02-06T03:32:24.039949",
+    "title": "AI companies want you to stop chatting with bots and start managing them",
+    "url": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/"
+  },
+  "https://venturebeat.com/infrastructure/ttt-discover-optimizes-gpu-kernels-2x-faster-than-human-experts-by-training": {
+    "sent_at": "2026-02-06T03:32:24.039949",
+    "title": "TTT-Discover optimizes GPU kernels 2x faster than human experts — by training during inference",
+    "url": "https://venturebeat.com/infrastructure/ttt-discover-optimizes-gpu-kernels-2x-faster-than-human-experts-by-training"
+  },
+  "https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/": {
+    "sent_at": "2026-02-06T03:32:24.039949",
+    "title": "With GPT-5.3-Codex, OpenAI pitches Codex for more than just writing code",
+    "url": "https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/"
   }
 }
