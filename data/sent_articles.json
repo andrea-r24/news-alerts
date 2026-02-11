@@ -348,5 +348,15 @@
     "sent_at": "2026-02-10T03:51:29.729647",
     "title": "No humans allowed: This new space-based MMO is designed exclusively for AI agents",
     "url": "https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/"
+  },
+  "https://venturebeat.com/orchestration/openai-upgrades-its-responses-api-to-support-agent-skills-and-a-complete": {
+    "sent_at": "2026-02-11T03:49:05.173890",
+    "title": "OpenAI upgrades its Responses API to support agent skills and a complete terminal shell",
+    "url": "https://venturebeat.com/orchestration/openai-upgrades-its-responses-api-to-support-agent-skills-and-a-complete"
+  },
+  "https://venturebeat.com/data/observational-memory-cuts-ai-agent-costs-10x-and-outscores-rag-on-long": {
+    "sent_at": "2026-02-11T03:49:05.173890",
+    "title": "'Observational memory' cuts AI agent costs 10x and outscores RAG on long-context benchmarks",
+    "url": "https://venturebeat.com/data/observational-memory-cuts-ai-agent-costs-10x-and-outscores-rag-on-long"
   }
 }
