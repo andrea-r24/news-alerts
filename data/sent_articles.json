@@ -363,5 +363,30 @@
     "sent_at": "2026-02-11T19:56:01.559442",
     "title": "NanoClaw solves one of OpenClaw's biggest security issues — and it's already powering the creator's biz",
     "url": "https://venturebeat.com/orchestration/nanoclaw-solves-one-of-openclaws-biggest-security-issues-and-its-already"
+  },
+  "https://venturebeat.com/technology/z-ais-open-source-glm-5-achieves-record-low-hallucination-rate-and-leverages": {
+    "sent_at": "2026-02-12T03:44:16.640148",
+    "title": "z.ai's open source GLM-5 achieves record low hallucination rate and leverages new RL 'slime' technique",
+    "url": "https://venturebeat.com/technology/z-ais-open-source-glm-5-achieves-record-low-hallucination-rate-and-leverages"
+  },
+  "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/": {
+    "sent_at": "2026-02-12T03:44:16.640148",
+    "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
+    "url": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/"
+  },
+  "https://venturebeat.com/technology/anthropics-claude-cowork-finally-lands-on-windows-and-it-wants-to-automate": {
+    "sent_at": "2026-02-12T03:44:16.640148",
+    "title": "Anthropic’s Claude Cowork finally lands on Windows — and it wants to automate your workday",
+    "url": "https://venturebeat.com/technology/anthropics-claude-cowork-finally-lands-on-windows-and-it-wants-to-automate"
+  },
+  "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/": {
+    "sent_at": "2026-02-12T03:44:16.640148",
+    "title": "Is a secure AI assistant possible?",
+    "url": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/"
+  },
+  "https://venturebeat.com/orchestration/mits-new-fine-tuning-method-lets-llms-learn-new-skills-without-losing-old": {
+    "sent_at": "2026-02-12T03:44:16.640148",
+    "title": "MIT's new fine-tuning method lets LLMs learn new skills without losing old ones",
+    "url": "https://venturebeat.com/orchestration/mits-new-fine-tuning-method-lets-llms-learn-new-skills-without-losing-old"
   }
 }
