@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/technology/z-ais-open-source-glm-image-beats-googles-nano-banana-pro-at-complex-text": {
-    "sent_at": "2026-01-15T04:16:44.005350",
-    "title": "Z.ai's open source GLM-Image beats Google's Nano Banana Pro at complex text rendering, but not aesthetics",
-    "url": "https://venturebeat.com/technology/z-ais-open-source-glm-image-beats-googles-nano-banana-pro-at-complex-text"
-  },
-  "https://venturebeat.com/orchestration/claude-code-just-got-updated-with-one-of-the-most-requested-user-features": {
-    "sent_at": "2026-01-16T03:00:17.975654",
-    "title": "Claude Code just got updated with one of the most-requested user features",
-    "url": "https://venturebeat.com/orchestration/claude-code-just-got-updated-with-one-of-the-most-requested-user-features"
-  },
-  "https://venturebeat.com/technology/kilo-launches-ai-powered-slack-bot-that-ships-code-from-a-chat-message": {
-    "sent_at": "2026-01-16T19:22:48.915399",
-    "title": "Kilo launches AI-powered Slack bot that ships code from a chat message",
-    "url": "https://venturebeat.com/technology/kilo-launches-ai-powered-slack-bot-that-ships-code-from-a-chat-message"
-  },
   "https://venturebeat.com/infrastructure/how-googles-internal-rl-could-unlock-long-horizon-ai-agents": {
     "sent_at": "2026-01-17T02:51:56.339032",
     "title": "How Google’s 'internal RL' could unlock long-horizon AI agents",
@@ -418,5 +403,10 @@
     "sent_at": "2026-02-13T19:44:31.475046",
     "title": "How to test OpenClaw without giving an autonomous agent shell access to your corporate laptop",
     "url": "https://venturebeat.com/security/how-to-test-openclaw-without-giving-an-autonomous-agent-shell-access-to-your"
+  },
+  "https://venturebeat.com/infrastructure/nvidia-groq-and-the-limestone-race-to-real-time-ai-why-enterprises-win-or": {
+    "sent_at": "2026-02-15T19:30:29.571208",
+    "title": "Nvidia, Groq and the limestone race to real-time AI: Why enterprises win or lose here",
+    "url": "https://venturebeat.com/infrastructure/nvidia-groq-and-the-limestone-race-to-real-time-ai-why-enterprises-win-or"
   }
 }
