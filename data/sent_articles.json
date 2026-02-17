@@ -403,5 +403,15 @@
     "sent_at": "2026-02-16T19:34:52.165385",
     "title": "Most ransomware playbooks don't address machine credentials. Attackers know it.",
     "url": "https://venturebeat.com/security/machine-identities-missing-link-ransomware-playbooks"
+  },
+  "https://venturebeat.com/orchestration/qodo-2-1-solves-your-coding-agents-amnesia-problem-giving-them-an-11": {
+    "sent_at": "2026-02-17T14:06:00.376575",
+    "title": "Qodo 2.1 solves your coding agents' 'amnesia' problem, giving them an 11% precision boost",
+    "url": "https://venturebeat.com/orchestration/qodo-2-1-solves-your-coding-agents-amnesia-problem-giving-them-an-11"
+  },
+  "https://venturebeat.com/data/surrealdb-3-0-wants-to-replace-your-five-database-rag-stack-with-one": {
+    "sent_at": "2026-02-17T14:06:00.376575",
+    "title": "SurrealDB 3.0 wants to replace your five-database RAG stack with one",
+    "url": "https://venturebeat.com/data/surrealdb-3-0-wants-to-replace-your-five-database-rag-stack-with-one"
   }
 }
