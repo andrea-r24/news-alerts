@@ -1,14 +1,4 @@
 {
-  "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/": {
-    "sent_at": "2026-01-19T13:43:06.450916",
-    "title": "10 things I learned from burning myself out with AI coding agents",
-    "url": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/"
-  },
-  "https://arstechnica.com/tech-policy/2026/01/elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft/": {
-    "sent_at": "2026-01-19T19:23:15.727004",
-    "title": "Elon Musk accused of making up math to squeeze $134B from OpenAI, Microsoft",
-    "url": "https://arstechnica.com/tech-policy/2026/01/elon-musk-accused-of-making-up-math-to-squeeze-134b-from-openai-microsoft/"
-  },
   "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/": {
     "sent_at": "2026-01-20T20:15:42.051301",
     "title": "Reimagining ERP for the agentic AI era",
@@ -423,5 +413,15 @@
     "sent_at": "2026-02-17T19:49:23.945420",
     "title": "OpenAI's acquisition of OpenClaw signals the beginning of the end of the ChatGPT era",
     "url": "https://venturebeat.com/technology/openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the"
+  },
+  "https://venturebeat.com/technology/alibabas-qwen-3-5-397b-a17-beats-its-larger-trillion-parameter-model-at-a": {
+    "sent_at": "2026-02-18T19:50:35.595166",
+    "title": "Alibaba's Qwen 3.5 397B-A17 beats its larger trillion-parameter model — at a fraction of the cost",
+    "url": "https://venturebeat.com/technology/alibabas-qwen-3-5-397b-a17-beats-its-larger-trillion-parameter-model-at-a"
+  },
+  "https://venturebeat.com/infrastructure/when-accurate-ai-is-still-dangerously-incomplete": {
+    "sent_at": "2026-02-18T19:50:35.595166",
+    "title": "When accurate AI is still dangerously incomplete",
+    "url": "https://venturebeat.com/infrastructure/when-accurate-ai-is-still-dangerously-incomplete"
   }
 }
