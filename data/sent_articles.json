@@ -1,14 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/": {
-    "sent_at": "2026-01-20T20:15:42.051301",
-    "title": "Reimagining ERP for the agentic AI era",
-    "url": "https://www.technologyreview.com/2026/01/20/1129965/reimagining-erp-for-the-agentic-ai-era/"
-  },
-  "https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/": {
-    "sent_at": "2026-01-20T20:15:42.051301",
-    "title": "The era of agentic chaos and how data will save us",
-    "url": "https://www.technologyreview.com/2026/01/20/1130911/the-era-of-agentic-chaos-and-how-data-will-save-us/"
-  },
   "https://venturebeat.com/data/cfos-are-now-getting-their-own-vibe-coding-moment-thanks-to-datarails": {
     "sent_at": "2026-01-21T19:31:23.705403",
     "title": "CFOs are now getting their own 'vibe coding' moment thanks to Datarails",
@@ -448,5 +438,10 @@
     "sent_at": "2026-02-19T19:41:30.333792",
     "title": "OpenClaw security fears lead Meta, other AI firms to restrict its use",
     "url": "https://arstechnica.com/ai/2026/02/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use/"
+  },
+  "https://venturebeat.com/technology/google-gemini-3-1-pro-first-impressions-a-deep-think-mini-with-adjustable": {
+    "sent_at": "2026-02-20T03:33:48.643543",
+    "title": "Google Gemini 3.1 Pro first impressions: a 'Deep Think Mini' with adjustable reasoning on demand",
+    "url": "https://venturebeat.com/technology/google-gemini-3-1-pro-first-impressions-a-deep-think-mini-with-adjustable"
   }
 }
