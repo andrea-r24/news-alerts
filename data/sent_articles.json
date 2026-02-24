@@ -423,5 +423,10 @@
     "sent_at": "2026-02-24T03:37:26.335287",
     "title": "Anthropic says DeepSeek, Moonshot, and MiniMax used 24,000 fake accounts to rip off Claude",
     "url": "https://venturebeat.com/technology/anthropic-says-deepseek-moonshot-and-minimax-used-24-000-fake-accounts-to"
+  },
+  "https://venturebeat.com/orchestration/kilo-launches-kiloclaw-allowing-anyone-to-deploy-hosted-openclaw-agents-into": {
+    "sent_at": "2026-02-24T19:49:47.174035",
+    "title": "Kilo launches KiloClaw, allowing anyone to deploy hosted OpenClaw agents into production in 60 seconds",
+    "url": "https://venturebeat.com/orchestration/kilo-launches-kiloclaw-allowing-anyone-to-deploy-hosted-openclaw-agents-into"
   }
 }
