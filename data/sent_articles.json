@@ -1,14 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/": {
-    "sent_at": "2026-01-26T19:28:00.684234",
-    "title": "Inside OpenAI’s big play for science",
-    "url": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/"
-  },
-  "https://venturebeat.com/infrastructure/anthropic-embeds-slack-figma-and-asana-inside-claude-turning-ai-chat-into-a": {
-    "sent_at": "2026-01-26T19:28:00.684234",
-    "title": "Anthropic embeds Slack, Figma and Asana inside Claude, turning AI chat into a workplace command center",
-    "url": "https://venturebeat.com/infrastructure/anthropic-embeds-slack-figma-and-asana-inside-claude-turning-ai-chat-into-a"
-  },
   "https://venturebeat.com/security/mcp-shipped-without-authentication-clawdbot-shows-why-thats-a-problem": {
     "sent_at": "2026-01-27T03:06:31.515384",
     "title": "MCP shipped without authentication. Clawdbot shows why that's a problem.",
@@ -443,5 +433,15 @@
     "sent_at": "2026-02-25T03:37:22.176580",
     "title": "IBM's $40B stock wipeout is built on a misconception: Translating COBOL isn't the same as modernizing it",
     "url": "https://venturebeat.com/technology/ibms-usd40b-stock-wipeout-is-built-on-a-misconception-translating-cobol-isnt"
+  },
+  "https://venturebeat.com/orchestration/visual-imitation-learning-guidde-trains-ai-agents-on-human-expert-video": {
+    "sent_at": "2026-02-25T19:50:31.282802",
+    "title": "Visual imitation learning: Guidde trains AI agents on human 'expert video' instead of documentation",
+    "url": "https://venturebeat.com/orchestration/visual-imitation-learning-guidde-trains-ai-agents-on-human-expert-video"
+  },
+  "https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/": {
+    "sent_at": "2026-02-25T19:50:31.282802",
+    "title": "Pete Hegseth tells Anthropic to fall in line with DoD desires, or else",
+    "url": "https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/"
   }
 }
