@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/security/mcp-shipped-without-authentication-clawdbot-shows-why-thats-a-problem": {
-    "sent_at": "2026-01-27T03:06:31.515384",
-    "title": "MCP shipped without authentication. Clawdbot shows why that's a problem.",
-    "url": "https://venturebeat.com/security/mcp-shipped-without-authentication-clawdbot-shows-why-thats-a-problem"
-  },
-  "https://venturebeat.com/technology/qwen3-max-thinking-beats-gemini-3-pro-and-gpt-5-2-on-humanitys-last-exam": {
-    "sent_at": "2026-01-27T03:06:31.515384",
-    "title": "Qwen3-Max Thinking beats Gemini 3 Pro and GPT-5.2 on Humanity's Last Exam (with search)",
-    "url": "https://venturebeat.com/technology/qwen3-max-thinking-beats-gemini-3-pro-and-gpt-5-2-on-humanitys-last-exam"
-  },
-  "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/": {
-    "sent_at": "2026-01-27T03:06:31.515384",
-    "title": "OpenAI spills technical details about how its AI coding agent works",
-    "url": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/"
-  },
-  "https://venturebeat.com/orchestration/claude-codes-tasks-update-lets-agents-work-longer-and-coordinate-across": {
-    "sent_at": "2026-01-27T03:06:31.515384",
-    "title": "Claude Code's 'Tasks' update lets agents work longer and coordinate across sessions",
-    "url": "https://venturebeat.com/orchestration/claude-codes-tasks-update-lets-agents-work-longer-and-coordinate-across"
-  },
   "https://www.technologyreview.com/2026/01/27/1131767/the-download-openais-plans-for-science-and-chatbot-age-verification/": {
     "sent_at": "2026-01-27T13:44:08.412661",
     "title": "The Download: OpenAI’s plans for science, and chatbot age verification",
@@ -443,5 +423,15 @@
     "sent_at": "2026-02-25T19:50:31.282802",
     "title": "Pete Hegseth tells Anthropic to fall in line with DoD desires, or else",
     "url": "https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/"
+  },
+  "https://venturebeat.com/orchestration/8-billion-tokens-a-day-forced-at-and-t-to-rethink-ai-orchestration-and-cut": {
+    "sent_at": "2026-02-26T03:34:20.539983",
+    "title": "8 billion tokens a day forced AT&T to rethink AI orchestration — and cut costs by 90%",
+    "url": "https://venturebeat.com/orchestration/8-billion-tokens-a-day-forced-at-and-t-to-rethink-ai-orchestration-and-cut"
+  },
+  "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/": {
+    "sent_at": "2026-02-26T03:34:20.539983",
+    "title": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit",
+    "url": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/"
   }
 }
