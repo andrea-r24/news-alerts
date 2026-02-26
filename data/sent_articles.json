@@ -1,9 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/01/27/1131767/the-download-openais-plans-for-science-and-chatbot-age-verification/": {
-    "sent_at": "2026-01-27T13:44:08.412661",
-    "title": "The Download: OpenAI’s plans for science, and chatbot age verification",
-    "url": "https://www.technologyreview.com/2026/01/27/1131767/the-download-openais-plans-for-science-and-chatbot-age-verification/"
-  },
   "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/": {
     "sent_at": "2026-01-27T19:30:45.661748",
     "title": "OpenAI’s latest product lets you vibe code science",
@@ -433,5 +428,10 @@
     "sent_at": "2026-02-26T03:34:20.539983",
     "title": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit",
     "url": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/"
+  },
+  "https://venturebeat.com/orchestration/servicenow-resolves-90-of-its-own-it-requests-autonomously-now-it-wants-to": {
+    "sent_at": "2026-02-26T14:08:28.669314",
+    "title": "ServiceNow resolves 90% of its own IT requests autonomously. Now it wants to do the same for any enterprise",
+    "url": "https://venturebeat.com/orchestration/servicenow-resolves-90-of-its-own-it-requests-autonomously-now-it-wants-to"
   }
 }
