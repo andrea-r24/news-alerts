@@ -1,29 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/": {
-    "sent_at": "2026-01-27T19:30:45.661748",
-    "title": "OpenAI’s latest product lets you vibe code science",
-    "url": "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/"
-  },
-  "https://venturebeat.com/technology/contextual-ai-launches-agent-composer-to-turn-enterprise-rag-into-production": {
-    "sent_at": "2026-01-27T19:30:45.661748",
-    "title": "Contextual AI launches Agent Composer to turn enterprise RAG into production-ready AI agents",
-    "url": "https://venturebeat.com/technology/contextual-ai-launches-agent-composer-to-turn-enterprise-rag-into-production"
-  },
-  "https://venturebeat.com/orchestration/moonshot-ai-debuts-kimi-k2-5-most-powerful-open-source-llm-beating-opus-4-5": {
-    "sent_at": "2026-01-27T19:30:45.661748",
-    "title": "How Moonshot's Kimi K2.5 helps AI builders spin up agent swarms easier than ever",
-    "url": "https://venturebeat.com/orchestration/moonshot-ai-debuts-kimi-k2-5-most-powerful-open-source-llm-beating-opus-4-5"
-  },
-  "https://venturebeat.com/technology/a-european-ai-challenger-goes-after-github-copilot-mistral-launches-vibe-2-0": {
-    "sent_at": "2026-01-27T19:30:45.661748",
-    "title": "A European AI challenger goes after GitHub Copilot: Mistral launches Vibe 2.0",
-    "url": "https://venturebeat.com/technology/a-european-ai-challenger-goes-after-github-copilot-mistral-launches-vibe-2-0"
-  },
-  "https://venturebeat.com/security/theorem-wants-to-stop-ai-written-bugs-before-they-ship-and-just-raised-usd6m": {
-    "sent_at": "2026-01-27T19:30:45.661748",
-    "title": "Theorem wants to stop AI-written bugs before they ship — and just raised $6M to do it",
-    "url": "https://venturebeat.com/security/theorem-wants-to-stop-ai-written-bugs-before-they-ship-and-just-raised-usd6m"
-  },
   "https://venturebeat.com/security/tier-1-soc-work-becoming-code-architectural-decisions-hours-minutes-response": {
     "sent_at": "2026-01-28T03:04:08.509200",
     "title": "SOC teams are automating triage — but 40% will fail without governance boundaries",
@@ -433,5 +408,10 @@
     "sent_at": "2026-02-26T14:08:28.669314",
     "title": "ServiceNow resolves 90% of its own IT requests autonomously. Now it wants to do the same for any enterprise",
     "url": "https://venturebeat.com/orchestration/servicenow-resolves-90-of-its-own-it-requests-autonomously-now-it-wants-to"
+  },
+  "https://venturebeat.com/security/claude-mexico-breach-four-blind-domains-security-stack": {
+    "sent_at": "2026-02-26T19:45:34.316881",
+    "title": "Claude didn't just plan an attack on Mexico's government. It executed one for a month — across four domains your security stack can't see.",
+    "url": "https://venturebeat.com/security/claude-mexico-breach-four-blind-domains-security-stack"
   }
 }
