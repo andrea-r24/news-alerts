@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/security/tier-1-soc-work-becoming-code-architectural-decisions-hours-minutes-response": {
-    "sent_at": "2026-01-28T03:04:08.509200",
-    "title": "SOC teams are automating triage — but 40% will fail without governance boundaries",
-    "url": "https://venturebeat.com/security/tier-1-soc-work-becoming-code-architectural-decisions-hours-minutes-response"
-  },
   "https://venturebeat.com/data/airtables-superagent-maintains-full-execution-visibility-to-solve-multi": {
     "sent_at": "2026-01-28T19:34:14.826271",
     "title": "Airtable's Superagent maintains full execution visibility to solve multi-agent context problem",
@@ -413,5 +408,15 @@
     "sent_at": "2026-02-26T19:45:34.316881",
     "title": "Claude didn't just plan an attack on Mexico's government. It executed one for a month — across four domains your security stack can't see.",
     "url": "https://venturebeat.com/security/claude-mexico-breach-four-blind-domains-security-stack"
+  },
+  "https://venturebeat.com/orchestration/jack-dorseys-block-cuts-40-of-staff-4-000-people-and-yes-its-because-of-ai": {
+    "sent_at": "2026-02-27T03:31:07.551537",
+    "title": "Jack Dorsey's Block cuts 40% of staff, 4,000+ people — and yes, it's because of AI efficiencies",
+    "url": "https://venturebeat.com/orchestration/jack-dorseys-block-cuts-40-of-staff-4-000-people-and-yes-its-because-of-ai"
+  },
+  "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/": {
+    "sent_at": "2026-02-27T03:31:07.551537",
+    "title": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents",
+    "url": "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/"
   }
 }
