@@ -1,29 +1,4 @@
 {
-  "https://venturebeat.com/security/clawdbot-exploits-48-hours-what-broke": {
-    "sent_at": "2026-01-29T19:33:51.011061",
-    "title": "Infostealers added Clawdbot to their target lists before most security teams knew it was running",
-    "url": "https://venturebeat.com/security/clawdbot-exploits-48-hours-what-broke"
-  },
-  "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/": {
-    "sent_at": "2026-01-29T19:33:51.011061",
-    "title": "New OpenAI tool renews fears that “AI slop” will overwhelm scientific research",
-    "url": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/"
-  },
-  "https://venturebeat.com/infrastructure/ai-agents-can-talk-to-each-other-they-just-cant-think-together-yet": {
-    "sent_at": "2026-01-29T19:33:51.011061",
-    "title": "AI agents can talk to each other — they just can't think together yet",
-    "url": "https://venturebeat.com/infrastructure/ai-agents-can-talk-to-each-other-they-just-cant-think-together-yet"
-  },
-  "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/": {
-    "sent_at": "2026-01-29T19:33:51.011061",
-    "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
-    "url": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/"
-  },
-  "https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/": {
-    "sent_at": "2026-01-30T03:28:32.317692",
-    "title": "How often do AI chatbots lead users down a harmful path?",
-    "url": "https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/"
-  },
   "https://venturebeat.com/technology/arcees-u-s-made-open-source-trinity-large-and-10t-checkpoint-offer-rare-look": {
     "sent_at": "2026-01-30T19:36:14.089630",
     "title": "Arcee's U.S.-made, open source Trinity Large and 10T-checkpoint offer rare look at raw model intelligence",
@@ -423,5 +398,10 @@
     "sent_at": "2026-02-28T13:34:40.915835",
     "title": "Anthropic vs. The Pentagon: what enterprises should do",
     "url": "https://venturebeat.com/technology/anthropic-vs-the-pentagon-what-enterprises-should-do"
+  },
+  "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/": {
+    "sent_at": "2026-03-01T03:42:10.571510",
+    "title": "Trump moves to ban Anthropic from the US government",
+    "url": "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/"
   }
 }
