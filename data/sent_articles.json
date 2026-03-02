@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/technology/arcees-u-s-made-open-source-trinity-large-and-10t-checkpoint-offer-rare-look": {
-    "sent_at": "2026-01-30T19:36:14.089630",
-    "title": "Arcee's U.S.-made, open source Trinity Large and 10T-checkpoint offer rare look at raw model intelligence",
-    "url": "https://venturebeat.com/technology/arcees-u-s-made-open-source-trinity-large-and-10t-checkpoint-offer-rare-look"
-  },
-  "https://venturebeat.com/data/the-trust-paradox-killing-ai-at-scale-76-of-data-leaders-cant-govern-what": {
-    "sent_at": "2026-01-30T19:36:14.089630",
-    "title": "The trust paradox killing AI at scale: 76% of data leaders can't govern what employees already use",
-    "url": "https://venturebeat.com/data/the-trust-paradox-killing-ai-at-scale-76-of-data-leaders-cant-govern-what"
-  },
-  "https://venturebeat.com/security/openclaw-agentic-ai-security-risk-ciso-guide": {
-    "sent_at": "2026-01-31T03:23:25.902020",
-    "title": "OpenClaw proves agentic AI works. It also proves your security model doesn't. 180,000 developers just made that your problem.",
-    "url": "https://venturebeat.com/security/openclaw-agentic-ai-security-risk-ciso-guide"
-  },
   "https://venturebeat.com/orchestration/shared-memory-is-the-missing-layer-in-ai-orchestration": {
     "sent_at": "2026-02-03T03:35:08.422078",
     "title": "Shared memory is the missing layer in AI orchestration",
@@ -408,5 +393,10 @@
     "sent_at": "2026-03-01T19:26:34.445051",
     "title": "What if the real risk of AI isn’t deepfakes — but daily whispers?",
     "url": "https://venturebeat.com/technology/what-if-the-real-risk-of-ai-isnt-deepfakes-but-daily-whispers"
+  },
+  "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/": {
+    "sent_at": "2026-03-02T13:58:56.793610",
+    "title": "I checked out one of the biggest anti-AI protests ever",
+    "url": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/"
   }
 }
