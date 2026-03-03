@@ -413,5 +413,10 @@
     "sent_at": "2026-03-03T03:34:49.148076",
     "title": "Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops",
     "url": "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run"
+  },
+  "https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated": {
+    "sent_at": "2026-03-03T13:57:59.740374",
+    "title": "Endor Labs launches free tool AURI after study finds only 10% of AI-generated code is secure",
+    "url": "https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated"
   }
 }
