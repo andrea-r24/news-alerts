@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/shared-memory-is-the-missing-layer-in-ai-orchestration": {
-    "sent_at": "2026-02-03T03:35:08.422078",
-    "title": "Shared memory is the missing layer in AI orchestration",
-    "url": "https://venturebeat.com/orchestration/shared-memory-is-the-missing-layer-in-ai-orchestration"
-  },
-  "https://venturebeat.com/infrastructure/vercel-rebuilt-v0-to-tackle-the-90-problem-connecting-ai-generated-code-to": {
-    "sent_at": "2026-02-03T14:03:30.174487",
-    "title": "Vercel rebuilt v0 to tackle the 90% problem: Connecting AI-generated code to existing production infrastructure, not prototypes",
-    "url": "https://venturebeat.com/infrastructure/vercel-rebuilt-v0-to-tackle-the-90-problem-connecting-ai-generated-code-to"
-  },
-  "https://venturebeat.com/data/databricks-serverless-database-slashes-app-development-from-months-to-days": {
-    "sent_at": "2026-02-03T19:46:24.915632",
-    "title": "Databricks' serverless database slashes app development from months to days as companies prep for agentic AI",
-    "url": "https://venturebeat.com/data/databricks-serverless-database-slashes-app-development-from-months-to-days"
-  },
-  "https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/": {
-    "sent_at": "2026-02-03T19:46:24.915632",
-    "title": "Senior staff departing OpenAI as firm prioritizes ChatGPT development",
-    "url": "https://arstechnica.com/ai/2026/02/senior-staff-departing-openai-as-firm-prioritizes-chatgpt-development/"
-  },
   "https://venturebeat.com/technology/qwen3-coder-next-offers-vibe-coders-a-powerful-open-source-ultra-sparse": {
     "sent_at": "2026-02-04T03:32:53.370494",
     "title": "Qwen3-Coder-Next offers vibe coders a powerful open source, ultra-sparse model with 10x higher throughput for repo tasks",
@@ -448,5 +428,10 @@
     "sent_at": "2026-03-05T03:30:16.337246",
     "title": "Microsoft built Phi-4-reasoning-vision-15B to know when to think — and when thinking is a waste of time",
     "url": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when"
+  },
+  "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for": {
+    "sent_at": "2026-03-05T19:54:44.731995",
+    "title": "OpenAI launches GPT-5.4 with native computer use mode, financial plugins for Microsoft Excel, Google Sheets",
+    "url": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for"
   }
 }
