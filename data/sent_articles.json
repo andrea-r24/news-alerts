@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/technology/qwen3-coder-next-offers-vibe-coders-a-powerful-open-source-ultra-sparse": {
-    "sent_at": "2026-02-04T03:32:53.370494",
-    "title": "Qwen3-Coder-Next offers vibe coders a powerful open source, ultra-sparse model with 10x higher throughput for repo tasks",
-    "url": "https://venturebeat.com/technology/qwen3-coder-next-offers-vibe-coders-a-powerful-open-source-ultra-sparse"
-  },
-  "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/": {
-    "sent_at": "2026-02-04T03:32:53.370494",
-    "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
-    "url": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/"
-  },
-  "https://venturebeat.com/technology/apple-integrates-anthropics-claude-and-openais-codex-into-xcode-26-3-in-push": {
-    "sent_at": "2026-02-04T03:32:53.370494",
-    "title": "Apple integrates Anthropic’s Claude and OpenAI’s Codex into Xcode 26.3 in push for ‘agentic coding’",
-    "url": "https://venturebeat.com/technology/apple-integrates-anthropics-claude-and-openais-codex-into-xcode-26-3-in-push"
-  },
   "https://venturebeat.com/orchestration/the-brownie-recipe-problem-why-llms-must-have-fine-grained-context-to": {
     "sent_at": "2026-02-04T19:40:39.168997",
     "title": "The ‘brownie recipe problem’: why LLMs must have fine-grained context to deliver real-time results",
@@ -443,5 +428,10 @@
     "sent_at": "2026-03-06T03:27:35.586449",
     "title": "OpenAI introduces GPT-5.4 with more knowledge-work capability",
     "url": "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/"
+  },
+  "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/": {
+    "sent_at": "2026-03-06T13:53:18.368002",
+    "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+    "url": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/"
   }
 }
