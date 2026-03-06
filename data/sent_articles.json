@@ -433,5 +433,15 @@
     "sent_at": "2026-03-05T19:54:44.731995",
     "title": "OpenAI launches GPT-5.4 with native computer use mode, financial plugins for Microsoft Excel, Google Sheets",
     "url": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for"
+  },
+  "https://venturebeat.com/orchestration/google-workspace-cli-brings-gmail-docs-sheets-and-more-into-a-common": {
+    "sent_at": "2026-03-06T03:27:35.586449",
+    "title": "Google Workspace CLI brings Gmail, Docs, Sheets and more into a common interface for AI agents",
+    "url": "https://venturebeat.com/orchestration/google-workspace-cli-brings-gmail-docs-sheets-and-more-into-a-common"
+  },
+  "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/": {
+    "sent_at": "2026-03-06T03:27:35.586449",
+    "title": "OpenAI introduces GPT-5.4 with more knowledge-work capability",
+    "url": "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/"
   }
 }
