@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/the-brownie-recipe-problem-why-llms-must-have-fine-grained-context-to": {
-    "sent_at": "2026-02-04T19:40:39.168997",
-    "title": "The ‘brownie recipe problem’: why LLMs must have fine-grained context to deliver real-time results",
-    "url": "https://venturebeat.com/orchestration/the-brownie-recipe-problem-why-llms-must-have-fine-grained-context-to"
-  },
   "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/": {
     "sent_at": "2026-02-05T03:33:50.913953",
     "title": "Should AI chatbots have ads? Anthropic says no.",
@@ -433,5 +428,30 @@
     "sent_at": "2026-03-06T13:53:18.368002",
     "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
     "url": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/"
+  },
+  "https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude": {
+    "sent_at": "2026-03-07T03:18:58.568764",
+    "title": "Anthropic launches Claude Marketplace, giving enterprises access to Claude-powered tools from Replit, GitLab, Harvey and more",
+    "url": "https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude"
+  },
+  "https://venturebeat.com/orchestration/langchains-ceo-argues-that-better-models-alone-wont-get-your-ai-agent-to": {
+    "sent_at": "2026-03-07T03:18:58.568764",
+    "title": "LangChain's CEO argues that better models alone won't get your AI agent to production",
+    "url": "https://venturebeat.com/orchestration/langchains-ceo-argues-that-better-models-alone-wont-get-your-ai-agent-to"
+  },
+  "https://venturebeat.com/orchestration/new-kv-cache-compaction-technique-cuts-llm-memory-50x-without-accuracy-loss": {
+    "sent_at": "2026-03-07T03:18:58.568764",
+    "title": "New KV cache compaction technique cuts LLM memory 50x without accuracy loss",
+    "url": "https://venturebeat.com/orchestration/new-kv-cache-compaction-technique-cuts-llm-memory-50x-without-accuracy-loss"
+  },
+  "https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for": {
+    "sent_at": "2026-03-07T03:18:58.568764",
+    "title": "Google PM open-sources Always On Memory Agent, ditching vector databases for LLM-driven persistent memory",
+    "url": "https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for"
+  },
+  "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/": {
+    "sent_at": "2026-03-07T03:18:58.568764",
+    "title": "Is the Pentagon allowed to surveil Americans with AI?",
+    "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/"
   }
 }
