@@ -1,69 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/": {
-    "sent_at": "2026-02-05T03:33:50.913953",
-    "title": "Should AI chatbots have ads? Anthropic says no.",
-    "url": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/"
-  },
-  "https://venturebeat.com/technology/mistral-drops-voxtral-transcribe-2-an-open-source-speech-model-that-runs-on": {
-    "sent_at": "2026-02-05T03:33:50.913953",
-    "title": "Mistral drops Voxtral Transcribe 2, an open-source speech model that runs on-device for pennies",
-    "url": "https://venturebeat.com/technology/mistral-drops-voxtral-transcribe-2-an-open-source-speech-model-that-runs-on"
-  },
-  "https://venturebeat.com/orchestration/kilo-cli-1-0-brings-open-source-vibe-coding-to-your-terminal-with-support": {
-    "sent_at": "2026-02-05T03:33:50.913953",
-    "title": "Kilo CLI 1.0 brings open source vibe coding to your terminal with support for 500+ models",
-    "url": "https://venturebeat.com/orchestration/kilo-cli-1-0-brings-open-source-vibe-coding-to-your-terminal-with-support"
-  },
-  "https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/": {
-    "sent_at": "2026-02-05T14:04:43.218797",
-    "title": "The Download: attempting to track AI, and the next generation of nuclear power",
-    "url": "https://www.technologyreview.com/2026/02/05/1132270/the-download-attempting-to-track-ai-and-the-next-generation-of-nuclear-power/"
-  },
-  "https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/": {
-    "sent_at": "2026-02-05T14:04:43.218797",
-    "title": "This is the most misunderstood graph in AI",
-    "url": "https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-misunderstood-graph-in-ai/"
-  },
-  "https://venturebeat.com/technology/openais-gpt-5-3-codex-drops-as-anthropic-upgrades-claude-ai-coding-wars-heat": {
-    "sent_at": "2026-02-05T19:39:29.292844",
-    "title": "OpenAI’s GPT-5.3-Codex drops as Anthropic upgrades Claude — AI coding wars heat up ahead of Super Bowl ads",
-    "url": "https://venturebeat.com/technology/openais-gpt-5-3-codex-drops-as-anthropic-upgrades-claude-ai-coding-wars-heat"
-  },
-  "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/": {
-    "sent_at": "2026-02-05T19:39:29.292844",
-    "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
-    "url": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/"
-  },
-  "https://venturebeat.com/technology/anthropics-claude-opus-4-6-brings-1m-token-context-and-agent-teams-to-take": {
-    "sent_at": "2026-02-05T19:39:29.292844",
-    "title": "Anthropic's Claude Opus 4.6 brings 1M token context and 'agent teams' to take on OpenAI's Codex",
-    "url": "https://venturebeat.com/technology/anthropics-claude-opus-4-6-brings-1m-token-context-and-agent-teams-to-take"
-  },
-  "https://venturebeat.com/technology/fundamental-emerges-from-stealth-with-first-major-foundation-model-trained": {
-    "sent_at": "2026-02-05T19:39:29.292844",
-    "title": "Beyond the lakehouse: Fundamental's NEXUS bypasses manual ETL with a native foundation model for tabular data",
-    "url": "https://venturebeat.com/technology/fundamental-emerges-from-stealth-with-first-major-foundation-model-trained"
-  },
-  "https://venturebeat.com/security/recruitment-fraud-cloud-iam-2-billion-attack-surface": {
-    "sent_at": "2026-02-06T03:32:24.039949",
-    "title": "How recruitment fraud turned cloud IAM into a $2 billion attack surface",
-    "url": "https://venturebeat.com/security/recruitment-fraud-cloud-iam-2-billion-attack-surface"
-  },
-  "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/": {
-    "sent_at": "2026-02-06T03:32:24.039949",
-    "title": "AI companies want you to stop chatting with bots and start managing them",
-    "url": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/"
-  },
-  "https://venturebeat.com/infrastructure/ttt-discover-optimizes-gpu-kernels-2x-faster-than-human-experts-by-training": {
-    "sent_at": "2026-02-06T03:32:24.039949",
-    "title": "TTT-Discover optimizes GPU kernels 2x faster than human experts — by training during inference",
-    "url": "https://venturebeat.com/infrastructure/ttt-discover-optimizes-gpu-kernels-2x-faster-than-human-experts-by-training"
-  },
-  "https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/": {
-    "sent_at": "2026-02-06T03:32:24.039949",
-    "title": "With GPT-5.3-Codex, OpenAI pitches Codex for more than just writing code",
-    "url": "https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/"
-  },
   "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/": {
     "sent_at": "2026-02-06T19:39:49.862242",
     "title": "Moltbook was peak AI theater",
@@ -453,5 +388,10 @@
     "sent_at": "2026-03-07T03:18:58.568764",
     "title": "Is the Pentagon allowed to surveil Americans with AI?",
     "url": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/"
+  },
+  "https://venturebeat.com/technology/dynamic-ui-for-dynamic-ai-inside-the-emerging-a2ui-model": {
+    "sent_at": "2026-03-08T19:27:52.630606",
+    "title": "Dynamic UI for dynamic AI: Inside the emerging A2UI model",
+    "url": "https://venturebeat.com/technology/dynamic-ui-for-dynamic-ai-inside-the-emerging-a2ui-model"
   }
 }
