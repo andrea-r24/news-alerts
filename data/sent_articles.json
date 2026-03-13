@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/openai-upgrades-its-responses-api-to-support-agent-skills-and-a-complete": {
-    "sent_at": "2026-02-11T03:49:05.173890",
-    "title": "OpenAI upgrades its Responses API to support agent skills and a complete terminal shell",
-    "url": "https://venturebeat.com/orchestration/openai-upgrades-its-responses-api-to-support-agent-skills-and-a-complete"
-  },
-  "https://venturebeat.com/data/observational-memory-cuts-ai-agent-costs-10x-and-outscores-rag-on-long": {
-    "sent_at": "2026-02-11T03:49:05.173890",
-    "title": "'Observational memory' cuts AI agent costs 10x and outscores RAG on long-context benchmarks",
-    "url": "https://venturebeat.com/data/observational-memory-cuts-ai-agent-costs-10x-and-outscores-rag-on-long"
-  },
   "https://venturebeat.com/orchestration/nanoclaw-solves-one-of-openclaws-biggest-security-issues-and-its-already": {
     "sent_at": "2026-02-11T19:56:01.559442",
     "title": "NanoClaw solves one of OpenClaw's biggest security issues — and it's already powering the creator's biz",
@@ -438,5 +428,10 @@
     "sent_at": "2026-03-13T03:29:51.766455",
     "title": "Agents need vector search more than RAG ever did",
     "url": "https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right"
+  },
+  "https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises": {
+    "sent_at": "2026-03-13T13:58:44.764845",
+    "title": "NanoClaw and Docker partner to make sandboxes the safest way for enterprises to deploy AI agents",
+    "url": "https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises"
   }
 }
