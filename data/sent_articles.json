@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/infrastructure/nvidia-groq-and-the-limestone-race-to-real-time-ai-why-enterprises-win-or": {
-    "sent_at": "2026-02-15T19:30:29.571208",
-    "title": "Nvidia, Groq and the limestone race to real-time AI: Why enterprises win or lose here",
-    "url": "https://venturebeat.com/infrastructure/nvidia-groq-and-the-limestone-race-to-real-time-ai-why-enterprises-win-or"
-  },
   "https://venturebeat.com/security/machine-identities-missing-link-ransomware-playbooks": {
     "sent_at": "2026-02-16T19:34:52.165385",
     "title": "Most ransomware playbooks don't address machine credentials. Attackers know it.",
@@ -418,5 +413,15 @@
     "sent_at": "2026-03-17T14:17:16.082017",
     "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
     "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
+  },
+  "https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai": {
+    "sent_at": "2026-03-17T19:54:57.013889",
+    "title": "The authorization problem that could break enterprise AI",
+    "url": "https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai"
+  },
+  "https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework": {
+    "sent_at": "2026-03-17T19:54:57.013889",
+    "title": "Nvidia's agentic AI stack is the first major platform to ship with security at launch, but governance gaps remain",
+    "url": "https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework"
   }
 }
