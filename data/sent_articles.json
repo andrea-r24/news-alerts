@@ -398,5 +398,20 @@
     "sent_at": "2026-03-16T19:53:26.684072",
     "title": "OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert",
     "url": "https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert"
+  },
+  "https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic": {
+    "sent_at": "2026-03-17T03:35:02.391132",
+    "title": "Nvidia introduces Vera Rubin, a seven-chip AI platform with OpenAI, Anthropic and Meta on board",
+    "url": "https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic"
+  },
+  "https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the": {
+    "sent_at": "2026-03-17T03:35:02.391132",
+    "title": "Nvidia BlueField-4 STX adds a context memory layer to storage to close the agentic AI throughput gap",
+    "url": "https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the"
+  },
+  "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter": {
+    "sent_at": "2026-03-17T03:35:02.391132",
+    "title": "Nvidia's DGX Station is a desktop supercomputer that runs trillion-parameter AI models without the cloud",
+    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter"
   }
 }
