@@ -423,5 +423,20 @@
     "sent_at": "2026-03-17T19:54:57.013889",
     "title": "Nvidia's agentic AI stack is the first major platform to ship with security at launch, but governance gaps remain",
     "url": "https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework"
+  },
+  "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly": {
+    "sent_at": "2026-03-18T03:41:46.725762",
+    "title": "Open source Mamba 3 arrives to surpass Transformer architecture with nearly 4% improved language modeling, reduced latency",
+    "url": "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly"
+  },
+  "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/": {
+    "sent_at": "2026-03-18T03:41:46.725762",
+    "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+    "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
+  },
+  "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models": {
+    "sent_at": "2026-03-18T03:41:46.725762",
+    "title": "Mistral AI launches Forge to help companies build proprietary AI models, challenging cloud giants",
+    "url": "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models"
   }
 }
