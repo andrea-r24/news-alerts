@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/qodo-2-1-solves-your-coding-agents-amnesia-problem-giving-them-an-11": {
-    "sent_at": "2026-02-17T14:06:00.376575",
-    "title": "Qodo 2.1 solves your coding agents' 'amnesia' problem, giving them an 11% precision boost",
-    "url": "https://venturebeat.com/orchestration/qodo-2-1-solves-your-coding-agents-amnesia-problem-giving-them-an-11"
-  },
-  "https://venturebeat.com/data/surrealdb-3-0-wants-to-replace-your-five-database-rag-stack-with-one": {
-    "sent_at": "2026-02-17T14:06:00.376575",
-    "title": "SurrealDB 3.0 wants to replace your five-database RAG stack with one",
-    "url": "https://venturebeat.com/data/surrealdb-3-0-wants-to-replace-your-five-database-rag-stack-with-one"
-  },
   "https://venturebeat.com/technology/anthropics-sonnet-4-6-matches-flagship-ai-performance-at-one-fifth-the-cost": {
     "sent_at": "2026-02-17T19:49:23.945420",
     "title": "Anthropic's Sonnet 4.6 matches flagship AI performance at one-fifth the cost, accelerating enterprise adoption",
@@ -448,5 +438,15 @@
     "sent_at": "2026-03-19T03:41:27.026769",
     "title": "Xiaomi stuns with new MiMo-V2-Pro LLM nearing GPT-5.2, Opus 4.6 performance at a fraction of the cost",
     "url": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance"
+  },
+  "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix": {
+    "sent_at": "2026-03-19T19:49:06.028931",
+    "title": "Meta's rogue AI agent passed every identity check — four gaps in enterprise IAM explain why",
+    "url": "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix"
+  },
+  "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/": {
+    "sent_at": "2026-03-19T19:49:06.028931",
+    "title": "OpenAI is acquiring open source Python tool-maker Astral",
+    "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/"
   }
 }
