@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/technology/anthropics-sonnet-4-6-matches-flagship-ai-performance-at-one-fifth-the-cost": {
-    "sent_at": "2026-02-17T19:49:23.945420",
-    "title": "Anthropic's Sonnet 4.6 matches flagship AI performance at one-fifth the cost, accelerating enterprise adoption",
-    "url": "https://venturebeat.com/technology/anthropics-sonnet-4-6-matches-flagship-ai-performance-at-one-fifth-the-cost"
-  },
-  "https://venturebeat.com/technology/openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the": {
-    "sent_at": "2026-02-17T19:49:23.945420",
-    "title": "OpenAI's acquisition of OpenClaw signals the beginning of the end of the ChatGPT era",
-    "url": "https://venturebeat.com/technology/openais-acquisition-of-openclaw-signals-the-beginning-of-the-end-of-the"
-  },
   "https://venturebeat.com/technology/alibabas-qwen-3-5-397b-a17-beats-its-larger-trillion-parameter-model-at-a": {
     "sent_at": "2026-02-18T19:50:35.595166",
     "title": "Alibaba's Qwen 3.5 397B-A17 beats its larger trillion-parameter model — at a fraction of the cost",
@@ -448,5 +438,20 @@
     "sent_at": "2026-03-19T19:49:06.028931",
     "title": "OpenAI is acquiring open source Python tool-maker Astral",
     "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/"
+  },
+  "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels": {
+    "sent_at": "2026-03-20T03:31:22.884131",
+    "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord",
+    "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels"
+  },
+  "https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-with-tools-that-know-their-users": {
+    "sent_at": "2026-03-20T03:31:22.884131",
+    "title": "Why enterprises are replacing generic AI with tools that know their users",
+    "url": "https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-with-tools-that-know-their-users"
+  },
+  "https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but": {
+    "sent_at": "2026-03-20T03:31:22.884131",
+    "title": "Cursor’s new coding model Composer 2 is here: It beats Claude Opus 4.6 but still trails GPT-5.4",
+    "url": "https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but"
   }
 }
