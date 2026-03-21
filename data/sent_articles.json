@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/technology/alibabas-qwen-3-5-397b-a17-beats-its-larger-trillion-parameter-model-at-a": {
-    "sent_at": "2026-02-18T19:50:35.595166",
-    "title": "Alibaba's Qwen 3.5 397B-A17 beats its larger trillion-parameter model — at a fraction of the cost",
-    "url": "https://venturebeat.com/technology/alibabas-qwen-3-5-397b-a17-beats-its-larger-trillion-parameter-model-at-a"
-  },
-  "https://venturebeat.com/infrastructure/when-accurate-ai-is-still-dangerously-incomplete": {
-    "sent_at": "2026-02-18T19:50:35.595166",
-    "title": "When accurate AI is still dangerously incomplete",
-    "url": "https://venturebeat.com/infrastructure/when-accurate-ai-is-still-dangerously-incomplete"
-  },
   "https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero": {
     "sent_at": "2026-02-19T03:38:30.759503",
     "title": "New agent framework matches human-engineered AI systems — and adds zero inference cost to deploy",
@@ -468,5 +458,10 @@
     "sent_at": "2026-03-20T19:39:02.301994",
     "title": "Scale AI launches Voice Showdown, the first real-world benchmark for voice AI — and the results are humbling for some top models",
     "url": "https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai"
+  },
+  "https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world": {
+    "sent_at": "2026-03-21T03:23:14.428687",
+    "title": "Three ways AI is learning to understand the physical world",
+    "url": "https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world"
   }
 }
