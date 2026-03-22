@@ -1,34 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero": {
-    "sent_at": "2026-02-19T03:38:30.759503",
-    "title": "New agent framework matches human-engineered AI systems — and adds zero inference cost to deploy",
-    "url": "https://venturebeat.com/orchestration/new-agent-framework-matches-human-engineered-ai-systems-and-adds-zero"
-  },
-  "https://venturebeat.com/data/the-last-mile-data-problem-is-stalling-enterprise-agentic-ai-golden": {
-    "sent_at": "2026-02-19T14:07:36.554151",
-    "title": "The 'last-mile' data problem is stalling enterprise agentic AI — 'golden pipelines' aim to fix it",
-    "url": "https://venturebeat.com/data/the-last-mile-data-problem-is-stalling-enterprise-agentic-ai-golden"
-  },
-  "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/": {
-    "sent_at": "2026-02-19T14:07:36.554151",
-    "title": "What it takes to make agentic AI work in retail",
-    "url": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/"
-  },
-  "https://venturebeat.com/technology/google-launches-gemini-3-1-pro-retaking-ai-crown-with-2x-reasoning": {
-    "sent_at": "2026-02-19T19:41:30.333792",
-    "title": "Google launches Gemini 3.1 Pro, retaking AI crown with 2X+ reasoning performance boost",
-    "url": "https://venturebeat.com/technology/google-launches-gemini-3-1-pro-retaking-ai-crown-with-2x-reasoning"
-  },
-  "https://arstechnica.com/ai/2026/02/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use/": {
-    "sent_at": "2026-02-19T19:41:30.333792",
-    "title": "OpenClaw security fears lead Meta, other AI firms to restrict its use",
-    "url": "https://arstechnica.com/ai/2026/02/openclaw-security-fears-lead-meta-other-ai-firms-to-restrict-its-use/"
-  },
-  "https://venturebeat.com/technology/google-gemini-3-1-pro-first-impressions-a-deep-think-mini-with-adjustable": {
-    "sent_at": "2026-02-20T03:33:48.643543",
-    "title": "Google Gemini 3.1 Pro first impressions: a 'Deep Think Mini' with adjustable reasoning on demand",
-    "url": "https://venturebeat.com/technology/google-gemini-3-1-pro-first-impressions-a-deep-think-mini-with-adjustable"
-  },
   "https://venturebeat.com/orchestration/runlayer-is-now-offering-secure-openclaw-agentic-capabilities-for-large": {
     "sent_at": "2026-02-21T03:24:44.072804",
     "title": "Runlayer is now offering secure OpenClaw agentic capabilities for large enterprises",
@@ -463,5 +433,10 @@
     "sent_at": "2026-03-21T03:23:14.428687",
     "title": "Three ways AI is learning to understand the physical world",
     "url": "https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world"
+  },
+  "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace": {
+    "sent_at": "2026-03-22T19:30:40.247393",
+    "title": "Testing autonomous agents (Or: how I learned to stop worrying and embrace chaos)",
+    "url": "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace"
   }
 }
