@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/runlayer-is-now-offering-secure-openclaw-agentic-capabilities-for-large": {
-    "sent_at": "2026-02-21T03:24:44.072804",
-    "title": "Runlayer is now offering secure OpenClaw agentic capabilities for large enterprises",
-    "url": "https://venturebeat.com/orchestration/runlayer-is-now-offering-secure-openclaw-agentic-capabilities-for-large"
-  },
   "https://venturebeat.com/orchestration/researchers-baked-3x-inference-speedups-directly-into-llm-weights-without": {
     "sent_at": "2026-02-23T19:58:27.212921",
     "title": "Researchers baked 3x inference speedups directly into LLM weights — without speculative decoding",
@@ -438,5 +433,15 @@
     "sent_at": "2026-03-22T19:30:40.247393",
     "title": "Testing autonomous agents (Or: how I learned to stop worrying and embrace chaos)",
     "url": "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace"
+  },
+  "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more": {
+    "sent_at": "2026-03-23T19:50:22.732511",
+    "title": "You thought the generalist was dead — in the 'vibe work' era, they're more important than ever",
+    "url": "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more"
+  },
+  "https://venturebeat.com/orchestration/the-three-disciplines-separating-ai-agent-demos-from-real-world-deployment": {
+    "sent_at": "2026-03-23T19:50:22.732511",
+    "title": "The three disciplines separating AI agent demos from real-world deployment",
+    "url": "https://venturebeat.com/orchestration/the-three-disciplines-separating-ai-agent-demos-from-real-world-deployment"
   }
 }
