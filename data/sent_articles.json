@@ -458,5 +458,25 @@
     "sent_at": "2026-03-24T14:17:52.437330",
     "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
     "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
+  },
+  "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x": {
+    "sent_at": "2026-03-24T19:53:58.727193",
+    "title": "Cloudflare’s new Dynamic Workers ditch containers to run AI agent code 100x faster",
+    "url": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x"
+  },
+  "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/": {
+    "sent_at": "2026-03-24T19:53:58.727193",
+    "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+    "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/"
+  },
+  "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/": {
+    "sent_at": "2026-03-24T19:53:58.727193",
+    "title": "Claude Code can now take over your computer to complete tasks",
+    "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/"
+  },
+  "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task": {
+    "sent_at": "2026-03-24T19:53:58.727193",
+    "title": "Ai2 releases MolmoWeb, an open-weight visual web agent with 30K human task trajectories and a full training stack",
+    "url": "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task"
   }
 }
