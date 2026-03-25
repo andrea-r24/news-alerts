@@ -478,5 +478,20 @@
     "sent_at": "2026-03-24T19:53:58.727193",
     "title": "Ai2 releases MolmoWeb, an open-weight visual web agent with 30K human task trajectories and a full training stack",
     "url": "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task"
+  },
+  "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app": {
+    "sent_at": "2026-03-25T03:38:53.037042",
+    "title": "OpenAI is shutting down Sora, its powerful AI video model, app and API",
+    "url": "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app"
+  },
+  "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/": {
+    "sent_at": "2026-03-25T03:38:53.037042",
+    "title": "OpenAI announces plans to shut down its Sora video generator",
+    "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/"
+  },
+  "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai": {
+    "sent_at": "2026-03-25T03:38:53.037042",
+    "title": "Anthropic’s Claude can now control your Mac, escalating the fight to build AI agents that actually do work",
+    "url": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai"
   }
 }
