@@ -503,5 +503,20 @@
     "sent_at": "2026-03-25T14:17:19.201201",
     "title": "The AI Hype Index: AI goes to war",
     "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/"
+  },
+  "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50": {
+    "sent_at": "2026-03-25T19:48:39.905367",
+    "title": "Google's new TurboQuant algorithm speeds up AI memory 8x, cutting costs by 50% or more",
+    "url": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50"
+  },
+  "https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single": {
+    "sent_at": "2026-03-25T19:48:39.905367",
+    "title": "Oracle converges the AI data stack to give enterprise agents a single version of truth",
+    "url": "https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single"
+  },
+  "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/": {
+    "sent_at": "2026-03-25T19:48:39.905367",
+    "title": "Disney cancels $1 billion OpenAI partnership amid Sora shutdown plans",
+    "url": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/"
   }
 }
