@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/researchers-baked-3x-inference-speedups-directly-into-llm-weights-without": {
-    "sent_at": "2026-02-23T19:58:27.212921",
-    "title": "Researchers baked 3x inference speedups directly into LLM weights — without speculative decoding",
-    "url": "https://venturebeat.com/orchestration/researchers-baked-3x-inference-speedups-directly-into-llm-weights-without"
-  },
-  "https://venturebeat.com/security/anthropic-claude-code-security-reasoning-vulnerability-hunting": {
-    "sent_at": "2026-02-23T19:58:27.212921",
-    "title": "Anthropic's Claude Code Security is available now after finding 500+ vulnerabilities: how security leaders should respond",
-    "url": "https://venturebeat.com/security/anthropic-claude-code-security-reasoning-vulnerability-hunting"
-  },
-  "https://venturebeat.com/orchestration/google-clamps-down-on-antigravity-malicious-usage-cutting-off-openclaw-users": {
-    "sent_at": "2026-02-24T03:37:26.335287",
-    "title": "Google clamps down on Antigravity 'malicious usage', cutting off OpenClaw users in sweeping ToS enforcement move",
-    "url": "https://venturebeat.com/orchestration/google-clamps-down-on-antigravity-malicious-usage-cutting-off-openclaw-users"
-  },
-  "https://venturebeat.com/technology/anthropic-says-deepseek-moonshot-and-minimax-used-24-000-fake-accounts-to": {
-    "sent_at": "2026-02-24T03:37:26.335287",
-    "title": "Anthropic says DeepSeek, Moonshot, and MiniMax used 24,000 fake accounts to rip off Claude",
-    "url": "https://venturebeat.com/technology/anthropic-says-deepseek-moonshot-and-minimax-used-24-000-fake-accounts-to"
-  },
   "https://venturebeat.com/orchestration/kilo-launches-kiloclaw-allowing-anyone-to-deploy-hosted-openclaw-agents-into": {
     "sent_at": "2026-02-24T19:49:47.174035",
     "title": "Kilo launches KiloClaw, allowing anyone to deploy hosted OpenClaw agents into production in 60 seconds",
@@ -518,5 +498,10 @@
     "sent_at": "2026-03-25T19:48:39.905367",
     "title": "Disney cancels $1 billion OpenAI partnership amid Sora shutdown plans",
     "url": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/"
+  },
+  "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and": {
+    "sent_at": "2026-03-26T14:23:50.936047",
+    "title": "Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free",
+    "url": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and"
   }
 }
