@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/kilo-launches-kiloclaw-allowing-anyone-to-deploy-hosted-openclaw-agents-into": {
-    "sent_at": "2026-02-24T19:49:47.174035",
-    "title": "Kilo launches KiloClaw, allowing anyone to deploy hosted OpenClaw agents into production in 60 seconds",
-    "url": "https://venturebeat.com/orchestration/kilo-launches-kiloclaw-allowing-anyone-to-deploy-hosted-openclaw-agents-into"
-  },
   "https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote": {
     "sent_at": "2026-02-25T03:37:22.176580",
     "title": "Anthropic just released a mobile version of Claude Code called Remote Control",
@@ -503,5 +498,15 @@
     "sent_at": "2026-03-26T14:23:50.936047",
     "title": "Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free",
     "url": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and"
+  },
+  "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/": {
+    "sent_at": "2026-03-26T19:55:41.804088",
+    "title": "OpenAI “indefinitely” shelves plans for erotic ChatGPT",
+    "url": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/"
+  },
+  "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6": {
+    "sent_at": "2026-03-26T19:55:41.804088",
+    "title": "Intercom's new post-trained Fin Apex 1.0 beats GPT-5.4 and Claude Sonnet 4.6 at customer service resolutions",
+    "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6"
   }
 }
