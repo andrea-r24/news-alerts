@@ -1,44 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote": {
-    "sent_at": "2026-02-25T03:37:22.176580",
-    "title": "Anthropic just released a mobile version of Claude Code called Remote Control",
-    "url": "https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote"
-  },
-  "https://venturebeat.com/orchestration/anthropic-says-claude-code-transformed-programming-now-claude-cowork-is": {
-    "sent_at": "2026-02-25T03:37:22.176580",
-    "title": "Anthropic says Claude Code transformed programming. Now Claude Cowork is coming for the rest of the enterprise.",
-    "url": "https://venturebeat.com/orchestration/anthropic-says-claude-code-transformed-programming-now-claude-cowork-is"
-  },
-  "https://venturebeat.com/technology/the-era-of-human-web-search-is-over-nimble-launches-agentic-search-platform": {
-    "sent_at": "2026-02-25T03:37:22.176580",
-    "title": "The era of human web search is over: Nimble launches Agentic Search Platform for enterprises boasting 99% accuracy",
-    "url": "https://venturebeat.com/technology/the-era-of-human-web-search-is-over-nimble-launches-agentic-search-platform"
-  },
-  "https://venturebeat.com/technology/ibms-usd40b-stock-wipeout-is-built-on-a-misconception-translating-cobol-isnt": {
-    "sent_at": "2026-02-25T03:37:22.176580",
-    "title": "IBM's $40B stock wipeout is built on a misconception: Translating COBOL isn't the same as modernizing it",
-    "url": "https://venturebeat.com/technology/ibms-usd40b-stock-wipeout-is-built-on-a-misconception-translating-cobol-isnt"
-  },
-  "https://venturebeat.com/orchestration/visual-imitation-learning-guidde-trains-ai-agents-on-human-expert-video": {
-    "sent_at": "2026-02-25T19:50:31.282802",
-    "title": "Visual imitation learning: Guidde trains AI agents on human 'expert video' instead of documentation",
-    "url": "https://venturebeat.com/orchestration/visual-imitation-learning-guidde-trains-ai-agents-on-human-expert-video"
-  },
-  "https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/": {
-    "sent_at": "2026-02-25T19:50:31.282802",
-    "title": "Pete Hegseth tells Anthropic to fall in line with DoD desires, or else",
-    "url": "https://arstechnica.com/ai/2026/02/pete-hegseth-wants-unfettered-access-to-anthropics-models-for-the-military/"
-  },
-  "https://venturebeat.com/orchestration/8-billion-tokens-a-day-forced-at-and-t-to-rethink-ai-orchestration-and-cut": {
-    "sent_at": "2026-02-26T03:34:20.539983",
-    "title": "8 billion tokens a day forced AT&T to rethink AI orchestration — and cut costs by 90%",
-    "url": "https://venturebeat.com/orchestration/8-billion-tokens-a-day-forced-at-and-t-to-rethink-ai-orchestration-and-cut"
-  },
-  "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/": {
-    "sent_at": "2026-02-26T03:34:20.539983",
-    "title": "Musk has no proof OpenAI stole xAI trade secrets, judge rules, tossing lawsuit",
-    "url": "https://arstechnica.com/tech-policy/2026/02/judge-xai-cant-claim-openai-stole-trade-secrets-just-by-hiring-ex-staffers/"
-  },
   "https://venturebeat.com/orchestration/servicenow-resolves-90-of-its-own-it-requests-autonomously-now-it-wants-to": {
     "sent_at": "2026-02-26T14:08:28.669314",
     "title": "ServiceNow resolves 90% of its own IT requests autonomously. Now it wants to do the same for any enterprise",
@@ -508,5 +468,15 @@
     "sent_at": "2026-03-26T19:55:41.804088",
     "title": "Intercom's new post-trained Fin Apex 1.0 beats GPT-5.4 and Claude Sonnet 4.6 at customer service resolutions",
     "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6"
+  },
+  "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/": {
+    "sent_at": "2026-03-28T03:38:18.657081",
+    "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
+    "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/"
+  },
+  "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/": {
+    "sent_at": "2026-03-28T03:38:18.657081",
+    "title": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
+    "url": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/"
   }
 }
