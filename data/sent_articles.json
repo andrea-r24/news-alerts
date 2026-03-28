@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/servicenow-resolves-90-of-its-own-it-requests-autonomously-now-it-wants-to": {
-    "sent_at": "2026-02-26T14:08:28.669314",
-    "title": "ServiceNow resolves 90% of its own IT requests autonomously. Now it wants to do the same for any enterprise",
-    "url": "https://venturebeat.com/orchestration/servicenow-resolves-90-of-its-own-it-requests-autonomously-now-it-wants-to"
-  },
   "https://venturebeat.com/security/claude-mexico-breach-four-blind-domains-security-stack": {
     "sent_at": "2026-02-26T19:45:34.316881",
     "title": "Claude didn't just plan an attack on Mexico's government. It executed one for a month — across four domains your security stack can't see.",
@@ -478,5 +473,10 @@
     "sent_at": "2026-03-28T03:38:18.657081",
     "title": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
     "url": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/"
+  },
+  "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount": {
+    "sent_at": "2026-03-28T19:33:44.541811",
+    "title": "When AI turns software development inside-out: 170% throughput at 80% headcount",
+    "url": "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount"
   }
 }
