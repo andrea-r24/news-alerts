@@ -1,34 +1,4 @@
 {
-  "https://venturebeat.com/security/claude-mexico-breach-four-blind-domains-security-stack": {
-    "sent_at": "2026-02-26T19:45:34.316881",
-    "title": "Claude didn't just plan an attack on Mexico's government. It executed one for a month — across four domains your security stack can't see.",
-    "url": "https://venturebeat.com/security/claude-mexico-breach-four-blind-domains-security-stack"
-  },
-  "https://venturebeat.com/orchestration/jack-dorseys-block-cuts-40-of-staff-4-000-people-and-yes-its-because-of-ai": {
-    "sent_at": "2026-02-27T03:31:07.551537",
-    "title": "Jack Dorsey's Block cuts 40% of staff, 4,000+ people — and yes, it's because of AI efficiencies",
-    "url": "https://venturebeat.com/orchestration/jack-dorseys-block-cuts-40-of-staff-4-000-people-and-yes-its-because-of-ai"
-  },
-  "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/": {
-    "sent_at": "2026-02-27T03:31:07.551537",
-    "title": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents",
-    "url": "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/"
-  },
-  "https://venturebeat.com/technology/googles-opal-just-quietly-showed-enterprise-teams-the-new-blueprint-for": {
-    "sent_at": "2026-02-28T03:10:43.881156",
-    "title": "Google's Opal just quietly showed enterprise teams the new blueprint for building AI agents",
-    "url": "https://venturebeat.com/technology/googles-opal-just-quietly-showed-enterprise-teams-the-new-blueprint-for"
-  },
-  "https://venturebeat.com/orchestration/openais-big-investment-from-aws-comes-with-something-else-new-stateful": {
-    "sent_at": "2026-02-28T03:10:43.881156",
-    "title": "OpenAI's big investment from AWS comes with something else: new 'stateful' architecture for enterprise agents",
-    "url": "https://venturebeat.com/orchestration/openais-big-investment-from-aws-comes-with-something-else-new-stateful"
-  },
-  "https://venturebeat.com/technology/anthropic-vs-the-pentagon-what-enterprises-should-do": {
-    "sent_at": "2026-02-28T13:34:40.915835",
-    "title": "Anthropic vs. The Pentagon: what enterprises should do",
-    "url": "https://venturebeat.com/technology/anthropic-vs-the-pentagon-what-enterprises-should-do"
-  },
   "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/": {
     "sent_at": "2026-03-01T03:42:10.571510",
     "title": "Trump moves to ban Anthropic from the US government",
@@ -478,5 +448,20 @@
     "sent_at": "2026-03-28T19:33:44.541811",
     "title": "When AI turns software development inside-out: 170% throughput at 80% headcount",
     "url": "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount"
+  },
+  "https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps": {
+    "sent_at": "2026-03-30T19:56:56.199931",
+    "title": "RSAC 2026 shipped five agent identity frameworks and left three critical gaps open",
+    "url": "https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps"
+  },
+  "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace": {
+    "sent_at": "2026-03-30T19:56:56.199931",
+    "title": "Cohere's open-weight ASR model hits 5.4% word error rate — low enough to replace speech APIs in production pipelines",
+    "url": "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace"
+  },
+  "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/": {
+    "sent_at": "2026-03-30T19:56:56.199931",
+    "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+    "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
   }
 }
