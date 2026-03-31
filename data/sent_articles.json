@@ -1,9 +1,4 @@
 {
-  "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/": {
-    "sent_at": "2026-03-01T03:42:10.571510",
-    "title": "Trump moves to ban Anthropic from the US government",
-    "url": "https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/"
-  },
   "https://venturebeat.com/technology/what-if-the-real-risk-of-ai-isnt-deepfakes-but-daily-whispers": {
     "sent_at": "2026-03-01T19:26:34.445051",
     "title": "What if the real risk of AI isn’t deepfakes — but daily whispers?",
@@ -463,5 +458,10 @@
     "sent_at": "2026-03-30T19:56:56.199931",
     "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
     "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
+  },
+  "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to": {
+    "sent_at": "2026-03-31T03:51:02.089339",
+    "title": "Midjourney engineer debuts new vibe coded, open source standard Pretext to revolutionize web design",
+    "url": "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to"
   }
 }
