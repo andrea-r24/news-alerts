@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/technology/what-if-the-real-risk-of-ai-isnt-deepfakes-but-daily-whispers": {
-    "sent_at": "2026-03-01T19:26:34.445051",
-    "title": "What if the real risk of AI isn’t deepfakes — but daily whispers?",
-    "url": "https://venturebeat.com/technology/what-if-the-real-risk-of-ai-isnt-deepfakes-but-daily-whispers"
-  },
   "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/": {
     "sent_at": "2026-03-02T13:58:56.793610",
     "title": "I checked out one of the biggest anti-AI protests ever",
@@ -473,5 +468,30 @@
     "sent_at": "2026-03-31T14:25:27.800260",
     "title": "Softr launches AI-native platform to help nontechnical teams build business apps without code",
     "url": "https://venturebeat.com/technology/softr-launches-ai-native-platform-to-help-nontechnical-teams-build-business"
+  },
+  "https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch": {
+    "sent_at": "2026-03-31T19:55:59.566856",
+    "title": "OpenClaw has 500,000 instances and no enterprise kill switch",
+    "url": "https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch"
+  },
+  "https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the": {
+    "sent_at": "2026-03-31T19:55:59.566856",
+    "title": "Slack adds 30 AI features to Slackbot, its most ambitious update since the Salesforce acquisition",
+    "url": "https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the"
+  },
+  "https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know": {
+    "sent_at": "2026-03-31T19:55:59.566856",
+    "title": "Claude Code's source code appears to have leaked: here's what we know",
+    "url": "https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know"
+  },
+  "https://venturebeat.com/data/imagine-if-your-teams-or-slack-messages-automatically-turned-into-secure": {
+    "sent_at": "2026-03-31T19:55:59.566856",
+    "title": "Imagine if your Teams or Slack messages automatically turned into secure context for your AI agents — PromptQL built it",
+    "url": "https://venturebeat.com/data/imagine-if-your-teams-or-slack-messages-automatically-turned-into-secure"
+  },
+  "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/": {
+    "sent_at": "2026-03-31T19:55:59.566856",
+    "title": "How did Anthropic measure AI's \"theoretical capabilities\" in the job market?",
+    "url": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/"
   }
 }
