@@ -493,5 +493,15 @@
     "sent_at": "2026-03-31T19:55:59.566856",
     "title": "How did Anthropic measure AI's \"theoretical capabilities\" in the job market?",
     "url": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/"
+  },
+  "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at": {
+    "sent_at": "2026-04-01T04:13:10.541203",
+    "title": "Meta's new structured prompting technique makes LLMs significantly better at code review — boosting accuracy to 93% in some cases",
+    "url": "https://venturebeat.com/orchestration/metas-new-structured-prompting-technique-makes-llms-significantly-better-at"
+  },
+  "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap": {
+    "sent_at": "2026-04-01T04:13:10.541203",
+    "title": "CrowdStrike, Cisco and Palo Alto Networks all shipped agentic SOC tools at RSAC 2026 — the agent behavioral baseline gap survived all three",
+    "url": "https://venturebeat.com/security/rsac-2026-agentic-soc-agent-telemetry-security-gap"
   }
 }
