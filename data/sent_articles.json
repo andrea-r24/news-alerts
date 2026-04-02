@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated": {
-    "sent_at": "2026-03-03T13:57:59.740374",
-    "title": "Endor Labs launches free tool AURI after study finds only 10% of AI-generated code is secure",
-    "url": "https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated"
-  },
   "https://venturebeat.com/technology/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and": {
     "sent_at": "2026-03-03T19:41:03.783459",
     "title": "OpenAI's AI data agent, built by two engineers, now serves 4,000 employees — and the company says anyone can replicate it",
@@ -503,5 +498,10 @@
     "sent_at": "2026-04-02T03:44:46.539740",
     "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
     "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/"
+  },
+  "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google": {
+    "sent_at": "2026-04-02T14:20:40.207291",
+    "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
+    "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google"
   }
 }
