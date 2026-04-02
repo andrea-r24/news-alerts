@@ -1,19 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/": {
-    "sent_at": "2026-03-02T19:39:17.360386",
-    "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-    "url": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/"
-  },
-  "https://venturebeat.com/infrastructure/intuit-is-betting-its-40-years-of-small-business-data-can-outlast-the": {
-    "sent_at": "2026-03-03T03:34:49.148076",
-    "title": "Intuit is betting its 40 years of small business data can outlast the SaaSpocalypse",
-    "url": "https://venturebeat.com/infrastructure/intuit-is-betting-its-40-years-of-small-business-data-can-outlast-the"
-  },
-  "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run": {
-    "sent_at": "2026-03-03T03:34:49.148076",
-    "title": "Alibaba's small, open source Qwen3.5-9B beats OpenAI's gpt-oss-120B and can run on standard laptops",
-    "url": "https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run"
-  },
   "https://venturebeat.com/technology/endor-labs-launches-free-tool-auri-after-study-finds-only-10-of-ai-generated": {
     "sent_at": "2026-03-03T13:57:59.740374",
     "title": "Endor Labs launches free tool AURI after study finds only 10% of AI-generated code is secure",
@@ -503,5 +488,20 @@
     "sent_at": "2026-04-01T14:26:55.416051",
     "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
     "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations"
+  },
+  "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders": {
+    "sent_at": "2026-04-02T03:44:46.539740",
+    "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
+    "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders"
+  },
+  "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved": {
+    "sent_at": "2026-04-02T03:44:46.539740",
+    "title": "Intuit's AI agents hit 85% repeat usage. The secret was keeping humans involved",
+    "url": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved"
+  },
+  "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/": {
+    "sent_at": "2026-04-02T03:44:46.539740",
+    "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
+    "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/"
   }
 }
