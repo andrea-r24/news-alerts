@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/security/ai-supply-chain-visibility-gap-anthropic-pentagon-ciso-audit": {
-    "sent_at": "2026-03-04T19:40:10.984575",
-    "title": "Pentagon vendor cutoff exposes the AI dependency map most enterprises never built",
-    "url": "https://venturebeat.com/security/ai-supply-chain-visibility-gap-anthropic-pentagon-ciso-audit"
-  },
-  "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/": {
-    "sent_at": "2026-03-04T19:40:10.984575",
-    "title": "Bridging the operational AI gap",
-    "url": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/"
-  },
-  "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when": {
-    "sent_at": "2026-03-05T03:30:16.337246",
-    "title": "Microsoft built Phi-4-reasoning-vision-15B to know when to think — and when thinking is a waste of time",
-    "url": "https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when"
-  },
   "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for": {
     "sent_at": "2026-03-05T19:54:44.731995",
     "title": "OpenAI launches GPT-5.4 with native computer use mode, financial plugins for Microsoft Excel, Google Sheets",
@@ -503,5 +488,15 @@
     "sent_at": "2026-04-03T14:01:21.874531",
     "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
     "url": "https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/"
+  },
+  "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an": {
+    "sent_at": "2026-04-04T03:34:40.996690",
+    "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI",
+    "url": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an"
+  },
+  "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among": {
+    "sent_at": "2026-04-04T03:34:40.996690",
+    "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026",
+    "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among"
   }
 }
