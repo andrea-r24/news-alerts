@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for": {
-    "sent_at": "2026-03-05T19:54:44.731995",
-    "title": "OpenAI launches GPT-5.4 with native computer use mode, financial plugins for Microsoft Excel, Google Sheets",
-    "url": "https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for"
-  },
-  "https://venturebeat.com/orchestration/google-workspace-cli-brings-gmail-docs-sheets-and-more-into-a-common": {
-    "sent_at": "2026-03-06T03:27:35.586449",
-    "title": "Google Workspace CLI brings Gmail, Docs, Sheets and more into a common interface for AI agents",
-    "url": "https://venturebeat.com/orchestration/google-workspace-cli-brings-gmail-docs-sheets-and-more-into-a-common"
-  },
-  "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/": {
-    "sent_at": "2026-03-06T03:27:35.586449",
-    "title": "OpenAI introduces GPT-5.4 with more knowledge-work capability",
-    "url": "https://arstechnica.com/ai/2026/03/openai-introduces-gpt-5-4-with-more-knowledge-work-capability/"
-  },
-  "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/": {
-    "sent_at": "2026-03-06T13:53:18.368002",
-    "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
-    "url": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/"
-  },
   "https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude": {
     "sent_at": "2026-03-07T03:18:58.568764",
     "title": "Anthropic launches Claude Marketplace, giving enterprises access to Claude-powered tools from Replit, GitLab, Harvey and more",
@@ -503,5 +483,10 @@
     "sent_at": "2026-04-04T19:34:44.202691",
     "title": "OCSF explained: The shared data language security teams have been missing",
     "url": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing"
+  },
+  "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos": {
+    "sent_at": "2026-04-05T19:36:53.967085",
+    "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
+    "url": "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos"
   }
 }
