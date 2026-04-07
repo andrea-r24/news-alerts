@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/technology/dynamic-ui-for-dynamic-ai-inside-the-emerging-a2ui-model": {
-    "sent_at": "2026-03-08T19:27:52.630606",
-    "title": "Dynamic UI for dynamic AI: Inside the emerging A2UI model",
-    "url": "https://venturebeat.com/technology/dynamic-ui-for-dynamic-ai-inside-the-emerging-a2ui-model"
-  },
   "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/": {
     "sent_at": "2026-03-09T14:04:49.766518",
     "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
@@ -493,5 +488,25 @@
     "sent_at": "2026-04-07T14:28:39.206368",
     "title": "Block introduces Managerbot, a proactive Square AI agent and the clearest proof point yet for Jack Dorsey’s AI bet",
     "url": "https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest"
+  },
+  "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the": {
+    "sent_at": "2026-04-07T19:58:20.033102",
+    "title": "Amazon S3 Files gives AI agents a native file system workspace, ending the object-file split that breaks multi-agent pipelines",
+    "url": "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the"
+  },
+  "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release": {
+    "sent_at": "2026-04-07T19:58:20.033102",
+    "title": "Anthropic says its most powerful AI cyber model is too dangerous to release publicly — so it built Project Glasswing",
+    "url": "https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release"
+  },
+  "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing": {
+    "sent_at": "2026-04-07T19:58:20.033102",
+    "title": "LLM-referred traffic converts at 30-40% — and most enterprises aren't optimizing for it",
+    "url": "https://venturebeat.com/technology/llm-referred-traffic-converts-at-30-40-and-most-enterprises-arent-optimizing"
+  },
+  "https://venturebeat.com/data/as-models-converge-the-enterprise-edge-in-ai-shifts-to-governed-data-and-the": {
+    "sent_at": "2026-04-07T19:58:20.033102",
+    "title": "As models converge, the enterprise edge in AI shifts to governed data and the platforms that control it",
+    "url": "https://venturebeat.com/data/as-models-converge-the-enterprise-edge-in-ai-shifts-to-governed-data-and-the"
   }
 }
