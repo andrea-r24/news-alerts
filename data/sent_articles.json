@@ -1,14 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/": {
-    "sent_at": "2026-03-09T14:04:49.766518",
-    "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
-    "url": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/"
-  },
-  "https://venturebeat.com/technology/microsoft-says-ungoverned-ai-agents-could-become-corporate-double-agents-its": {
-    "sent_at": "2026-03-09T14:04:49.766518",
-    "title": "Microsoft says ungoverned AI agents could become corporate 'double agents.' Its fix costs $99 a month.",
-    "url": "https://venturebeat.com/technology/microsoft-says-ungoverned-ai-agents-could-become-corporate-double-agents-its"
-  },
   "https://venturebeat.com/technology/anthropic-rolls-out-code-review-for-claude-code-as-it-sues-over-pentagon": {
     "sent_at": "2026-03-09T19:42:01.432514",
     "title": "Anthropic rolls out Code Review for Claude Code as it sues over Pentagon blacklist and partners with Microsoft",
@@ -508,5 +498,10 @@
     "sent_at": "2026-04-07T19:58:20.033102",
     "title": "As models converge, the enterprise edge in AI shifts to governed data and the platforms that control it",
     "url": "https://venturebeat.com/data/as-models-converge-the-enterprise-edge-in-ai-shifts-to-governed-data-and-the"
+  },
+  "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/": {
+    "sent_at": "2026-04-08T14:44:22.474750",
+    "title": "Anthropic limits access to Mythos, its new cybersecurity AI model",
+    "url": "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/"
   }
 }
