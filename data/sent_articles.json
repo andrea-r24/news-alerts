@@ -1,24 +1,4 @@
 {
-  "https://arstechnica.com/tech-policy/2026/03/anthropic-sues-us-over-blacklisting-white-house-calls-firm-radical-left-woke/": {
-    "sent_at": "2026-03-10T19:40:34.841469",
-    "title": "Anthropic sues US over blacklisting; White House calls firm \"radical left, woke\"",
-    "url": "https://arstechnica.com/tech-policy/2026/03/anthropic-sues-us-over-blacklisting-white-house-calls-firm-radical-left-woke/"
-  },
-  "https://venturebeat.com/data/openai-upgrades-chatgpt-with-interactive-learning-tools-as-lawsuits-and": {
-    "sent_at": "2026-03-10T19:40:34.841469",
-    "title": "OpenAI upgrades ChatGPT with interactive learning tools as lawsuits and Pentagon backlash mount",
-    "url": "https://venturebeat.com/data/openai-upgrades-chatgpt-with-interactive-learning-tools-as-lawsuits-and"
-  },
-  "https://venturebeat.com/security/anthropic-openai-sast-reasoning-scanners-security-directors-guide": {
-    "sent_at": "2026-03-10T19:40:34.841469",
-    "title": "Anthropic and OpenAI just exposed SAST's structural blind spot with free tools",
-    "url": "https://venturebeat.com/security/anthropic-openai-sast-reasoning-scanners-security-directors-guide"
-  },
-  "https://venturebeat.com/orchestration/google-upgrades-gemini-for-workspace-allowing-it-to-pull-data-from-multiple": {
-    "sent_at": "2026-03-10T19:40:34.841469",
-    "title": "Google upgrades Gemini for Workspace allowing it to pull data from multiple apps to create Docs, Sheets, Slides and more",
-    "url": "https://venturebeat.com/orchestration/google-upgrades-gemini-for-workspace-allowing-it-to-pull-data-from-multiple"
-  },
   "https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint": {
     "sent_at": "2026-03-11T19:42:21.244171",
     "title": "Anthropic gives Claude shared context across Microsoft Excel and PowerPoint, enabling reusable workflows in multiple applications",
@@ -503,5 +483,15 @@
     "sent_at": "2026-04-09T03:48:41.892277",
     "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
     "url": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos"
+  },
+  "https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook": {
+    "sent_at": "2026-04-09T20:02:46.734125",
+    "title": "Mythos autonomously exploited vulnerabilities that survived 27 years of human review. Security teams need a new detection playbook",
+    "url": "https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook"
+  },
+  "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/": {
+    "sent_at": "2026-04-09T20:02:46.734125",
+    "title": "Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech",
+    "url": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/"
   }
 }
