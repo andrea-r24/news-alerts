@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/technology/andrej-karpathys-new-open-source-autoresearch-lets-you-run-hundreds-of-ai": {
-    "sent_at": "2026-03-10T03:27:32.743741",
-    "title": "Andrej Karpathy's new open source 'autoresearch' lets you run hundreds of AI experiments a night — with revolutionary implications",
-    "url": "https://venturebeat.com/technology/andrej-karpathys-new-open-source-autoresearch-lets-you-run-hundreds-of-ai"
-  },
-  "https://venturebeat.com/infrastructure/how-to-make-your-e-commerce-product-visible-to-ai-agents-use-this-new-system": {
-    "sent_at": "2026-03-10T03:27:32.743741",
-    "title": "How to make your e-commerce product visible to AI agents? Use this new system trusted by L’Oréal, Unilever, Mars & Beiersdorf",
-    "url": "https://venturebeat.com/infrastructure/how-to-make-your-e-commerce-product-visible-to-ai-agents-use-this-new-system"
-  },
   "https://arstechnica.com/tech-policy/2026/03/anthropic-sues-us-over-blacklisting-white-house-calls-firm-radical-left-woke/": {
     "sent_at": "2026-03-10T19:40:34.841469",
     "title": "Anthropic sues US over blacklisting; White House calls firm \"radical left, woke\"",
@@ -508,5 +498,10 @@
     "sent_at": "2026-04-08T19:59:42.795897",
     "title": "New framework lets AI agents rewrite their own skills without retraining the underlying model",
     "url": "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the"
+  },
+  "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos": {
+    "sent_at": "2026-04-09T03:48:41.892277",
+    "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
+    "url": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos"
   }
 }
