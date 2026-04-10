@@ -493,5 +493,15 @@
     "sent_at": "2026-04-09T20:02:46.734125",
     "title": "Trump-appointed judges refuse to block Trump blacklisting of Anthropic AI tech",
     "url": "https://arstechnica.com/tech-policy/2026/04/trump-appointed-judges-refuse-to-block-trump-blacklisting-of-anthropic-ai-tech/"
+  },
+  "https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex": {
+    "sent_at": "2026-04-10T04:08:54.403359",
+    "title": "OpenAI introduces ChatGPT Pro $100 tier with 5X usage limits for Codex compared to Plus",
+    "url": "https://venturebeat.com/orchestration/openai-introduces-chatgpt-pro-usd100-tier-with-5x-usage-limits-for-codex"
+  },
+  "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/": {
+    "sent_at": "2026-04-10T04:08:54.403359",
+    "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
+    "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/"
   }
 }
