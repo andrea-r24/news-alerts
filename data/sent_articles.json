@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint": {
-    "sent_at": "2026-03-11T19:42:21.244171",
-    "title": "Anthropic gives Claude shared context across Microsoft Excel and PowerPoint, enabling reusable workflows in multiple applications",
-    "url": "https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint"
-  },
-  "https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut": {
-    "sent_at": "2026-03-11T19:42:21.244171",
-    "title": "Google's Gemini Embedding 2 arrives with native multimodal support to cut costs and speed up your enterprise data stack",
-    "url": "https://venturebeat.com/data/googles-gemini-embedding-2-arrives-with-native-multimodal-support-to-cut"
-  },
-  "https://venturebeat.com/infrastructure/manufact-raises-usd6-3m-as-mcp-becomes-the-usb-c-for-ai-powering-chatgpt-and": {
-    "sent_at": "2026-03-11T19:42:21.244171",
-    "title": "Manufact raises $6.3M as MCP becomes the ‘USB-C for AI’ powering ChatGPT and Claude apps",
-    "url": "https://venturebeat.com/infrastructure/manufact-raises-usd6-3m-as-mcp-becomes-the-usb-c-for-ai-powering-chatgpt-and"
-  },
   "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/": {
     "sent_at": "2026-03-12T19:44:04.417325",
     "title": "Perplexity's \"Personal Computer\" brings its AI agents to the, uh, Personal Computer",
@@ -503,5 +488,10 @@
     "sent_at": "2026-04-10T04:08:54.403359",
     "title": "AI on the couch: Anthropic gives Claude 20 hours of psychiatry",
     "url": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/"
+  },
+  "https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw": {
+    "sent_at": "2026-04-11T03:38:08.242872",
+    "title": "AI agent credentials live in the same box as untrusted code. Two new architectures show where the blast radius actually stops.",
+    "url": "https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw"
   }
 }
