@@ -1,24 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/": {
-    "sent_at": "2026-03-12T19:44:04.417325",
-    "title": "Perplexity's \"Personal Computer\" brings its AI agents to the, uh, Personal Computer",
-    "url": "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/"
-  },
-  "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm": {
-    "sent_at": "2026-03-13T03:29:51.766455",
-    "title": "Y Combinator-backed Random Labs launches Slate V1, claiming the first 'swarm-native' coding agent",
-    "url": "https://venturebeat.com/orchestration/y-combinator-backed-random-labs-launches-slate-v1-claiming-the-first-swarm"
-  },
-  "https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right": {
-    "sent_at": "2026-03-13T03:29:51.766455",
-    "title": "Agents need vector search more than RAG ever did",
-    "url": "https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right"
-  },
-  "https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises": {
-    "sent_at": "2026-03-13T13:58:44.764845",
-    "title": "NanoClaw and Docker partner to make sandboxes the safest way for enterprises to deploy AI agents",
-    "url": "https://venturebeat.com/infrastructure/nanoclaw-and-docker-partner-to-make-sandboxes-the-safest-way-for-enterprises"
-  },
   "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/": {
     "sent_at": "2026-03-16T14:19:27.398427",
     "title": "Nurturing agentic AI beyond the toddler stage",
@@ -498,5 +478,10 @@
     "sent_at": "2026-04-11T13:54:04.366541",
     "title": "AI models are terrible at betting on soccer—especially xAI Grok",
     "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/"
+  },
+  "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development": {
+    "sent_at": "2026-04-13T14:44:53.159388",
+    "title": "Agentic coding at enterprise scale demands spec-driven development",
+    "url": "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development"
   }
 }
