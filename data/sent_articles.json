@@ -493,5 +493,25 @@
     "sent_at": "2026-04-14T14:49:00.696943",
     "title": "43% of AI-generated code changes need debugging in production, survey finds",
     "url": "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds"
+  },
+  "https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but": {
+    "sent_at": "2026-04-14T20:07:39.572523",
+    "title": "Anthropic’s Claude Managed Agents gives enterprises a new one-stop shop but raises vendor 'lock-in' risk",
+    "url": "https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but"
+  },
+  "https://venturebeat.com/orchestration/google-leaders-including-demis-hassabis-push-back-on-claim-of-uneven-ai-adoption-internally": {
+    "sent_at": "2026-04-14T20:07:39.572523",
+    "title": "Google leaders including Demis Hassabis push back on claim of uneven AI adoption internally",
+    "url": "https://venturebeat.com/orchestration/google-leaders-including-demis-hassabis-push-back-on-claim-of-uneven-ai-adoption-internally"
+  },
+  "https://venturebeat.com/technology/microsoft-launches-mai-image-2-efficient-a-cheaper-and-faster-ai-image-model": {
+    "sent_at": "2026-04-14T20:07:39.572523",
+    "title": "Microsoft launches MAI-Image-2-Efficient, a cheaper and faster AI image model",
+    "url": "https://venturebeat.com/technology/microsoft-launches-mai-image-2-efficient-a-cheaper-and-faster-ai-image-model"
+  },
+  "https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single": {
+    "sent_at": "2026-04-14T20:07:39.572523",
+    "title": "Databricks tested a stronger model against its multi-step agent on hybrid queries. The stronger model still lost by 21%.",
+    "url": "https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single"
   }
 }
