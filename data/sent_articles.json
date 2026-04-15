@@ -1,9 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/": {
-    "sent_at": "2026-03-16T14:19:27.398427",
-    "title": "Nurturing agentic AI beyond the toddler stage",
-    "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"
-  },
   "https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its": {
     "sent_at": "2026-03-16T19:53:26.684072",
     "title": "z.ai debuts faster, cheaper GLM-5 Turbo model for agents and 'claws' — but it's not open-source",
@@ -513,5 +508,15 @@
     "sent_at": "2026-04-14T20:07:39.572523",
     "title": "Databricks tested a stronger model against its multi-step agent on hybrid queries. The stronger model still lost by 21%.",
     "url": "https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single"
+  },
+  "https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt": {
+    "sent_at": "2026-04-15T14:28:37.228768",
+    "title": "Adobe’s new Firefly AI Assistant wants to run Photoshop, Premiere, Illustrator and more from one prompt",
+    "url": "https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt"
+  },
+  "https://venturebeat.com/orchestration/traza-raises-usd2-1-million-led-by-base10-to-automate-procurement-workflows-with-ai": {
+    "sent_at": "2026-04-15T14:28:37.228768",
+    "title": "Traza raises $2.1 million led by Base10 to automate procurement workflows with AI",
+    "url": "https://venturebeat.com/orchestration/traza-raises-usd2-1-million-led-by-base10-to-automate-procurement-workflows-with-ai"
   }
 }
