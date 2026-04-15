@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its": {
-    "sent_at": "2026-03-16T19:53:26.684072",
-    "title": "z.ai debuts faster, cheaper GLM-5 Turbo model for agents and 'claws' — but it's not open-source",
-    "url": "https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its"
-  },
-  "https://arstechnica.com/tech-policy/2026/03/chatgpt-may-soon-become-sexy-suicide-coach-openai-advisor-reportedly-warned/": {
-    "sent_at": "2026-03-16T19:53:26.684072",
-    "title": "OpenAI’s own mental health experts unanimously opposed “naughty” ChatGPT launch",
-    "url": "https://arstechnica.com/tech-policy/2026/03/chatgpt-may-soon-become-sexy-suicide-coach-openai-advisor-reportedly-warned/"
-  },
-  "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/": {
-    "sent_at": "2026-03-16T19:53:26.684072",
-    "title": "Where OpenAI’s technology could show up in Iran",
-    "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"
-  },
-  "https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert": {
-    "sent_at": "2026-03-16T19:53:26.684072",
-    "title": "OpenClaw can bypass your EDR, DLP and IAM without triggering a single alert",
-    "url": "https://venturebeat.com/security/openclaw-can-bypass-your-edr-dlp-and-iam-without-triggering-a-single-alert"
-  },
   "https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic": {
     "sent_at": "2026-03-17T03:35:02.391132",
     "title": "Nvidia introduces Vera Rubin, a seven-chip AI platform with OpenAI, Anthropic and Meta on board",
@@ -518,5 +498,20 @@
     "sent_at": "2026-04-15T14:28:37.228768",
     "title": "Traza raises $2.1 million led by Base10 to automate procurement workflows with AI",
     "url": "https://venturebeat.com/orchestration/traza-raises-usd2-1-million-led-by-base10-to-automate-procurement-workflows-with-ai"
+  },
+  "https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit": {
+    "sent_at": "2026-04-15T20:05:29.411063",
+    "title": "Frontier models are failing one in three production attempts — and getting harder to audit",
+    "url": "https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit"
+  },
+  "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know": {
+    "sent_at": "2026-04-15T20:05:29.411063",
+    "title": "We tested Anthropic’s redesigned Claude Code desktop app and 'Routines' — here's what enterprises should know",
+    "url": "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know"
+  },
+  "https://venturebeat.com/orchestration/ais-next-bottleneck-isnt-the-models-its-whether-agents-can-think-together": {
+    "sent_at": "2026-04-15T20:05:29.411063",
+    "title": "AI's next bottleneck isn't the models — it's whether agents can think together",
+    "url": "https://venturebeat.com/orchestration/ais-next-bottleneck-isnt-the-models-its-whether-agents-can-think-together"
   }
 }
