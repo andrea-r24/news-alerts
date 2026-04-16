@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic": {
-    "sent_at": "2026-03-17T03:35:02.391132",
-    "title": "Nvidia introduces Vera Rubin, a seven-chip AI platform with OpenAI, Anthropic and Meta on board",
-    "url": "https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic"
-  },
-  "https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the": {
-    "sent_at": "2026-03-17T03:35:02.391132",
-    "title": "Nvidia BlueField-4 STX adds a context memory layer to storage to close the agentic AI throughput gap",
-    "url": "https://venturebeat.com/data/nvidia-bluefield-4-stx-adds-a-context-memory-layer-to-storage-to-close-the"
-  },
-  "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter": {
-    "sent_at": "2026-03-17T03:35:02.391132",
-    "title": "Nvidia's DGX Station is a desktop supercomputer that runs trillion-parameter AI models without the cloud",
-    "url": "https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter"
-  },
-  "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/": {
-    "sent_at": "2026-03-17T14:17:16.082017",
-    "title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-    "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
-  },
   "https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai": {
     "sent_at": "2026-03-17T19:54:57.013889",
     "title": "The authorization problem that could break enterprise AI",
@@ -513,5 +493,10 @@
     "sent_at": "2026-04-15T20:05:29.411063",
     "title": "AI's next bottleneck isn't the models — it's whether agents can think together",
     "url": "https://venturebeat.com/orchestration/ais-next-bottleneck-isnt-the-models-its-whether-agents-can-think-together"
+  },
+  "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/": {
+    "sent_at": "2026-04-16T14:53:07.518618",
+    "title": "Why having “humans in the loop” in an AI war is an illusion",
+    "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/"
   }
 }
