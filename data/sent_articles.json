@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai": {
-    "sent_at": "2026-03-17T19:54:57.013889",
-    "title": "The authorization problem that could break enterprise AI",
-    "url": "https://venturebeat.com/security/the-authorization-problem-that-could-break-enterprise-ai"
-  },
-  "https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework": {
-    "sent_at": "2026-03-17T19:54:57.013889",
-    "title": "Nvidia's agentic AI stack is the first major platform to ship with security at launch, but governance gaps remain",
-    "url": "https://venturebeat.com/security/nvidia-gtc-2026-agentic-ai-security-five-vendor-governance-framework"
-  },
   "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly": {
     "sent_at": "2026-03-18T03:41:46.725762",
     "title": "Open source Mamba 3 arrives to surpass Transformer architecture with nearly 4% improved language modeling, reduced latency",
@@ -498,5 +488,25 @@
     "sent_at": "2026-04-16T14:53:07.518618",
     "title": "Why having “humans in the loop” in an AI war is an illusion",
     "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/"
+  },
+  "https://venturebeat.com/infrastructure/are-we-getting-what-we-paid-for-how-to-turn-ai-momentum-into-measurable-value": {
+    "sent_at": "2026-04-16T20:01:08.770280",
+    "title": "Are we getting what we paid for? How to turn AI momentum into measurable value",
+    "url": "https://venturebeat.com/infrastructure/are-we-getting-what-we-paid-for-how-to-turn-ai-momentum-into-measurable-value"
+  },
+  "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github": {
+    "sent_at": "2026-04-16T20:01:08.770280",
+    "title": "OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github",
+    "url": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github"
+  },
+  "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages": {
+    "sent_at": "2026-04-16T20:01:08.770280",
+    "title": "OpenAI drastically updates Codex desktop app to use all other apps on your computer, generate images, preview webpages",
+    "url": "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages"
+  },
+  "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm": {
+    "sent_at": "2026-04-16T20:01:08.770280",
+    "title": "Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM",
+    "url": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm"
   }
 }
