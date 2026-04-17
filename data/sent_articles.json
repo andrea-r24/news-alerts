@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly": {
-    "sent_at": "2026-03-18T03:41:46.725762",
-    "title": "Open source Mamba 3 arrives to surpass Transformer architecture with nearly 4% improved language modeling, reduced latency",
-    "url": "https://venturebeat.com/technology/open-source-mamba-3-arrives-to-surpass-transformer-architecture-with-nearly"
-  },
-  "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/": {
-    "sent_at": "2026-03-18T03:41:46.725762",
-    "title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-    "url": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/"
-  },
-  "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models": {
-    "sent_at": "2026-03-18T03:41:46.725762",
-    "title": "Mistral AI launches Forge to help companies build proprietary AI models, challenging cloud giants",
-    "url": "https://venturebeat.com/infrastructure/mistral-ai-launches-forge-to-help-companies-build-proprietary-ai-models"
-  },
   "https://venturebeat.com/data/enterprise-ai-agents-keep-operating-from-different-versions-of-reality": {
     "sent_at": "2026-03-18T14:20:07.006347",
     "title": "Enterprise AI agents keep operating from different versions of reality — Microsoft says Fabric IQ is the fix",
@@ -508,5 +493,15 @@
     "sent_at": "2026-04-16T20:01:08.770280",
     "title": "Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM",
     "url": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm"
+  },
+  "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/": {
+    "sent_at": "2026-04-17T04:13:03.014199",
+    "title": "OpenAI starts offering a biology-tuned LLM",
+    "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/"
+  },
+  "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents": {
+    "sent_at": "2026-04-17T04:13:03.014199",
+    "title": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
+    "url": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents"
   }
 }
