@@ -1,54 +1,4 @@
 {
-  "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance": {
-    "sent_at": "2026-03-19T03:41:27.026769",
-    "title": "Xiaomi stuns with new MiMo-V2-Pro LLM nearing GPT-5.2, Opus 4.6 performance at a fraction of the cost",
-    "url": "https://venturebeat.com/technology/xiaomi-stuns-with-new-mimo-v2-pro-llm-nearing-gpt-5-2-opus-4-6-performance"
-  },
-  "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix": {
-    "sent_at": "2026-03-19T19:49:06.028931",
-    "title": "Meta's rogue AI agent passed every identity check — four gaps in enterprise IAM explain why",
-    "url": "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix"
-  },
-  "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/": {
-    "sent_at": "2026-03-19T19:49:06.028931",
-    "title": "OpenAI is acquiring open source Python tool-maker Astral",
-    "url": "https://arstechnica.com/ai/2026/03/openai-is-acquiring-open-source-python-tool-maker-astral/"
-  },
-  "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels": {
-    "sent_at": "2026-03-20T03:31:22.884131",
-    "title": "Anthropic just shipped an OpenClaw killer called Claude Code Channels, letting you message it over Telegram and Discord",
-    "url": "https://venturebeat.com/orchestration/anthropic-just-shipped-an-openclaw-killer-called-claude-code-channels"
-  },
-  "https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-with-tools-that-know-their-users": {
-    "sent_at": "2026-03-20T03:31:22.884131",
-    "title": "Why enterprises are replacing generic AI with tools that know their users",
-    "url": "https://venturebeat.com/infrastructure/why-enterprises-are-replacing-generic-ai-with-tools-that-know-their-users"
-  },
-  "https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but": {
-    "sent_at": "2026-03-20T03:31:22.884131",
-    "title": "Cursor’s new coding model Composer 2 is here: It beats Claude Opus 4.6 but still trails GPT-5.4",
-    "url": "https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but"
-  },
-  "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/": {
-    "sent_at": "2026-03-20T13:59:48.533630",
-    "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-    "url": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/"
-  },
-  "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/": {
-    "sent_at": "2026-03-20T13:59:48.533630",
-    "title": "OpenAI is throwing everything into building a fully automated researcher",
-    "url": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/"
-  },
-  "https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai": {
-    "sent_at": "2026-03-20T19:39:02.301994",
-    "title": "Scale AI launches Voice Showdown, the first real-world benchmark for voice AI — and the results are humbling for some top models",
-    "url": "https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai"
-  },
-  "https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world": {
-    "sent_at": "2026-03-21T03:23:14.428687",
-    "title": "Three ways AI is learning to understand the physical world",
-    "url": "https://venturebeat.com/technology/three-ways-ai-is-learning-to-understand-the-physical-world"
-  },
   "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace": {
     "sent_at": "2026-03-22T19:30:40.247393",
     "title": "Testing autonomous agents (Or: how I learned to stop worrying and embrace chaos)",
@@ -508,5 +458,10 @@
     "sent_at": "2026-04-17T19:59:05.594756",
     "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma",
     "url": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma"
+  },
+  "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/": {
+    "sent_at": "2026-04-20T14:46:56.887055",
+    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+    "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/"
   }
 }
