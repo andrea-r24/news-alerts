@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace": {
-    "sent_at": "2026-03-22T19:30:40.247393",
-    "title": "Testing autonomous agents (Or: how I learned to stop worrying and embrace chaos)",
-    "url": "https://venturebeat.com/orchestration/testing-autonomous-agents-or-how-i-learned-to-stop-worrying-and-embrace"
-  },
   "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more": {
     "sent_at": "2026-03-23T19:50:22.732511",
     "title": "You thought the generalist was dead — in the 'vibe work' era, they're more important than ever",
@@ -473,5 +468,30 @@
     "sent_at": "2026-04-21T14:45:45.229606",
     "title": "Adversaries hijacked AI security tools at 90+ organizations. The next wave has write access to the firewall",
     "url": "https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall"
+  },
+  "https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do": {
+    "sent_at": "2026-04-21T20:05:15.414279",
+    "title": "The AI governance mirage: Why 72% of enterprises don’t have the control and security they think they do",
+    "url": "https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do"
+  },
+  "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly": {
+    "sent_at": "2026-04-21T20:05:15.414279",
+    "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly",
+    "url": "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly"
+  },
+  "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/": {
+    "sent_at": "2026-04-21T20:05:15.414279",
+    "title": "Building agent-first governance and security",
+    "url": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/"
+  },
+  "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/": {
+    "sent_at": "2026-04-21T20:05:15.414279",
+    "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
+    "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/"
+  },
+  "https://venturebeat.com/orchestration/kimi-k2-6-runs-agents-for-days-and-exposes-the-limits-of-enterprise-orchestration": {
+    "sent_at": "2026-04-21T20:05:15.414279",
+    "title": "Kimi K2.6 runs agents for days — and exposes the limits of enterprise orchestration",
+    "url": "https://venturebeat.com/orchestration/kimi-k2-6-runs-agents-for-days-and-exposes-the-limits-of-enterprise-orchestration"
   }
 }
