@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more": {
-    "sent_at": "2026-03-23T19:50:22.732511",
-    "title": "You thought the generalist was dead — in the 'vibe work' era, they're more important than ever",
-    "url": "https://venturebeat.com/technology/you-thought-the-generalist-was-dead-in-the-vibe-work-era-theyre-more"
-  },
-  "https://venturebeat.com/orchestration/the-three-disciplines-separating-ai-agent-demos-from-real-world-deployment": {
-    "sent_at": "2026-03-23T19:50:22.732511",
-    "title": "The three disciplines separating AI agent demos from real-world deployment",
-    "url": "https://venturebeat.com/orchestration/the-three-disciplines-separating-ai-agent-demos-from-real-world-deployment"
-  },
   "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai": {
     "sent_at": "2026-03-24T03:35:45.472059",
     "title": "What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?",
@@ -513,5 +503,25 @@
     "sent_at": "2026-04-22T14:45:08.190767",
     "title": "The modern data stack was built for humans asking questions. Google just rebuilt its for agents taking action.",
     "url": "https://venturebeat.com/data/the-modern-data-stack-was-built-for-humans-asking-questions-google-just-rebuilt-its-for-agents-taking-action"
+  },
+  "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/": {
+    "sent_at": "2026-04-22T20:07:32.354917",
+    "title": "Anthropic tested removing Claude Code from the Pro plan",
+    "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/"
+  },
+  "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets": {
+    "sent_at": "2026-04-22T20:07:32.354917",
+    "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets",
+    "url": "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets"
+  },
+  "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why": {
+    "sent_at": "2026-04-22T20:07:32.354917",
+    "title": "Google doesn't pay the Nvidia tax. Its new TPUs explain why.",
+    "url": "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why"
+  },
+  "https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents": {
+    "sent_at": "2026-04-22T20:07:32.354917",
+    "title": "Salesforce’s Agentforce Vibes 2.0 targets a hidden failure: context overload in AI agents",
+    "url": "https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents"
   }
 }
