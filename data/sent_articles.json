@@ -493,5 +493,15 @@
     "sent_at": "2026-04-21T20:05:15.414279",
     "title": "Kimi K2.6 runs agents for days — and exposes the limits of enterprise orchestration",
     "url": "https://venturebeat.com/orchestration/kimi-k2-6-runs-agents-for-days-and-exposes-the-limits-of-enterprise-orchestration"
+  },
+  "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/": {
+    "sent_at": "2026-04-22T04:09:13.238009",
+    "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
+    "url": "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/"
+  },
+  "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data": {
+    "sent_at": "2026-04-22T04:09:13.238009",
+    "title": "Google’s new Deep Research and Deep Research Max agents can search the web and your private data",
+    "url": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data"
   }
 }
