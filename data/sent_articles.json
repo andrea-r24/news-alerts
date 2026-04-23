@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai": {
-    "sent_at": "2026-03-24T03:35:45.472059",
-    "title": "What is DeerFlow 2.0 and what should enterprises know about this new, powerful local AI agent orchestrator?",
-    "url": "https://venturebeat.com/orchestration/what-is-deerflow-and-what-should-enterprises-know-about-this-new-local-ai"
-  },
-  "https://venturebeat.com/technology/calling-all-gen-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2026": {
-    "sent_at": "2026-03-24T03:35:45.472059",
-    "title": "Show us your agents: VB Transform 2026 is looking for the most innovative agentic AI technologies",
-    "url": "https://venturebeat.com/technology/calling-all-gen-ai-disruptors-of-the-enterprise-apply-now-to-present-at-transform-2026"
-  },
   "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/": {
     "sent_at": "2026-03-24T14:17:52.437330",
     "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
@@ -523,5 +513,15 @@
     "sent_at": "2026-04-22T20:07:32.354917",
     "title": "Salesforce’s Agentforce Vibes 2.0 targets a hidden failure: context overload in AI agents",
     "url": "https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents"
+  },
+  "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more": {
+    "sent_at": "2026-04-23T04:13:45.438522",
+    "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more",
+    "url": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more"
+  },
+  "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution": {
+    "sent_at": "2026-04-23T04:13:45.438522",
+    "title": "Google and AWS split the AI agent stack between control and execution",
+    "url": "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution"
   }
 }
