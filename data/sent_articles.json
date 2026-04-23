@@ -1,29 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/": {
-    "sent_at": "2026-03-24T14:17:52.437330",
-    "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-    "url": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/"
-  },
-  "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x": {
-    "sent_at": "2026-03-24T19:53:58.727193",
-    "title": "Cloudflare’s new Dynamic Workers ditch containers to run AI agent code 100x faster",
-    "url": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x"
-  },
-  "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/": {
-    "sent_at": "2026-03-24T19:53:58.727193",
-    "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
-    "url": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/"
-  },
-  "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/": {
-    "sent_at": "2026-03-24T19:53:58.727193",
-    "title": "Claude Code can now take over your computer to complete tasks",
-    "url": "https://arstechnica.com/ai/2026/03/claude-code-can-now-take-over-your-computer-to-complete-tasks/"
-  },
-  "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task": {
-    "sent_at": "2026-03-24T19:53:58.727193",
-    "title": "Ai2 releases MolmoWeb, an open-weight visual web agent with 30K human task trajectories and a full training stack",
-    "url": "https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task"
-  },
   "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app": {
     "sent_at": "2026-03-25T03:38:53.037042",
     "title": "OpenAI is shutting down Sora, its powerful AI video model, app and API",
@@ -523,5 +498,25 @@
     "sent_at": "2026-04-23T04:13:45.438522",
     "title": "Google and AWS split the AI agent stack between control and execution",
     "url": "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution"
+  },
+  "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0": {
+    "sent_at": "2026-04-23T20:07:53.545082",
+    "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0",
+    "url": "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0"
+  },
+  "https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/": {
+    "sent_at": "2026-04-23T20:07:53.545082",
+    "title": "Why are the Mac mini and Mac Studio gradually becoming impossible to buy?",
+    "url": "https://arstechnica.com/gadgets/2026/04/apples-m4-mac-mini-including-the-599-one-is-gradually-becoming-impossible-to-buy/"
+  },
+  "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator": {
+    "sent_at": "2026-04-23T20:07:53.545082",
+    "title": "Talking to AI agents is one thing — what about when they talk to each other? New startup BAND debuts 'universal orchestrator'",
+    "url": "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator"
+  },
+  "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/": {
+    "sent_at": "2026-04-23T20:07:53.545082",
+    "title": "Greenhouse gases from data center boom could outpace entire nations",
+    "url": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/"
   }
 }
