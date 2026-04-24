@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50": {
-    "sent_at": "2026-03-25T19:48:39.905367",
-    "title": "Google's new TurboQuant algorithm speeds up AI memory 8x, cutting costs by 50% or more",
-    "url": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50"
-  },
-  "https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single": {
-    "sent_at": "2026-03-25T19:48:39.905367",
-    "title": "Oracle converges the AI data stack to give enterprise agents a single version of truth",
-    "url": "https://venturebeat.com/data/oracle-converges-the-ai-data-stack-to-give-enterprise-agents-a-single"
-  },
-  "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/": {
-    "sent_at": "2026-03-25T19:48:39.905367",
-    "title": "Disney cancels $1 billion OpenAI partnership amid Sora shutdown plans",
-    "url": "https://arstechnica.com/ai/2026/03/the-end-of-sora-also-means-the-end-of-disneys-1-billion-openai-investment/"
-  },
   "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and": {
     "sent_at": "2026-03-26T14:23:50.936047",
     "title": "Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free",
@@ -503,5 +488,10 @@
     "sent_at": "2026-04-24T14:43:43.588500",
     "title": "85% of enterprises are running AI agents. Only 5% trust them enough to ship.",
     "url": "https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to-ship"
+  },
+  "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5": {
+    "sent_at": "2026-04-24T19:54:03.172334",
+    "title": "DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5",
+    "url": "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5"
   }
 }
