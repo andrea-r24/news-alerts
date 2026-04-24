@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app": {
-    "sent_at": "2026-03-25T03:38:53.037042",
-    "title": "OpenAI is shutting down Sora, its powerful AI video model, app and API",
-    "url": "https://venturebeat.com/technology/openai-is-shutting-down-sora-its-powerful-ai-video-app"
-  },
-  "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/": {
-    "sent_at": "2026-03-25T03:38:53.037042",
-    "title": "OpenAI announces plans to shut down its Sora video generator",
-    "url": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/"
-  },
-  "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai": {
-    "sent_at": "2026-03-25T03:38:53.037042",
-    "title": "Anthropic’s Claude can now control your Mac, escalating the fight to build AI agents that actually do work",
-    "url": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai"
-  },
   "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/": {
     "sent_at": "2026-03-25T14:17:19.201201",
     "title": "Agentic commerce runs on truth and context",
@@ -518,5 +503,10 @@
     "sent_at": "2026-04-23T20:07:53.545082",
     "title": "Greenhouse gases from data center boom could outpace entire nations",
     "url": "https://arstechnica.com/ai/2026/04/greenhouse-gases-from-data-center-boom-could-outpace-entire-nations/"
+  },
+  "https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation": {
+    "sent_at": "2026-04-24T04:18:21.234210",
+    "title": "Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation",
+    "url": "https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation"
   }
 }
