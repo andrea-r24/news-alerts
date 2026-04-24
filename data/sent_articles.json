@@ -1,14 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/": {
-    "sent_at": "2026-03-25T14:17:19.201201",
-    "title": "Agentic commerce runs on truth and context",
-    "url": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/"
-  },
-  "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/": {
-    "sent_at": "2026-03-25T14:17:19.201201",
-    "title": "The AI Hype Index: AI goes to war",
-    "url": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/"
-  },
   "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50": {
     "sent_at": "2026-03-25T19:48:39.905367",
     "title": "Google's new TurboQuant algorithm speeds up AI memory 8x, cutting costs by 50% or more",
@@ -508,5 +498,10 @@
     "sent_at": "2026-04-24T04:18:21.234210",
     "title": "Mystery solved: Anthropic reveals changes to Claude's harnesses and operating instructions likely caused degradation",
     "url": "https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation"
+  },
+  "https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to-ship": {
+    "sent_at": "2026-04-24T14:43:43.588500",
+    "title": "85% of enterprises are running AI agents. Only 5% trust them enough to ship.",
+    "url": "https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to-ship"
   }
 }
