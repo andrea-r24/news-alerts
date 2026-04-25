@@ -493,5 +493,15 @@
     "sent_at": "2026-04-24T19:54:03.172334",
     "title": "DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5",
     "url": "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5"
+  },
+  "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/": {
+    "sent_at": "2026-04-25T03:52:57.117971",
+    "title": "Google will invest as much as $40 billion in Anthropic",
+    "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/"
+  },
+  "https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors": {
+    "sent_at": "2026-04-25T03:52:57.117971",
+    "title": "CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices.",
+    "url": "https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors"
   }
 }
