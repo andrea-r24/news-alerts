@@ -1,29 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and": {
-    "sent_at": "2026-03-26T14:23:50.936047",
-    "title": "Mistral AI just released a text-to-speech model it says beats ElevenLabs — and it's giving away the weights for free",
-    "url": "https://venturebeat.com/orchestration/mistral-ai-just-released-a-text-to-speech-model-it-says-beats-elevenlabs-and"
-  },
-  "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/": {
-    "sent_at": "2026-03-26T19:55:41.804088",
-    "title": "OpenAI “indefinitely” shelves plans for erotic ChatGPT",
-    "url": "https://arstechnica.com/tech-policy/2026/03/chatgpt-wont-talk-dirty-any-time-soon-as-sexy-mode-turns-off-investors-report-says/"
-  },
-  "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6": {
-    "sent_at": "2026-03-26T19:55:41.804088",
-    "title": "Intercom's new post-trained Fin Apex 1.0 beats GPT-5.4 and Claude Sonnet 4.6 at customer service resolutions",
-    "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6"
-  },
-  "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/": {
-    "sent_at": "2026-03-28T03:38:18.657081",
-    "title": "With new plugins feature, OpenAI officially takes Codex beyond coding",
-    "url": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/"
-  },
-  "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/": {
-    "sent_at": "2026-03-28T03:38:18.657081",
-    "title": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
-    "url": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/"
-  },
   "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount": {
     "sent_at": "2026-03-28T19:33:44.541811",
     "title": "When AI turns software development inside-out: 170% throughput at 80% headcount",
@@ -503,5 +478,15 @@
     "sent_at": "2026-04-25T03:52:57.117971",
     "title": "CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices.",
     "url": "https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors"
+  },
+  "https://venturebeat.com/orchestration/why-supply-chains-are-the-proving-ground-for-automation-led-ipaas": {
+    "sent_at": "2026-04-27T15:05:22.552363",
+    "title": "Why supply chains are the proving ground for automation‑led iPaaS",
+    "url": "https://venturebeat.com/orchestration/why-supply-chains-are-the-proving-ground-for-automation-led-ipaas"
+  },
+  "https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk": {
+    "sent_at": "2026-04-27T15:05:22.552363",
+    "title": "RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk",
+    "url": "https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk"
   }
 }
