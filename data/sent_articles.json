@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount": {
-    "sent_at": "2026-03-28T19:33:44.541811",
-    "title": "When AI turns software development inside-out: 170% throughput at 80% headcount",
-    "url": "https://venturebeat.com/orchestration/when-ai-turns-software-development-inside-out-170-throughput-at-80-headcount"
-  },
   "https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps": {
     "sent_at": "2026-03-30T19:56:56.199931",
     "title": "RSAC 2026 shipped five agent identity frameworks and left three critical gaps open",
@@ -488,5 +483,25 @@
     "sent_at": "2026-04-27T15:05:22.552363",
     "title": "RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk",
     "url": "https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk"
+  },
+  "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/": {
+    "sent_at": "2026-04-28T04:34:56.987599",
+    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
+    "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/"
+  },
+  "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud": {
+    "sent_at": "2026-04-28T04:34:56.987599",
+    "title": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud",
+    "url": "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud"
+  },
+  "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks": {
+    "sent_at": "2026-04-28T04:34:56.987599",
+    "title": "Open source Xiaomi MiMo-V2.5 and V2.5-Pro are among the most efficient (and affordable) at agentic 'claw' tasks",
+    "url": "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks"
+  },
+  "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/": {
+    "sent_at": "2026-04-28T04:34:56.987599",
+    "title": "Musk and Altman face off in trial that will determine OpenAI's future",
+    "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/"
   }
 }
