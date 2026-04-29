@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps": {
-    "sent_at": "2026-03-30T19:56:56.199931",
-    "title": "RSAC 2026 shipped five agent identity frameworks and left three critical gaps open",
-    "url": "https://venturebeat.com/security/rsac-2026-agent-identity-frameworks-three-gaps"
-  },
-  "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace": {
-    "sent_at": "2026-03-30T19:56:56.199931",
-    "title": "Cohere's open-weight ASR model hits 5.4% word error rate — low enough to replace speech APIs in production pipelines",
-    "url": "https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace"
-  },
-  "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/": {
-    "sent_at": "2026-03-30T19:56:56.199931",
-    "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-    "url": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/"
-  },
   "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to": {
     "sent_at": "2026-03-31T03:51:02.089339",
     "title": "Midjourney engineer debuts new vibe coded, open source standard Pretext to revolutionize web design",
@@ -518,5 +503,20 @@
     "sent_at": "2026-04-29T15:10:29.807227",
     "title": "Sam Altman is “the face of evil” for not reporting school shooter, says lawyer",
     "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/"
+  },
+  "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall": {
+    "sent_at": "2026-04-29T20:12:59.595879",
+    "title": "The retrieval rebuild: Why hybrid retrieval intent tripled as enterprise RAG programs hit the scale wall",
+    "url": "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall"
+  },
+  "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system": {
+    "sent_at": "2026-04-29T20:12:59.595879",
+    "title": "IBM launches Bob with multi-model routing and human checkpoints to turn AI coding into a secure production system",
+    "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system"
+  },
+  "https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see": {
+    "sent_at": "2026-04-29T20:12:59.595879",
+    "title": "AWS Quick's personal knowledge graph is making orchestration decisions most control planes can't see",
+    "url": "https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see"
   }
 }
