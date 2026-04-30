@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to": {
-    "sent_at": "2026-03-31T03:51:02.089339",
-    "title": "Midjourney engineer debuts new vibe coded, open source standard Pretext to revolutionize web design",
-    "url": "https://venturebeat.com/technology/midjourney-engineer-debuts-new-vibe-coded-open-source-standard-pretext-to"
-  },
   "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/": {
     "sent_at": "2026-03-31T14:25:27.800260",
     "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
@@ -518,5 +513,10 @@
     "sent_at": "2026-04-29T20:12:59.595879",
     "title": "AWS Quick's personal knowledge graph is making orchestration decisions most control planes can't see",
     "url": "https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see"
+  },
+  "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies": {
+    "sent_at": "2026-04-30T04:33:18.933497",
+    "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
+    "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies"
   }
 }
