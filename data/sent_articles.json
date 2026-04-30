@@ -1,14 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/": {
-    "sent_at": "2026-03-31T14:25:27.800260",
-    "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-    "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/"
-  },
-  "https://venturebeat.com/technology/softr-launches-ai-native-platform-to-help-nontechnical-teams-build-business": {
-    "sent_at": "2026-03-31T14:25:27.800260",
-    "title": "Softr launches AI-native platform to help nontechnical teams build business apps without code",
-    "url": "https://venturebeat.com/technology/softr-launches-ai-native-platform-to-help-nontechnical-teams-build-business"
-  },
   "https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch": {
     "sent_at": "2026-03-31T19:55:59.566856",
     "title": "OpenClaw has 500,000 instances and no enterprise kill switch",
@@ -518,5 +508,10 @@
     "sent_at": "2026-04-30T04:33:18.933497",
     "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
     "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies"
+  },
+  "https://venturebeat.com/technology/netomi-raises-110-million-as-accenture-and-adobe-bet-on-ai-for-customer-service": {
+    "sent_at": "2026-04-30T15:07:13.920408",
+    "title": "Netomi raises $110 million as Accenture and Adobe bet on AI for customer service",
+    "url": "https://venturebeat.com/technology/netomi-raises-110-million-as-accenture-and-adobe-bet-on-ai-for-customer-service"
   }
 }
