@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations": {
-    "sent_at": "2026-04-01T14:26:55.416051",
-    "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
-    "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations"
-  },
   "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders": {
     "sent_at": "2026-04-02T03:44:46.539740",
     "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
@@ -508,5 +503,15 @@
     "sent_at": "2026-05-01T04:51:17.979929",
     "title": "Alibaba's Metis agent cuts redundant AI tool calls from 98% to 2% — and gets more accurate doing it",
     "url": "https://venturebeat.com/orchestration/alibabas-metis-agent-cuts-redundant-ai-tool-calls-from-98-to-2-and-gets-more-accurate-doing-it"
+  },
+  "https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives": {
+    "sent_at": "2026-05-01T20:06:57.149152",
+    "title": "The AI scaffolding layer is collapsing. LlamaIndex's CEO explains what survives.",
+    "url": "https://venturebeat.com/infrastructure/the-ai-scaffolding-layer-is-collapsing-llamaindexs-ceo-explains-what-survives"
+  },
+  "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite": {
+    "sent_at": "2026-05-01T20:06:57.149152",
+    "title": "xAI launches Grok 4.3 at an aggressively low price and a new, fast, powerful voice cloning suite",
+    "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite"
   }
 }
