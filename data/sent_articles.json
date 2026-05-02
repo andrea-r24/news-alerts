@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders": {
-    "sent_at": "2026-04-02T03:44:46.539740",
-    "title": "In the wake of Claude Code's source code leak, 5 actions enterprise security leaders should take now",
-    "url": "https://venturebeat.com/security/claude-code-512000-line-source-leak-attack-paths-audit-security-leaders"
-  },
-  "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved": {
-    "sent_at": "2026-04-02T03:44:46.539740",
-    "title": "Intuit's AI agents hit 85% repeat usage. The secret was keeping humans involved",
-    "url": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved"
-  },
-  "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/": {
-    "sent_at": "2026-04-02T03:44:46.539740",
-    "title": "Here's what that Claude Code source leak reveals about Anthropic's plans",
-    "url": "https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/"
-  },
   "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google": {
     "sent_at": "2026-04-02T14:20:40.207291",
     "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
@@ -513,5 +498,15 @@
     "sent_at": "2026-05-01T20:06:57.149152",
     "title": "xAI launches Grok 4.3 at an aggressively low price and a new, fast, powerful voice cloning suite",
     "url": "https://venturebeat.com/technology/xai-launches-grok-4-3-at-an-aggressively-low-price-and-a-new-fast-powerful-voice-cloning-suite"
+  },
+  "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/": {
+    "sent_at": "2026-05-02T04:19:12.532578",
+    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
+  },
+  "https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit": {
+    "sent_at": "2026-05-02T04:19:12.532578",
+    "title": "200,000 MCP servers expose a command execution flaw that Anthropic calls a feature",
+    "url": "https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit"
   }
 }
