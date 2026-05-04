@@ -1,39 +1,4 @@
 {
-  "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google": {
-    "sent_at": "2026-04-02T14:20:40.207291",
-    "title": "Microsoft launches 3 new AI models in direct shot at OpenAI and Google",
-    "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google"
-  },
-  "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/": {
-    "sent_at": "2026-04-02T19:52:06.356871",
-    "title": "Anthropic says its leak-focused DMCA effort unintentionally hit legit GitHub forks",
-    "url": "https://arstechnica.com/ai/2026/04/anthropic-says-its-leak-focused-dmca-effort-unintentionally-hit-legit-github-forks/"
-  },
-  "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made": {
-    "sent_at": "2026-04-03T03:46:00.832152",
-    "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
-    "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made"
-  },
-  "https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/": {
-    "sent_at": "2026-04-03T14:01:21.874531",
-    "title": "OpenAI takes on another \"side quest,\" buys tech-focused talk show TBPN",
-    "url": "https://arstechnica.com/ai/2026/04/openai-takes-on-another-side-quest-buys-tech-focused-talk-show-tbpn/"
-  },
-  "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an": {
-    "sent_at": "2026-04-04T03:34:40.996690",
-    "title": "Karpathy shares 'LLM Knowledge Base' architecture that bypasses RAG with an evolving markdown library maintained by AI",
-    "url": "https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an"
-  },
-  "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among": {
-    "sent_at": "2026-04-04T03:34:40.996690",
-    "title": "Nvidia launches enterprise AI agent platform with Adobe, Salesforce, SAP among 17 adopters at GTC 2026",
-    "url": "https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among"
-  },
-  "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing": {
-    "sent_at": "2026-04-04T19:34:44.202691",
-    "title": "OCSF explained: The shared data language security teams have been missing",
-    "url": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing"
-  },
   "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos": {
     "sent_at": "2026-04-05T19:36:53.967085",
     "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
@@ -508,5 +473,25 @@
     "sent_at": "2026-05-02T04:19:12.532578",
     "title": "200,000 MCP servers expose a command execution flaw that Anthropic calls a feature",
     "url": "https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit"
+  },
+  "https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat": {
+    "sent_at": "2026-05-04T20:19:18.266886",
+    "title": "Microsoft takes Agent 365 out of preview as shadow AI becomes an enterprise threat",
+    "url": "https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat"
+  },
+  "https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next": {
+    "sent_at": "2026-05-04T20:19:18.266886",
+    "title": "The RAG era is ending for agentic AI — a new compilation-stage knowledge layer is what comes next",
+    "url": "https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next"
+  },
+  "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/": {
+    "sent_at": "2026-05-04T20:19:18.266886",
+    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
+    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/"
+  },
+  "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/": {
+    "sent_at": "2026-05-04T20:19:18.266886",
+    "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
+    "url": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/"
   }
 }
