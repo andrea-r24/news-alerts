@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos": {
-    "sent_at": "2026-04-05T19:36:53.967085",
-    "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
-    "url": "https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos"
-  },
   "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/": {
     "sent_at": "2026-04-06T19:54:23.201403",
     "title": "The one piece of data that could actually shed light on your job and AI",
@@ -498,5 +493,25 @@
     "sent_at": "2026-05-05T04:17:33.099965",
     "title": "Inside AMEX’s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions",
     "url": "https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions"
+  },
+  "https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof": {
+    "sent_at": "2026-05-06T04:34:49.405678",
+    "title": "Miami startup Subquadratic claims 1,000x AI efficiency gain with SubQ model; researchers demand independent proof.",
+    "url": "https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof"
+  },
+  "https://venturebeat.com/orchestration/gpt-5-5-instant-shows-you-what-it-remembered-just-not-all-of-it": {
+    "sent_at": "2026-05-06T04:34:49.405678",
+    "title": "GPT-5.5 Instant shows you what it remembered — just not all of it",
+    "url": "https://venturebeat.com/orchestration/gpt-5-5-instant-shows-you-what-it-remembered-just-not-all-of-it"
+  },
+  "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/": {
+    "sent_at": "2026-05-06T04:34:49.405678",
+    "title": "OpenAI president forced to read his personal diary entries to jury",
+    "url": "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/"
+  },
+  "https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner": {
+    "sent_at": "2026-05-06T04:34:49.405678",
+    "title": "One command turns any open-source repo into an AI agent backdoor. OpenClaw proved no supply-chain scanner has a detection category for it",
+    "url": "https://venturebeat.com/security/one-command-open-source-repo-ai-agent-backdoor-openclaw-supply-chain-scanner"
   }
 }
