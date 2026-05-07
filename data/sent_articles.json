@@ -1,9 +1,4 @@
 {
-  "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/": {
-    "sent_at": "2026-04-07T03:49:54.619539",
-    "title": "“The problem is Sam Altman”: OpenAI Insiders don’t trust CEO",
-    "url": "https://arstechnica.com/tech-policy/2026/04/the-problem-is-sam-altman-openai-insiders-dont-trust-ceo/"
-  },
   "https://www.technologyreview.com/2026/04/07/1134966/enabling-agent-first-process-redesign/": {
     "sent_at": "2026-04-07T14:28:39.206368",
     "title": "Enabling agent-first process redesign",
@@ -508,5 +503,10 @@
     "sent_at": "2026-05-06T20:26:43.364026",
     "title": "Anthropic's Claude Managed Agents can now \"dream,\" sort of",
     "url": "https://arstechnica.com/ai/2026/05/anthropics-claude-can-now-dream-sort-of/"
+  },
+  "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/": {
+    "sent_at": "2026-05-07T04:35:25.827299",
+    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+    "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/"
   }
 }
