@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since": {
-    "sent_at": "2026-04-08T19:59:42.795897",
-    "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation",
-    "url": "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since"
-  },
-  "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/": {
-    "sent_at": "2026-04-08T19:59:42.795897",
-    "title": "To beat Altman in court, Musk offers to give all damages to OpenAI nonprofit",
-    "url": "https://arstechnica.com/tech-policy/2026/04/to-beat-altman-in-court-musk-offers-to-give-all-damages-to-open-ai-nonprofit/"
-  },
-  "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the": {
-    "sent_at": "2026-04-08T19:59:42.795897",
-    "title": "New framework lets AI agents rewrite their own skills without retraining the underlying model",
-    "url": "https://venturebeat.com/orchestration/new-framework-lets-ai-agents-rewrite-their-own-skills-without-retraining-the"
-  },
   "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos": {
     "sent_at": "2026-04-09T03:48:41.892277",
     "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
@@ -498,5 +483,15 @@
     "sent_at": "2026-05-08T14:48:59.280578",
     "title": "5% GPU utilization: The $401 billion AI infrastructure problem enterprises can't keep ignoring",
     "url": "https://venturebeat.com/infrastructure/5-gpu-utilization-the-401-billion-ai-infrastructure-problem-enterprises-cant-keep-ignoring"
+  },
+  "https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model": {
+    "sent_at": "2026-05-08T20:08:13.409826",
+    "title": "An AI agent rewrote a Fortune 50 security policy. Here's how to govern AI agents before one does the same.",
+    "url": "https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model"
+  },
+  "https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous": {
+    "sent_at": "2026-05-08T20:08:13.409826",
+    "title": "Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous",
+    "url": "https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous"
   }
 }
