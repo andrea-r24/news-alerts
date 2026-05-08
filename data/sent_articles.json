@@ -1,9 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/": {
-    "sent_at": "2026-04-08T14:44:22.474750",
-    "title": "Anthropic limits access to Mythos, its new cybersecurity AI model",
-    "url": "https://arstechnica.com/ai/2026/04/anthropic-limits-access-to-mythos-its-new-cybersecurity-ai-model/"
-  },
   "https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since": {
     "sent_at": "2026-04-08T19:59:42.795897",
     "title": "Goodbye, Llama? Meta launches new proprietary AI model Muse Spark — first since Superintelligence Labs' formation",
@@ -498,5 +493,10 @@
     "sent_at": "2026-05-08T04:17:08.326057",
     "title": "How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro",
     "url": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro"
+  },
+  "https://venturebeat.com/infrastructure/5-gpu-utilization-the-401-billion-ai-infrastructure-problem-enterprises-cant-keep-ignoring": {
+    "sent_at": "2026-05-08T14:48:59.280578",
+    "title": "5% GPU utilization: The $401 billion AI infrastructure problem enterprises can't keep ignoring",
+    "url": "https://venturebeat.com/infrastructure/5-gpu-utilization-the-401-billion-ai-infrastructure-problem-enterprises-cant-keep-ignoring"
   }
 }
