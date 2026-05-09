@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos": {
-    "sent_at": "2026-04-09T03:48:41.892277",
-    "title": "Claude, OpenClaw and the new reality: AI agents are here — and so is the chaos",
-    "url": "https://venturebeat.com/infrastructure/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos"
-  },
   "https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook": {
     "sent_at": "2026-04-09T20:02:46.734125",
     "title": "Mythos autonomously exploited vulnerabilities that survived 27 years of human review. Security teams need a new detection playbook",
@@ -493,5 +488,20 @@
     "sent_at": "2026-05-08T20:08:13.409826",
     "title": "Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous",
     "url": "https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous"
+  },
+  "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/": {
+    "sent_at": "2026-05-09T04:25:15.764162",
+    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
+  },
+  "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth": {
+    "sent_at": "2026-05-09T04:25:15.764162",
+    "title": "Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth",
+    "url": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth"
+  },
+  "https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate": {
+    "sent_at": "2026-05-09T04:25:15.764162",
+    "title": "OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate",
+    "url": "https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate"
   }
 }
