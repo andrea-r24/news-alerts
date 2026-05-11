@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw": {
-    "sent_at": "2026-04-11T03:38:08.242872",
-    "title": "AI agent credentials live in the same box as untrusted code. Two new architectures show where the blast radius actually stops.",
-    "url": "https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw"
-  },
-  "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/": {
-    "sent_at": "2026-04-11T13:54:04.366541",
-    "title": "AI models are terrible at betting on soccer—especially xAI Grok",
-    "url": "https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/"
-  },
   "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development": {
     "sent_at": "2026-04-13T14:44:53.159388",
     "title": "Agentic coding at enterprise scale demands spec-driven development",
@@ -493,5 +483,10 @@
     "sent_at": "2026-05-10T19:59:51.481512",
     "title": "AI tool poisoning exposes a major flaw in enterprise agent security",
     "url": "https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security"
+  },
+  "https://venturebeat.com/security/cisco-dickman-agentic-ai-trust-identity-governance-microsegmentation": {
+    "sent_at": "2026-05-11T20:48:11.048642",
+    "title": "AI agents are running hospital records and factory inspections. Enterprise IAM was never built for them.",
+    "url": "https://venturebeat.com/security/cisco-dickman-agentic-ai-trust-identity-governance-microsegmentation"
   }
 }
