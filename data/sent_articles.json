@@ -493,5 +493,15 @@
     "sent_at": "2026-05-12T04:37:36.721698",
     "title": "Thinking Machines shows off preview of near-realtime AI voice and video conversation with new 'interaction models'",
     "url": "https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models"
+  },
+  "https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google": {
+    "sent_at": "2026-05-12T20:42:13.121352",
+    "title": "Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI & Google",
+    "url": "https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google"
+  },
+  "https://venturebeat.com/security/claude-confused-deputy-audit-matrix-security-blind-spots": {
+    "sent_at": "2026-05-12T20:42:13.121352",
+    "title": "Running Claude Code or Claude in Chrome? Here's the audit matrix for every blind spot your security stack misses",
+    "url": "https://venturebeat.com/security/claude-confused-deputy-audit-matrix-security-blind-spots"
   }
 }
