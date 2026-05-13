@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development": {
-    "sent_at": "2026-04-13T14:44:53.159388",
-    "title": "Agentic coding at enterprise scale demands spec-driven development",
-    "url": "https://venturebeat.com/orchestration/agentic-coding-at-enterprise-scale-demands-spec-driven-development"
-  },
-  "https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance": {
-    "sent_at": "2026-04-13T20:08:38.221043",
-    "title": "Is Anthropic 'nerfing' Claude? Users increasingly report performance degradation as leaders push back",
-    "url": "https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance"
-  },
   "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds": {
     "sent_at": "2026-04-14T14:49:00.696943",
     "title": "43% of AI-generated code changes need debugging in production, survey finds",
@@ -503,5 +493,20 @@
     "sent_at": "2026-05-12T20:42:13.121352",
     "title": "Running Claude Code or Claude in Chrome? Here's the audit matrix for every blind spot your security stack misses",
     "url": "https://venturebeat.com/security/claude-confused-deputy-audit-matrix-security-blind-spots"
+  },
+  "https://venturebeat.com/orchestration/frontier-ai-models-dont-just-delete-document-content-they-rewrite-it-and-the-errors-are-nearly-impossible-to-catch": {
+    "sent_at": "2026-05-13T20:47:18.847381",
+    "title": "Frontier AI models don't just delete document content — they rewrite it, and the errors are nearly impossible to catch",
+    "url": "https://venturebeat.com/orchestration/frontier-ai-models-dont-just-delete-document-content-they-rewrite-it-and-the-errors-are-nearly-impossible-to-catch"
+  },
+  "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/": {
+    "sent_at": "2026-05-13T20:47:18.847381",
+    "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
+    "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/"
+  },
+  "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/": {
+    "sent_at": "2026-05-13T20:47:18.847381",
+    "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
+    "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/"
   }
 }
