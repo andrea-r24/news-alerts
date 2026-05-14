@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds": {
-    "sent_at": "2026-04-14T14:49:00.696943",
-    "title": "43% of AI-generated code changes need debugging in production, survey finds",
-    "url": "https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds"
-  },
   "https://venturebeat.com/orchestration/anthropics-claude-managed-agents-gives-enterprises-a-new-one-stop-shop-but": {
     "sent_at": "2026-04-14T20:07:39.572523",
     "title": "Anthropic’s Claude Managed Agents gives enterprises a new one-stop shop but raises vendor 'lock-in' risk",
@@ -523,5 +518,10 @@
     "sent_at": "2026-05-14T04:48:02.401192",
     "title": "Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead",
     "url": "https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead"
+  },
+  "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/": {
+    "sent_at": "2026-05-14T15:16:03.427734",
+    "title": "Data readiness for agentic AI in financial services",
+    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
   }
 }
