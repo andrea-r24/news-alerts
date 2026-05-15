@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit": {
-    "sent_at": "2026-04-15T20:05:29.411063",
-    "title": "Frontier models are failing one in three production attempts — and getting harder to audit",
-    "url": "https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit"
-  },
-  "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know": {
-    "sent_at": "2026-04-15T20:05:29.411063",
-    "title": "We tested Anthropic’s redesigned Claude Code desktop app and 'Routines' — here's what enterprises should know",
-    "url": "https://venturebeat.com/orchestration/we-tested-anthropics-redesigned-claude-code-desktop-app-and-routines-heres-what-enterprises-should-know"
-  },
-  "https://venturebeat.com/orchestration/ais-next-bottleneck-isnt-the-models-its-whether-agents-can-think-together": {
-    "sent_at": "2026-04-15T20:05:29.411063",
-    "title": "AI's next bottleneck isn't the models — it's whether agents can think together",
-    "url": "https://venturebeat.com/orchestration/ais-next-bottleneck-isnt-the-models-its-whether-agents-can-think-together"
-  },
   "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/": {
     "sent_at": "2026-04-16T14:53:07.518618",
     "title": "Why having “humans in the loop” in an AI war is an illusion",
@@ -518,5 +503,15 @@
     "sent_at": "2026-05-15T15:10:47.869988",
     "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
     "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/"
+  },
+  "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/": {
+    "sent_at": "2026-05-15T20:17:53.948923",
+    "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
+    "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/"
+  },
+  "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane": {
+    "sent_at": "2026-05-15T20:17:53.948923",
+    "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
+    "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane"
   }
 }
