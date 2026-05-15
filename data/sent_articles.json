@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt": {
-    "sent_at": "2026-04-15T14:28:37.228768",
-    "title": "Adobe’s new Firefly AI Assistant wants to run Photoshop, Premiere, Illustrator and more from one prompt",
-    "url": "https://venturebeat.com/technology/adobes-new-firefly-ai-assistant-wants-to-run-photoshop-premiere-illustrator-and-more-from-one-prompt"
-  },
-  "https://venturebeat.com/orchestration/traza-raises-usd2-1-million-led-by-base10-to-automate-procurement-workflows-with-ai": {
-    "sent_at": "2026-04-15T14:28:37.228768",
-    "title": "Traza raises $2.1 million led by Base10 to automate procurement workflows with AI",
-    "url": "https://venturebeat.com/orchestration/traza-raises-usd2-1-million-led-by-base10-to-automate-procurement-workflows-with-ai"
-  },
   "https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit": {
     "sent_at": "2026-04-15T20:05:29.411063",
     "title": "Frontier models are failing one in three production attempts — and getting harder to audit",
@@ -523,5 +513,10 @@
     "sent_at": "2026-05-15T04:53:21.562320",
     "title": "Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure",
     "url": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure"
+  },
+  "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/": {
+    "sent_at": "2026-05-15T15:10:47.869988",
+    "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+    "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/"
   }
 }
