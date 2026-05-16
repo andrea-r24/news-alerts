@@ -513,5 +513,20 @@
     "sent_at": "2026-05-15T20:17:53.948923",
     "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
     "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane"
+  },
+  "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/": {
+    "sent_at": "2026-05-16T04:29:56.760126",
+    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
+  },
+  "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/": {
+    "sent_at": "2026-05-16T04:29:56.760126",
+    "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
+    "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/"
+  },
+  "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent": {
+    "sent_at": "2026-05-16T04:29:56.760126",
+    "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
+    "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent"
   }
 }
