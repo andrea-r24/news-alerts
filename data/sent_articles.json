@@ -1,54 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/": {
-    "sent_at": "2026-04-16T14:53:07.518618",
-    "title": "Why having “humans in the loop” in an AI war is an illusion",
-    "url": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/"
-  },
-  "https://venturebeat.com/infrastructure/are-we-getting-what-we-paid-for-how-to-turn-ai-momentum-into-measurable-value": {
-    "sent_at": "2026-04-16T20:01:08.770280",
-    "title": "Are we getting what we paid for? How to turn AI momentum into measurable value",
-    "url": "https://venturebeat.com/infrastructure/are-we-getting-what-we-paid-for-how-to-turn-ai-momentum-into-measurable-value"
-  },
-  "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github": {
-    "sent_at": "2026-04-16T20:01:08.770280",
-    "title": "OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github",
-    "url": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github"
-  },
-  "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages": {
-    "sent_at": "2026-04-16T20:01:08.770280",
-    "title": "OpenAI drastically updates Codex desktop app to use all other apps on your computer, generate images, preview webpages",
-    "url": "https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages"
-  },
-  "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm": {
-    "sent_at": "2026-04-16T20:01:08.770280",
-    "title": "Anthropic releases Claude Opus 4.7, narrowly retaking lead for most powerful generally available LLM",
-    "url": "https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm"
-  },
-  "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/": {
-    "sent_at": "2026-04-17T04:13:03.014199",
-    "title": "OpenAI starts offering a biology-tuned LLM",
-    "url": "https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/"
-  },
-  "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents": {
-    "sent_at": "2026-04-17T04:13:03.014199",
-    "title": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
-    "url": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents"
-  },
-  "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps": {
-    "sent_at": "2026-04-17T14:19:26.873408",
-    "title": "Should my enterprise AI agent do that? NanoClaw and Vercel launch easier agentic policy setting and approval dialogs across 15 messaging apps",
-    "url": "https://venturebeat.com/orchestration/should-my-enterprise-ai-agent-do-that-nanoclaw-and-vercel-launch-easier-agentic-policy-setting-and-approval-dialogs-across-15-messaging-apps"
-  },
-  "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds": {
-    "sent_at": "2026-04-17T19:59:05.594756",
-    "title": "Most enterprises can't stop stage-three AI agent threats, VentureBeat survey finds",
-    "url": "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds"
-  },
-  "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma": {
-    "sent_at": "2026-04-17T19:59:05.594756",
-    "title": "Anthropic just launched Claude Design, an AI tool that turns prompts into prototypes and challenges Figma",
-    "url": "https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma"
-  },
   "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/": {
     "sent_at": "2026-04-20T14:46:56.887055",
     "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
@@ -528,5 +478,10 @@
     "sent_at": "2026-05-16T04:29:56.760126",
     "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
     "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent"
+  },
+  "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production": {
+    "sent_at": "2026-05-17T20:05:51.909907",
+    "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
+    "url": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production"
   }
 }
