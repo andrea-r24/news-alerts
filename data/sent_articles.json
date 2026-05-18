@@ -483,5 +483,20 @@
     "sent_at": "2026-05-17T20:05:51.909907",
     "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
     "url": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production"
+  },
+  "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/": {
+    "sent_at": "2026-05-18T20:27:15.451449",
+    "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
+    "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/"
+  },
+  "https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix": {
+    "sent_at": "2026-05-18T20:27:15.451449",
+    "title": "Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering",
+    "url": "https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix"
+  },
+  "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer": {
+    "sent_at": "2026-05-18T20:27:15.451449",
+    "title": "LangSmith Engine closes the agent debugging loop automatically — but multi-model enterprises still need a neutral layer",
+    "url": "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer"
   }
 }
