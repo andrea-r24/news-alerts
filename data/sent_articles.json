@@ -498,5 +498,15 @@
     "sent_at": "2026-05-18T20:27:15.451449",
     "title": "LangSmith Engine closes the agent debugging loop automatically — but multi-model enterprises still need a neutral layer",
     "url": "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer"
+  },
+  "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/": {
+    "sent_at": "2026-05-19T05:04:11.804416",
+    "title": "Here’s why Elon Musk lost his suit against OpenAI",
+    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/"
+  },
+  "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits": {
+    "sent_at": "2026-05-19T05:04:11.804416",
+    "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
+    "url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits"
   }
 }
