@@ -1,9 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/": {
-    "sent_at": "2026-04-20T14:46:56.887055",
-    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-    "url": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/"
-  },
   "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/": {
     "sent_at": "2026-04-20T20:00:36.016126",
     "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
@@ -543,5 +538,15 @@
     "sent_at": "2026-05-20T05:06:58.880522",
     "title": "AWS nabs white hot gen AI media creation startup fal, becoming its preferred cloud provider",
     "url": "https://venturebeat.com/infrastructure/aws-nabs-white-hot-gen-ai-media-creation-startup-fal-becoming-its-preferred-cloud-provider"
+  },
+  "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain": {
+    "sent_at": "2026-05-20T16:23:20.956229",
+    "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
+    "url": "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain"
+  },
+  "https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai": {
+    "sent_at": "2026-05-20T16:23:20.956229",
+    "title": "Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI",
+    "url": "https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai"
   }
 }
