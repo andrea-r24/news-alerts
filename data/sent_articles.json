@@ -1,9 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/": {
-    "sent_at": "2026-04-20T20:00:36.016126",
-    "title": "Anthropic's Mythos AI model sparks fears of turbocharged hacking",
-    "url": "https://arstechnica.com/ai/2026/04/anthropics-mythos-ai-model-sparks-fears-of-turbocharged-hacking/"
-  },
   "https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall": {
     "sent_at": "2026-04-21T14:45:45.229606",
     "title": "Adversaries hijacked AI security tools at 90+ organizations. The next wave has write access to the firewall",
@@ -548,5 +543,25 @@
     "sent_at": "2026-05-20T16:23:20.956229",
     "title": "Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI",
     "url": "https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai"
+  },
+  "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds": {
+    "sent_at": "2026-05-20T21:00:06.490212",
+    "title": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds",
+    "url": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds"
+  },
+  "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned": {
+    "sent_at": "2026-05-20T21:00:06.490212",
+    "title": "Enterprise AI agents keep failing because they forget what they learned",
+    "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned"
+  },
+  "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/": {
+    "sent_at": "2026-05-20T21:00:06.490212",
+    "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
+    "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/"
+  },
+  "https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk": {
+    "sent_at": "2026-05-20T21:00:06.490212",
+    "title": "GitHub confirms 3,800 internal repos stolen through poisoned VS Code extension as supply chain worm hits Microsoft’s Python SDK",
+    "url": "https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk"
   }
 }
