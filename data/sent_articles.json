@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall": {
-    "sent_at": "2026-04-21T14:45:45.229606",
-    "title": "Adversaries hijacked AI security tools at 90+ organizations. The next wave has write access to the firewall",
-    "url": "https://venturebeat.com/security/adversaries-hijacked-ai-security-tools-at-90-organizations-the-next-wave-has-write-access-to-the-firewall"
-  },
   "https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do": {
     "sent_at": "2026-04-21T20:05:15.414279",
     "title": "The AI governance mirage: Why 72% of enterprises don’t have the control and security they think they do",
@@ -573,5 +568,20 @@
     "sent_at": "2026-05-21T05:10:43.319313",
     "title": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
     "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a"
+  },
+  "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/": {
+    "sent_at": "2026-05-21T16:14:13.426610",
+    "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+    "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
+  },
+  "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that": {
+    "sent_at": "2026-05-21T16:14:13.426610",
+    "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
+    "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that"
+  },
+  "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce": {
+    "sent_at": "2026-05-21T16:14:13.426610",
+    "title": "Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce",
+    "url": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce"
   }
 }
