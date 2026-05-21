@@ -1,29 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do": {
-    "sent_at": "2026-04-21T20:05:15.414279",
-    "title": "The AI governance mirage: Why 72% of enterprises don’t have the control and security they think they do",
-    "url": "https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do"
-  },
-  "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly": {
-    "sent_at": "2026-04-21T20:05:15.414279",
-    "title": "OpenAI's ChatGPT Images 2.0 is here and it does multilingual text, full infographics, slides, maps, even manga — seemingly flawlessly",
-    "url": "https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly"
-  },
-  "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/": {
-    "sent_at": "2026-04-21T20:05:15.414279",
-    "title": "Building agent-first governance and security",
-    "url": "https://www.technologyreview.com/2026/04/21/1136158/building-agent-first-governance-and-security/"
-  },
-  "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/": {
-    "sent_at": "2026-04-21T20:05:15.414279",
-    "title": "Anthropic gets $5B investment from Amazon, will use it to buy Amazon chips",
-    "url": "https://arstechnica.com/ai/2026/04/anthropic-gets-5b-investment-from-amazon-will-use-it-to-buy-amazon-chips/"
-  },
-  "https://venturebeat.com/orchestration/kimi-k2-6-runs-agents-for-days-and-exposes-the-limits-of-enterprise-orchestration": {
-    "sent_at": "2026-04-21T20:05:15.414279",
-    "title": "Kimi K2.6 runs agents for days — and exposes the limits of enterprise orchestration",
-    "url": "https://venturebeat.com/orchestration/kimi-k2-6-runs-agents-for-days-and-exposes-the-limits-of-enterprise-orchestration"
-  },
   "https://arstechnica.com/ai/2026/04/mozilla-anthropics-mythos-found-271-zero-day-vulnerabilities-in-firefox-150/": {
     "sent_at": "2026-04-22T04:09:13.238009",
     "title": "Mozilla: Anthropic's Mythos found 271 security vulnerabilities in Firefox 150",
@@ -583,5 +558,10 @@
     "sent_at": "2026-05-21T16:14:13.426610",
     "title": "Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce",
     "url": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce"
+  },
+  "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant": {
+    "sent_at": "2026-05-21T20:52:16.739085",
+    "title": "A 0.12% parameter add-on gives AI agents the working memory RAG can't",
+    "url": "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant"
   }
 }
