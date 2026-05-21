@@ -563,5 +563,15 @@
     "sent_at": "2026-05-20T21:00:06.490212",
     "title": "GitHub confirms 3,800 internal repos stolen through poisoned VS Code extension as supply chain worm hits Microsoft’s Python SDK",
     "url": "https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk"
+  },
+  "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control": {
+    "sent_at": "2026-05-21T05:10:43.319313",
+    "title": "Google's Managed Agents API promises one-call deployment at the cost of execution layer control",
+    "url": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control"
+  },
+  "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a": {
+    "sent_at": "2026-05-21T05:10:43.319313",
+    "title": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
+    "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a"
   }
 }
