@@ -1,34 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/": {
-    "sent_at": "2026-04-22T20:07:32.354917",
-    "title": "Anthropic tested removing Claude Code from the Pro plan",
-    "url": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/"
-  },
-  "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets": {
-    "sent_at": "2026-04-22T20:07:32.354917",
-    "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets",
-    "url": "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets"
-  },
-  "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why": {
-    "sent_at": "2026-04-22T20:07:32.354917",
-    "title": "Google doesn't pay the Nvidia tax. Its new TPUs explain why.",
-    "url": "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why"
-  },
-  "https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents": {
-    "sent_at": "2026-04-22T20:07:32.354917",
-    "title": "Salesforce’s Agentforce Vibes 2.0 targets a hidden failure: context overload in AI agents",
-    "url": "https://venturebeat.com/orchestration/salesforces-agentforce-vibes-2-0-targets-a-hidden-failure-context-overload-in-ai-agents"
-  },
-  "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more": {
-    "sent_at": "2026-04-23T04:13:45.438522",
-    "title": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more",
-    "url": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more"
-  },
-  "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution": {
-    "sent_at": "2026-04-23T04:13:45.438522",
-    "title": "Google and AWS split the AI agent stack between control and execution",
-    "url": "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution"
-  },
   "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0": {
     "sent_at": "2026-04-23T20:07:53.545082",
     "title": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0",
@@ -558,5 +528,15 @@
     "sent_at": "2026-05-22T15:46:53.586350",
     "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
     "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
+  },
+  "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026": {
+    "sent_at": "2026-05-23T04:43:08.379623",
+    "title": "Valid certificates, stolen accounts: how attackers broke npm's last trust signal",
+    "url": "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026"
+  },
+  "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database": {
+    "sent_at": "2026-05-23T04:43:08.379623",
+    "title": "Your AI agents need a terminal, not just a vector database",
+    "url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database"
   }
 }
