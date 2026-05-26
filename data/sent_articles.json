@@ -1,14 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/": {
-    "sent_at": "2026-04-25T03:52:57.117971",
-    "title": "Google will invest as much as $40 billion in Anthropic",
-    "url": "https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/"
-  },
-  "https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors": {
-    "sent_at": "2026-04-25T03:52:57.117971",
-    "title": "CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices.",
-    "url": "https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors"
-  },
   "https://venturebeat.com/orchestration/why-supply-chains-are-the-proving-ground-for-automation-led-ipaas": {
     "sent_at": "2026-04-27T15:05:22.552363",
     "title": "Why supply chains are the proving ground for automation‑led iPaaS",
@@ -508,5 +498,10 @@
     "sent_at": "2026-05-24T20:09:00.136888",
     "title": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet",
     "url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet"
+  },
+  "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/": {
+    "sent_at": "2026-05-26T16:39:48.465213",
+    "title": "Rethinking organizational design in the age of agentic AI",
+    "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
   }
 }
