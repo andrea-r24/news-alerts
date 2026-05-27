@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/why-supply-chains-are-the-proving-ground-for-automation-led-ipaas": {
-    "sent_at": "2026-04-27T15:05:22.552363",
-    "title": "Why supply chains are the proving ground for automation‑led iPaaS",
-    "url": "https://venturebeat.com/orchestration/why-supply-chains-are-the-proving-ground-for-automation-led-ipaas"
-  },
-  "https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk": {
-    "sent_at": "2026-04-27T15:05:22.552363",
-    "title": "RAG precision tuning can quietly cut retrieval accuracy by 40%, putting agentic pipelines at risk",
-    "url": "https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk"
-  },
   "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/": {
     "sent_at": "2026-04-28T04:34:56.987599",
     "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
@@ -513,5 +503,10 @@
     "sent_at": "2026-05-27T05:18:53.739842",
     "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
     "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole"
+  },
+  "https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved": {
+    "sent_at": "2026-05-27T16:34:08.499955",
+    "title": "DataGrail report finds your vendor may be sending data to AI models you never approved",
+    "url": "https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved"
   }
 }
