@@ -508,5 +508,10 @@
     "sent_at": "2026-05-26T20:56:54.915752",
     "title": "Millions of AI agents imperiled by critical vulnerability in open source package",
     "url": "https://arstechnica.com/information-technology/2026/05/millions-of-ai-agents-imperiled-by-critical-vulnerability-in-open-source-package/"
+  },
+  "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole": {
+    "sent_at": "2026-05-27T05:18:53.739842",
+    "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
+    "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole"
   }
 }
