@@ -1,24 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/": {
-    "sent_at": "2026-04-28T04:34:56.987599",
-    "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
-    "url": "https://www.technologyreview.com/2026/04/27/1136466/elon-musk-and-sam-altman-are-going-to-court-over-openais-future/"
-  },
-  "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud": {
-    "sent_at": "2026-04-28T04:34:56.987599",
-    "title": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud",
-    "url": "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud"
-  },
-  "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks": {
-    "sent_at": "2026-04-28T04:34:56.987599",
-    "title": "Open source Xiaomi MiMo-V2.5 and V2.5-Pro are among the most efficient (and affordable) at agentic 'claw' tasks",
-    "url": "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks"
-  },
-  "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/": {
-    "sent_at": "2026-04-28T04:34:56.987599",
-    "title": "Musk and Altman face off in trial that will determine OpenAI's future",
-    "url": "https://arstechnica.com/tech-policy/2026/04/musk-and-altman-face-off-in-trial-that-will-determine-openais-future/"
-  },
   "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding": {
     "sent_at": "2026-04-29T04:30:55.938603",
     "title": "American AI startup Poolside launches free, high-performing open model Laguna XS.2 for local agentic coding",
@@ -518,5 +498,15 @@
     "sent_at": "2026-05-27T21:02:37.568380",
     "title": "Merck and Mastercard are seeing real agentic AI results. Both say the plumbing came first.",
     "url": "https://venturebeat.com/infrastructure/merck-and-mastercard-are-seeing-real-agentic-ai-results-both-say-the-plumbing-came-first"
+  },
+  "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance": {
+    "sent_at": "2026-05-28T16:52:11.879319",
+    "title": "Are designers the new SWEs? Figma Make's new two-way GitHub integration turns designs into live, production code — with built-in governance",
+    "url": "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance"
+  },
+  "https://venturebeat.com/data/sql-query-logs-hold-the-context-ai-agents-need-to-stop-hallucinating-joins": {
+    "sent_at": "2026-05-28T16:52:11.879319",
+    "title": "SQL query logs hold the context AI agents need to stop hallucinating joins",
+    "url": "https://venturebeat.com/data/sql-query-logs-hold-the-context-ai-agents-need-to-stop-hallucinating-joins"
   }
 }
