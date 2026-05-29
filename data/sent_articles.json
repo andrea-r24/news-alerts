@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding": {
-    "sent_at": "2026-04-29T04:30:55.938603",
-    "title": "American AI startup Poolside launches free, high-performing open model Laguna XS.2 for local agentic coding",
-    "url": "https://venturebeat.com/technology/american-ai-startup-poolside-launches-free-high-performing-open-model-laguna-xs-2-for-local-agentic-coding"
-  },
-  "https://venturebeat.com/data/definity-embeds-agents-inside-spark-pipelines-to-catch-failures-before-they-reach-agentic-ai-systems": {
-    "sent_at": "2026-04-29T15:10:29.807227",
-    "title": "Definity embeds agents inside Spark pipelines to catch failures before they reach agentic AI systems",
-    "url": "https://venturebeat.com/data/definity-embeds-agents-inside-spark-pipelines-to-catch-failures-before-they-reach-agentic-ai-systems"
-  },
-  "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/": {
-    "sent_at": "2026-04-29T15:10:29.807227",
-    "title": "Sam Altman is “the face of evil” for not reporting school shooter, says lawyer",
-    "url": "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/"
-  },
   "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall": {
     "sent_at": "2026-04-29T20:12:59.595879",
     "title": "The retrieval rebuild: Why hybrid retrieval intent tripled as enterprise RAG programs hit the scale wall",
@@ -528,5 +513,15 @@
     "sent_at": "2026-05-28T21:10:53.282377",
     "title": "How DeepSeek’s radical architecture is shattering Silicon Valley's token moat",
     "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat"
+  },
+  "https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer": {
+    "sent_at": "2026-05-29T16:40:19.650742",
+    "title": "Pinterest cut AI costs 90% by gutting a frontier model's vision layer",
+    "url": "https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer"
+  },
+  "https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem": {
+    "sent_at": "2026-05-29T16:40:19.650742",
+    "title": "AI agents are entering their rebuild era as enterprises confront the reliability problem",
+    "url": "https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem"
   }
 }
