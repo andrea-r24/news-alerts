@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall": {
-    "sent_at": "2026-04-29T20:12:59.595879",
-    "title": "The retrieval rebuild: Why hybrid retrieval intent tripled as enterprise RAG programs hit the scale wall",
-    "url": "https://venturebeat.com/data/the-retrieval-rebuild-why-hybrid-retrieval-intent-tripled-as-enterprise-rag-programs-hit-the-scale-wall"
-  },
-  "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system": {
-    "sent_at": "2026-04-29T20:12:59.595879",
-    "title": "IBM launches Bob with multi-model routing and human checkpoints to turn AI coding into a secure production system",
-    "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system"
-  },
-  "https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see": {
-    "sent_at": "2026-04-29T20:12:59.595879",
-    "title": "AWS Quick's personal knowledge graph is making orchestration decisions most control planes can't see",
-    "url": "https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see"
-  },
-  "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies": {
-    "sent_at": "2026-04-30T04:33:18.933497",
-    "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
-    "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies"
-  },
   "https://venturebeat.com/technology/netomi-raises-110-million-as-accenture-and-adobe-bet-on-ai-for-customer-service": {
     "sent_at": "2026-04-30T15:07:13.920408",
     "title": "Netomi raises $110 million as Accenture and Adobe bet on AI for customer service",
@@ -523,5 +503,10 @@
     "sent_at": "2026-05-29T16:40:19.650742",
     "title": "AI agents are entering their rebuild era as enterprises confront the reliability problem",
     "url": "https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem"
+  },
+  "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions": {
+    "sent_at": "2026-05-30T04:53:53.781693",
+    "title": "The AI agent bottleneck isn't model performance — it's permissions",
+    "url": "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions"
   }
 }
