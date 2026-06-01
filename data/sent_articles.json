@@ -1,14 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/": {
-    "sent_at": "2026-05-02T04:19:12.532578",
-    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-    "url": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/"
-  },
-  "https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit": {
-    "sent_at": "2026-05-02T04:19:12.532578",
-    "title": "200,000 MCP servers expose a command execution flaw that Anthropic calls a feature",
-    "url": "https://venturebeat.com/security/mcp-stdio-flaw-200000-ai-agent-servers-exposed-ox-security-audit"
-  },
   "https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat": {
     "sent_at": "2026-05-04T20:19:18.266886",
     "title": "Microsoft takes Agent 365 out of preview as shadow AI becomes an enterprise threat",
@@ -468,5 +458,20 @@
     "sent_at": "2026-05-31T20:14:13.574263",
     "title": "Claude Mythos exposed a hard truth: Your enterprise patching process is way too slow",
     "url": "https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow"
+  },
+  "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost": {
+    "sent_at": "2026-06-01T18:35:32.887178",
+    "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
+    "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost"
+  },
+  "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged": {
+    "sent_at": "2026-06-01T18:35:32.887178",
+    "title": "Anthropic’s browser agent got hijacked 31.5% of the time before safeguards engaged",
+    "url": "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged"
+  },
+  "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/": {
+    "sent_at": "2026-06-01T18:35:32.887178",
+    "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
+    "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/"
   }
 }
