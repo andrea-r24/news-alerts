@@ -1,29 +1,4 @@
 {
-  "https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat": {
-    "sent_at": "2026-05-04T20:19:18.266886",
-    "title": "Microsoft takes Agent 365 out of preview as shadow AI becomes an enterprise threat",
-    "url": "https://venturebeat.com/technology/microsoft-takes-agent-365-out-of-preview-as-shadow-ai-becomes-an-enterprise-threat"
-  },
-  "https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next": {
-    "sent_at": "2026-05-04T20:19:18.266886",
-    "title": "The RAG era is ending for agentic AI — a new compilation-stage knowledge layer is what comes next",
-    "url": "https://venturebeat.com/data/the-rag-era-is-ending-for-agentic-ai-a-new-compilation-stage-knowledge-layer-is-what-comes-next"
-  },
-  "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/": {
-    "sent_at": "2026-05-04T20:19:18.266886",
-    "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-    "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/"
-  },
-  "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/": {
-    "sent_at": "2026-05-04T20:19:18.266886",
-    "title": "Musk’s “World War III” threat in Twitter lawsuit haunts him at OpenAI trial",
-    "url": "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/"
-  },
-  "https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions": {
-    "sent_at": "2026-05-05T04:17:33.099965",
-    "title": "Inside AMEX’s agentic commerce stack: How intent contracts and single-use tokens enforce AI transactions",
-    "url": "https://venturebeat.com/orchestration/inside-amexs-agentic-commerce-stack-how-intent-contracts-and-single-use-tokens-enforce-ai-transactions"
-  },
   "https://venturebeat.com/technology/miami-startup-subquadratic-claims-1-000x-ai-efficiency-gain-with-subq-model-researchers-demand-independent-proof": {
     "sent_at": "2026-05-06T04:34:49.405678",
     "title": "Miami startup Subquadratic claims 1,000x AI efficiency gain with SubQ model; researchers demand independent proof.",
@@ -523,5 +498,10 @@
     "sent_at": "2026-06-03T06:05:45.355676",
     "title": "Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary",
     "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary"
+  },
+  "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up": {
+    "sent_at": "2026-06-04T20:59:54.599102",
+    "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up",
+    "url": "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up"
   }
 }
