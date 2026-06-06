@@ -1,9 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/": {
-    "sent_at": "2026-05-07T04:35:25.827299",
-    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
-    "url": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/"
-  },
   "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/": {
     "sent_at": "2026-05-07T15:26:45.481040",
     "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
@@ -488,5 +483,10 @@
     "sent_at": "2026-06-05T20:49:13.710893",
     "title": "Meta's AI support agent bound recovery emails for anyone who asked. Your SOC never saw an alert.",
     "url": "https://venturebeat.com/security/meta-ai-support-agent-recovery-email-takeover-soc-audit-grid"
+  },
+  "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence": {
+    "sent_at": "2026-06-06T04:55:29.419104",
+    "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
+    "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence"
   }
 }
