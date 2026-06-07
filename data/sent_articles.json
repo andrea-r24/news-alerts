@@ -1,39 +1,4 @@
 {
-  "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/": {
-    "sent_at": "2026-05-07T15:26:45.481040",
-    "title": "Elon Musk tried to hire OpenAI founders to start AI unit inside Tesla",
-    "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-tried-to-hire-openai-founders-to-start-ai-unit-inside-tesla/"
-  },
-  "https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus": {
-    "sent_at": "2026-05-07T20:17:28.427505",
-    "title": "Meet ZAYA1-8B, a super efficient, open reasoning model trained on AMD Instinct MI300 GPUs",
-    "url": "https://venturebeat.com/technology/meet-zaya1-8b-a-super-efficient-open-reasoning-model-trained-on-amd-instinct-mi300-gpus"
-  },
-  "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes": {
-    "sent_at": "2026-05-08T04:17:08.326057",
-    "title": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
-    "url": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes"
-  },
-  "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro": {
-    "sent_at": "2026-05-08T04:17:08.326057",
-    "title": "How Sakana trained a 7B model to orchestrate GPT-5, Claude Sonnet 4 and Gemini 2.5 Pro",
-    "url": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro"
-  },
-  "https://venturebeat.com/infrastructure/5-gpu-utilization-the-401-billion-ai-infrastructure-problem-enterprises-cant-keep-ignoring": {
-    "sent_at": "2026-05-08T14:48:59.280578",
-    "title": "5% GPU utilization: The $401 billion AI infrastructure problem enterprises can't keep ignoring",
-    "url": "https://venturebeat.com/infrastructure/5-gpu-utilization-the-401-billion-ai-infrastructure-problem-enterprises-cant-keep-ignoring"
-  },
-  "https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model": {
-    "sent_at": "2026-05-08T20:08:13.409826",
-    "title": "An AI agent rewrote a Fortune 50 security policy. Here's how to govern AI agents before one does the same.",
-    "url": "https://venturebeat.com/security/cisco-crowdstrike-rsac-2026-agent-identity-iam-gap-maturity-model"
-  },
-  "https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous": {
-    "sent_at": "2026-05-08T20:08:13.409826",
-    "title": "Anthropic wants to own your agent's memory, evals, and orchestration — and that should make enterprises nervous",
-    "url": "https://venturebeat.com/orchestration/anthropic-wants-to-own-your-agents-memory-evals-and-orchestration-and-that-should-make-enterprises-nervous"
-  },
   "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/": {
     "sent_at": "2026-05-09T04:25:15.764162",
     "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
@@ -488,5 +453,10 @@
     "sent_at": "2026-06-06T04:55:29.419104",
     "title": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
     "url": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence"
+  },
+  "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering": {
+    "sent_at": "2026-06-07T20:15:33.921723",
+    "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
+    "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering"
   }
 }
