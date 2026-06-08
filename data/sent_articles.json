@@ -1,19 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/": {
-    "sent_at": "2026-05-09T04:25:15.764162",
-    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-    "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
-  },
-  "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth": {
-    "sent_at": "2026-05-09T04:25:15.764162",
-    "title": "Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth",
-    "url": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth"
-  },
-  "https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate": {
-    "sent_at": "2026-05-09T04:25:15.764162",
-    "title": "OpenAI brings GPT-5-class reasoning to real-time voice — and it changes what voice agents can actually orchestrate",
-    "url": "https://venturebeat.com/orchestration/openai-brings-gpt-5-class-reasoning-to-real-time-voice-and-it-changes-what-voice-agents-can-actually-orchestrate"
-  },
   "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly": {
     "sent_at": "2026-05-09T19:58:06.927437",
     "title": "Intent-based chaos testing is designed for when AI behaves confidently — and wrongly",
@@ -458,5 +443,15 @@
     "sent_at": "2026-06-07T20:15:33.921723",
     "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
     "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering"
+  },
+  "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/": {
+    "sent_at": "2026-06-08T16:46:32.904851",
+    "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
+    "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/"
+  },
+  "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/": {
+    "sent_at": "2026-06-08T16:46:32.904851",
+    "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+    "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/"
   }
 }
