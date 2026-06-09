@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly": {
-    "sent_at": "2026-05-09T19:58:06.927437",
-    "title": "Intent-based chaos testing is designed for when AI behaves confidently — and wrongly",
-    "url": "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly"
-  },
   "https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security": {
     "sent_at": "2026-05-10T19:59:51.481512",
     "title": "AI tool poisoning exposes a major flaw in enterprise agent security",
@@ -453,5 +448,10 @@
     "sent_at": "2026-06-08T16:46:32.904851",
     "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
     "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/"
+  },
+  "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information": {
+    "sent_at": "2026-06-09T05:09:23.084885",
+    "title": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
+    "url": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information"
   }
 }
