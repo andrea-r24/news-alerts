@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security": {
-    "sent_at": "2026-05-10T19:59:51.481512",
-    "title": "AI tool poisoning exposes a major flaw in enterprise agent security",
-    "url": "https://venturebeat.com/security/ai-tool-poisoning-exposes-a-major-flaw-in-enterprise-agent-security"
-  },
   "https://venturebeat.com/security/cisco-dickman-agentic-ai-trust-identity-governance-microsegmentation": {
     "sent_at": "2026-05-11T20:48:11.048642",
     "title": "AI agents are running hospital records and factory inspections. Enterprise IAM was never built for them.",
@@ -458,5 +453,20 @@
     "sent_at": "2026-06-09T15:52:41.167744",
     "title": "Learning to lead in a hybrid human-AI enterprise",
     "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
+  },
+  "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/": {
+    "sent_at": "2026-06-09T21:01:35.438781",
+    "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/"
+  },
+  "https://venturebeat.com/technology/on-device-ai-agents-hit-a-hard-memory-limit-apples-new-architecture-routes-around-it": {
+    "sent_at": "2026-06-09T21:01:35.438781",
+    "title": "On-device AI agents hit a hard memory limit. Apple's new architecture routes around it.",
+    "url": "https://venturebeat.com/technology/on-device-ai-agents-hit-a-hard-memory-limit-apples-new-architecture-routes-around-it"
+  },
+  "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever": {
+    "sent_at": "2026-06-09T21:01:35.438781",
+    "title": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
+    "url": "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever"
   }
 }
