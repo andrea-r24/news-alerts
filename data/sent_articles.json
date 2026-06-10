@@ -468,5 +468,10 @@
     "sent_at": "2026-06-09T21:01:35.438781",
     "title": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
     "url": "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever"
+  },
+  "https://venturebeat.com/technology/cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100": {
+    "sent_at": "2026-06-10T05:22:11.925045",
+    "title": "Cohere open-sources a coding agent that runs on a single H100",
+    "url": "https://venturebeat.com/technology/cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100"
   }
 }
