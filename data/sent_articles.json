@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/security/cisco-dickman-agentic-ai-trust-identity-governance-microsegmentation": {
-    "sent_at": "2026-05-11T20:48:11.048642",
-    "title": "AI agents are running hospital records and factory inspections. Enterprise IAM was never built for them.",
-    "url": "https://venturebeat.com/security/cisco-dickman-agentic-ai-trust-identity-governance-microsegmentation"
-  },
   "https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models": {
     "sent_at": "2026-05-12T04:37:36.721698",
     "title": "Thinking Machines shows off preview of near-realtime AI voice and video conversation with new 'interaction models'",
@@ -473,5 +468,15 @@
     "sent_at": "2026-06-10T05:22:11.925045",
     "title": "Cohere open-sources a coding agent that runs on a single H100",
     "url": "https://venturebeat.com/technology/cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100"
+  },
+  "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know": {
+    "sent_at": "2026-06-10T21:25:54.900020",
+    "title": "Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know",
+    "url": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know"
+  },
+  "https://venturebeat.com/orchestration/massmutuals-ai-strategy-12-month-contracts-30-productivity-gains-zero-lock-in": {
+    "sent_at": "2026-06-10T21:25:54.900020",
+    "title": "MassMutual's AI strategy: 12-month contracts, 30% productivity gains, zero lock-in",
+    "url": "https://venturebeat.com/orchestration/massmutuals-ai-strategy-12-month-contracts-30-productivity-gains-zero-lock-in"
   }
 }
