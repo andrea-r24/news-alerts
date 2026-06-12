@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google": {
-    "sent_at": "2026-05-12T20:42:13.121352",
-    "title": "Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI & Google",
-    "url": "https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google"
-  },
-  "https://venturebeat.com/security/claude-confused-deputy-audit-matrix-security-blind-spots": {
-    "sent_at": "2026-05-12T20:42:13.121352",
-    "title": "Running Claude Code or Claude in Chrome? Here's the audit matrix for every blind spot your security stack misses",
-    "url": "https://venturebeat.com/security/claude-confused-deputy-audit-matrix-security-blind-spots"
-  },
   "https://venturebeat.com/orchestration/frontier-ai-models-dont-just-delete-document-content-they-rewrite-it-and-the-errors-are-nearly-impossible-to-catch": {
     "sent_at": "2026-05-13T20:47:18.847381",
     "title": "Frontier AI models don't just delete document content — they rewrite it, and the errors are nearly impossible to catch",
@@ -493,5 +483,10 @@
     "sent_at": "2026-06-11T16:51:57.652845",
     "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
     "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+  },
+  "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks": {
+    "sent_at": "2026-06-12T05:50:47.731972",
+    "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
+    "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks"
   }
 }
