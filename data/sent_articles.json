@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/frontier-ai-models-dont-just-delete-document-content-they-rewrite-it-and-the-errors-are-nearly-impossible-to-catch": {
-    "sent_at": "2026-05-13T20:47:18.847381",
-    "title": "Frontier AI models don't just delete document content — they rewrite it, and the errors are nearly impossible to catch",
-    "url": "https://venturebeat.com/orchestration/frontier-ai-models-dont-just-delete-document-content-they-rewrite-it-and-the-errors-are-nearly-impossible-to-catch"
-  },
-  "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/": {
-    "sent_at": "2026-05-13T20:47:18.847381",
-    "title": "Altman forced to confront claims at OpenAI trial that he's a prolific liar",
-    "url": "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/"
-  },
-  "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/": {
-    "sent_at": "2026-05-13T20:47:18.847381",
-    "title": "Anthropic blames dystopian sci-fi for training AI models to act “evil”",
-    "url": "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/"
-  },
   "https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech": {
     "sent_at": "2026-05-14T04:48:02.401192",
     "title": "AI IQ is here: a new site scores frontier AI models on the human IQ scale. The results are already dividing tech.",
@@ -488,5 +473,10 @@
     "sent_at": "2026-06-12T05:50:47.731972",
     "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
     "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks"
+  },
+  "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code": {
+    "sent_at": "2026-06-12T21:03:10.085105",
+    "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
+    "url": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code"
   }
 }
