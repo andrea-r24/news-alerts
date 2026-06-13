@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech": {
-    "sent_at": "2026-05-14T04:48:02.401192",
-    "title": "AI IQ is here: a new site scores frontier AI models on the human IQ scale. The results are already dividing tech.",
-    "url": "https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech"
-  },
-  "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch": {
-    "sent_at": "2026-05-14T04:48:02.401192",
-    "title": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions — with a catch",
-    "url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch"
-  },
-  "https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead": {
-    "sent_at": "2026-05-14T04:48:02.401192",
-    "title": "Anthropic finally beat OpenAI in business AI adoption — but 3 big threats could erase its lead",
-    "url": "https://venturebeat.com/technology/anthropic-finally-beat-openai-in-business-ai-adoption-but-3-big-threats-could-erase-its-lead"
-  },
   "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/": {
     "sent_at": "2026-05-14T15:16:03.427734",
     "title": "Data readiness for agentic AI in financial services",
@@ -478,5 +463,20 @@
     "sent_at": "2026-06-12T21:03:10.085105",
     "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
     "url": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code"
+  },
+  "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/": {
+    "sent_at": "2026-06-13T05:22:26.377105",
+    "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
+    "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
+  },
+  "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out": {
+    "sent_at": "2026-06-13T05:22:26.377105",
+    "title": "Kimi K2.7-Code cuts thinking tokens 30% — but practitioners say the benchmarks don't check out",
+    "url": "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out"
+  },
+  "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations": {
+    "sent_at": "2026-06-13T05:22:26.377105",
+    "title": "Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations",
+    "url": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations"
   }
 }
