@@ -1,59 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/": {
-    "sent_at": "2026-05-14T15:16:03.427734",
-    "title": "Data readiness for agentic AI in financial services",
-    "url": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/"
-  },
-  "https://venturebeat.com/security/enterprises-verify-agents-identity-cannot-control-authorization-cisco-rsac-2026": {
-    "sent_at": "2026-05-14T20:38:23.522997",
-    "title": "Agent authorization is broken — and authentication passing makes it worse",
-    "url": "https://venturebeat.com/security/enterprises-verify-agents-identity-cannot-control-authorization-cisco-rsac-2026"
-  },
-  "https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done": {
-    "sent_at": "2026-05-14T20:38:23.522997",
-    "title": "Claude Code's '/goals' separates the agent that works from the one that decides it's done",
-    "url": "https://venturebeat.com/orchestration/claude-codes-goals-separates-the-agent-that-works-from-the-one-that-decides-its-done"
-  },
-  "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop": {
-    "sent_at": "2026-05-15T04:53:21.562320",
-    "title": "Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop",
-    "url": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop"
-  },
-  "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure": {
-    "sent_at": "2026-05-15T04:53:21.562320",
-    "title": "Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure",
-    "url": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure"
-  },
-  "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/": {
-    "sent_at": "2026-05-15T15:10:47.869988",
-    "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
-    "url": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/"
-  },
-  "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/": {
-    "sent_at": "2026-05-15T20:17:53.948923",
-    "title": "OpenAI feels “burned” by Apple’s crappy ChatGPT integration, insiders say",
-    "url": "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/"
-  },
-  "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane": {
-    "sent_at": "2026-05-15T20:17:53.948923",
-    "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
-    "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane"
-  },
-  "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/": {
-    "sent_at": "2026-05-16T04:29:56.760126",
-    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/"
-  },
-  "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/": {
-    "sent_at": "2026-05-16T04:29:56.760126",
-    "title": "Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval",
-    "url": "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/"
-  },
-  "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent": {
-    "sent_at": "2026-05-16T04:29:56.760126",
-    "title": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
-    "url": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent"
-  },
   "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production": {
     "sent_at": "2026-05-17T20:05:51.909907",
     "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
@@ -483,5 +428,10 @@
     "sent_at": "2026-06-13T14:58:05.588801",
     "title": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do",
     "url": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do"
+  },
+  "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later": {
+    "sent_at": "2026-06-15T17:58:33.330976",
+    "title": "Vibe coding can build your pipeline. It can't explain it six months later",
+    "url": "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later"
   }
 }
