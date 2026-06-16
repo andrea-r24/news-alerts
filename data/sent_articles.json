@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production": {
-    "sent_at": "2026-05-17T20:05:51.909907",
-    "title": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
-    "url": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production"
-  },
   "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/": {
     "sent_at": "2026-05-18T20:27:15.451449",
     "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
@@ -438,5 +433,20 @@
     "sent_at": "2026-06-15T21:46:07.633958",
     "title": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
     "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization"
+  },
+  "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost": {
+    "sent_at": "2026-06-16T21:42:26.944445",
+    "title": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
+    "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost"
+  },
+  "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents": {
+    "sent_at": "2026-06-16T21:42:26.944445",
+    "title": "Databricks says it solved the decades-old data pipeline problem that's been slowing AI agents",
+    "url": "https://venturebeat.com/data/databricks-says-it-solved-the-decades-old-data-pipeline-problem-thats-been-slowing-ai-agents"
+  },
+  "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/": {
+    "sent_at": "2026-06-16T21:42:26.944445",
+    "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
+    "url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/"
   }
 }
