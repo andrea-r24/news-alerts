@@ -1,19 +1,4 @@
 {
-  "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/": {
-    "sent_at": "2026-05-18T20:27:15.451449",
-    "title": "Elon Musk took too long to sue OpenAI, jury unanimously agrees",
-    "url": "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/"
-  },
-  "https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix": {
-    "sent_at": "2026-05-18T20:27:15.451449",
-    "title": "Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering",
-    "url": "https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix"
-  },
-  "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer": {
-    "sent_at": "2026-05-18T20:27:15.451449",
-    "title": "LangSmith Engine closes the agent debugging loop automatically — but multi-model enterprises still need a neutral layer",
-    "url": "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer"
-  },
   "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/": {
     "sent_at": "2026-05-19T05:04:11.804416",
     "title": "Here’s why Elon Musk lost his suit against OpenAI",
@@ -453,5 +438,10 @@
     "sent_at": "2026-06-17T06:16:31.837672",
     "title": "Why Weibo’s tiny VibeThinker-3B has the AI world arguing over benchmarks again",
     "url": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again"
+  },
+  "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem": {
+    "sent_at": "2026-06-17T21:11:51.007977",
+    "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
+    "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem"
   }
 }
