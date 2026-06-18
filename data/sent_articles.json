@@ -1,14 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/": {
-    "sent_at": "2026-05-19T05:04:11.804416",
-    "title": "Here’s why Elon Musk lost his suit against OpenAI",
-    "url": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/"
-  },
-  "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits": {
-    "sent_at": "2026-05-19T05:04:11.804416",
-    "title": "Context architecture is replacing RAG as agentic AI pushes enterprise retrieval to its limits",
-    "url": "https://venturebeat.com/data/context-architecture-is-replacing-rag-as-agentic-ai-pushes-enterprise-retrieval-to-its-limits"
-  },
   "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/": {
     "sent_at": "2026-05-19T16:16:32.933691",
     "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
@@ -443,5 +433,10 @@
     "sent_at": "2026-06-17T21:11:51.007977",
     "title": "Anthropic ships major Claude Design overhaul with design system imports, code round-trips, and a fix for its token-burning problem",
     "url": "https://venturebeat.com/technology/anthropic-ships-major-claude-design-overhaul-with-design-system-imports-code-round-trips-and-a-fix-for-its-token-burning-problem"
+  },
+  "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation": {
+    "sent_at": "2026-06-18T05:57:21.690207",
+    "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
+    "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation"
   }
 }
