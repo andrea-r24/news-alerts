@@ -1,9 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/": {
-    "sent_at": "2026-05-19T16:16:32.933691",
-    "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-    "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/"
-  },
   "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/": {
     "sent_at": "2026-05-19T20:46:29.780329",
     "title": "Roundtables: Inside the Musk v. Altman Trial",
@@ -438,5 +433,10 @@
     "sent_at": "2026-06-18T05:57:21.690207",
     "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
     "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation"
+  },
+  "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration": {
+    "sent_at": "2026-06-18T16:27:20.074016",
+    "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
+    "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration"
   }
 }
