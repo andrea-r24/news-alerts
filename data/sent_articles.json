@@ -1,29 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/": {
-    "sent_at": "2026-05-19T20:46:29.780329",
-    "title": "Roundtables: Inside the Musk v. Altman Trial",
-    "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/"
-  },
-  "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials": {
-    "sent_at": "2026-05-19T20:46:29.780329",
-    "title": "Claude agents can finally connect to enterprise APIs without leaking credentials",
-    "url": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials"
-  },
-  "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/": {
-    "sent_at": "2026-05-19T20:46:29.780329",
-    "title": "Google's SynthID AI watermarking tech is being adopted by OpenAI, Nvidia, and more",
-    "url": "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/"
-  },
-  "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/": {
-    "sent_at": "2026-05-19T20:46:29.780329",
-    "title": "Gemini 3.5 Flash might be fast enough for gen AI to make sense",
-    "url": "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/"
-  },
-  "https://venturebeat.com/technology/googles-new-ai-agent-can-draft-your-emails-monitor-your-inbox-and-eventually-spend-your-money": {
-    "sent_at": "2026-05-19T20:46:29.780329",
-    "title": "Google’s new AI agent can draft your emails, monitor your inbox and eventually spend your money",
-    "url": "https://venturebeat.com/technology/googles-new-ai-agent-can-draft-your-emails-monitor-your-inbox-and-eventually-spend-your-money"
-  },
   "https://venturebeat.com/infrastructure/aws-nabs-white-hot-gen-ai-media-creation-startup-fal-becoming-its-preferred-cloud-provider": {
     "sent_at": "2026-05-20T05:06:58.880522",
     "title": "AWS nabs white hot gen AI media creation startup fal, becoming its preferred cloud provider",
@@ -438,5 +413,15 @@
     "sent_at": "2026-06-18T16:27:20.074016",
     "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
     "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration"
+  },
+  "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget": {
+    "sent_at": "2026-06-18T21:22:25.592878",
+    "title": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
+    "url": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget"
+  },
+  "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin": {
+    "sent_at": "2026-06-18T21:22:25.592878",
+    "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
+    "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin"
   }
 }
