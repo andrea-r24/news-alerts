@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/infrastructure/aws-nabs-white-hot-gen-ai-media-creation-startup-fal-becoming-its-preferred-cloud-provider": {
-    "sent_at": "2026-05-20T05:06:58.880522",
-    "title": "AWS nabs white hot gen AI media creation startup fal, becoming its preferred cloud provider",
-    "url": "https://venturebeat.com/infrastructure/aws-nabs-white-hot-gen-ai-media-creation-startup-fal-becoming-its-preferred-cloud-provider"
-  },
   "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain": {
     "sent_at": "2026-05-20T16:23:20.956229",
     "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
@@ -423,5 +418,10 @@
     "sent_at": "2026-06-18T21:22:25.592878",
     "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
     "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin"
+  },
+  "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises": {
+    "sent_at": "2026-06-19T06:22:32.021957",
+    "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
+    "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises"
   }
 }
