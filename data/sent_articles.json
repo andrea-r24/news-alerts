@@ -1,89 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain": {
-    "sent_at": "2026-05-20T16:23:20.956229",
-    "title": "NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain'",
-    "url": "https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain"
-  },
-  "https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai": {
-    "sent_at": "2026-05-20T16:23:20.956229",
-    "title": "Corti's new Symphony for Speech-to-Text model beats OpenAI at medical terminology accuracy, highlighting the value of specialized AI",
-    "url": "https://venturebeat.com/technology/cortis-new-symphony-for-speech-to-text-model-beats-openai-at-medical-terminology-accuracy-highlighting-the-value-of-specialized-ai"
-  },
-  "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds": {
-    "sent_at": "2026-05-20T21:00:06.490212",
-    "title": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds",
-    "url": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds"
-  },
-  "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned": {
-    "sent_at": "2026-05-20T21:00:06.490212",
-    "title": "Enterprise AI agents keep failing because they forget what they learned",
-    "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-keep-failing-because-they-forget-what-they-learned"
-  },
-  "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/": {
-    "sent_at": "2026-05-20T21:00:06.490212",
-    "title": "Buckle up: Google is set to remake search with agentic AI in 2026",
-    "url": "https://arstechnica.com/google/2026/05/buckle-up-google-is-set-to-remake-search-with-agentic-ai-in-2026/"
-  },
-  "https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk": {
-    "sent_at": "2026-05-20T21:00:06.490212",
-    "title": "GitHub confirms 3,800 internal repos stolen through poisoned VS Code extension as supply chain worm hits Microsoft’s Python SDK",
-    "url": "https://venturebeat.com/security/github-confirms-3800-repos-stolen-poisoned-vs-code-extension-supply-chain-worm-microsoft-python-sdk"
-  },
-  "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control": {
-    "sent_at": "2026-05-21T05:10:43.319313",
-    "title": "Google's Managed Agents API promises one-call deployment at the cost of execution layer control",
-    "url": "https://venturebeat.com/orchestration/googles-managed-agents-api-promises-one-call-deployment-at-the-cost-of-execution-layer-control"
-  },
-  "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a": {
-    "sent_at": "2026-05-21T05:10:43.319313",
-    "title": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
-    "url": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a"
-  },
-  "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/": {
-    "sent_at": "2026-05-21T16:14:13.426610",
-    "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-    "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
-  },
-  "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that": {
-    "sent_at": "2026-05-21T16:14:13.426610",
-    "title": "Resolve AI says the AI coding boom is breaking production systems. It wants to fix that.",
-    "url": "https://venturebeat.com/technology/resolve-ai-says-the-ai-coding-boom-is-breaking-production-systems-it-wants-to-fix-that"
-  },
-  "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce": {
-    "sent_at": "2026-05-21T16:14:13.426610",
-    "title": "Kore.ai launches Artemis AI agent platform, expands challenge to Microsoft and Salesforce",
-    "url": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce"
-  },
-  "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant": {
-    "sent_at": "2026-05-21T20:52:16.739085",
-    "title": "A 0.12% parameter add-on gives AI agents the working memory RAG can't",
-    "url": "https://venturebeat.com/orchestration/a-0-12-parameter-add-on-gives-ai-agents-the-working-memory-rag-cant"
-  },
-  "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code": {
-    "sent_at": "2026-05-22T05:04:10.228385",
-    "title": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code",
-    "url": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code"
-  },
-  "https://venturebeat.com/data/d-and-bs-database-of-642-million-businesses-was-built-for-humans-not-ai-agents-so-they-rebuilt-it": {
-    "sent_at": "2026-05-22T15:46:53.586350",
-    "title": "D&B's database of 642 million businesses was built for humans, not AI agents. So they rebuilt it.",
-    "url": "https://venturebeat.com/data/d-and-bs-database-of-642-million-businesses-was-built-for-humans-not-ai-agents-so-they-rebuilt-it"
-  },
-  "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/": {
-    "sent_at": "2026-05-22T15:46:53.586350",
-    "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-    "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
-  },
-  "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026": {
-    "sent_at": "2026-05-23T04:43:08.379623",
-    "title": "Valid certificates, stolen accounts: how attackers broke npm's last trust signal",
-    "url": "https://venturebeat.com/security/npm-sigstore-provenance-stolen-identity-audit-grid-2026"
-  },
-  "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database": {
-    "sent_at": "2026-05-23T04:43:08.379623",
-    "title": "Your AI agents need a terminal, not just a vector database",
-    "url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database"
-  },
   "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet": {
     "sent_at": "2026-05-24T20:09:00.136888",
     "title": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet",
@@ -423,5 +338,20 @@
     "sent_at": "2026-06-19T06:22:32.021957",
     "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
     "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises"
+  },
+  "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system": {
+    "sent_at": "2026-06-22T17:28:52.362198",
+    "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+    "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system"
+  },
+  "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60": {
+    "sent_at": "2026-06-22T17:28:52.362198",
+    "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
+    "url": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60"
+  },
+  "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/": {
+    "sent_at": "2026-06-22T17:28:52.362198",
+    "title": "How Anthropic may have talked itself into an AI export ban",
+    "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/"
   }
 }
