@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet": {
-    "sent_at": "2026-05-24T20:09:00.136888",
-    "title": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet",
-    "url": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet"
-  },
   "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/": {
     "sent_at": "2026-05-26T16:39:48.465213",
     "title": "Rethinking organizational design in the age of agentic AI",
@@ -368,5 +363,15 @@
     "sent_at": "2026-06-23T15:44:45.874131",
     "title": "The Download: the future of chipmaking and Anthropic’s government clash",
     "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/"
+  },
+  "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license": {
+    "sent_at": "2026-06-23T21:01:05.398637",
+    "title": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
+    "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license"
+  },
+  "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously": {
+    "sent_at": "2026-06-23T21:01:05.398637",
+    "title": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
+    "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously"
   }
 }
