@@ -423,5 +423,10 @@
     "sent_at": "2026-06-25T20:59:56.502848",
     "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent  — and it's already in the API",
     "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api"
+  },
+  "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere": {
+    "sent_at": "2026-06-26T05:10:12.160113",
+    "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
+    "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere"
   }
 }
