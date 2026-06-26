@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved": {
-    "sent_at": "2026-05-27T16:34:08.499955",
-    "title": "DataGrail report finds your vendor may be sending data to AI models you never approved",
-    "url": "https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved"
-  },
   "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost": {
     "sent_at": "2026-05-27T21:02:37.568380",
     "title": "MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost",
@@ -428,5 +423,15 @@
     "sent_at": "2026-06-26T15:21:49.619331",
     "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
     "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/"
+  },
+  "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready": {
+    "sent_at": "2026-06-26T20:48:32.711232",
+    "title": "Autonomous security agents need complete data. Here's how to check if yours is ready.",
+    "url": "https://venturebeat.com/security/autonomous-security-agents-need-complete-data-heres-how-to-check-if-yours-is-ready"
+  },
+  "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov": {
+    "sent_at": "2026-06-26T20:48:32.711232",
+    "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
+    "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov"
   }
 }
