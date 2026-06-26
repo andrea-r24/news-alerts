@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole": {
-    "sent_at": "2026-05-27T05:18:53.739842",
-    "title": "DeepSWE blows up the AI coding leaderboard, crowns GPT-5.5, and finds Claude Opus exploiting a benchmark loophole",
-    "url": "https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole"
-  },
   "https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved": {
     "sent_at": "2026-05-27T16:34:08.499955",
     "title": "DataGrail report finds your vendor may be sending data to AI models you never approved",
@@ -428,5 +423,10 @@
     "sent_at": "2026-06-26T05:10:12.160113",
     "title": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
     "url": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere"
+  },
+  "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/": {
+    "sent_at": "2026-06-26T15:21:49.619331",
+    "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+    "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/"
   }
 }
