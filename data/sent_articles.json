@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost": {
-    "sent_at": "2026-05-27T21:02:37.568380",
-    "title": "MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost",
-    "url": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost"
-  },
-  "https://venturebeat.com/infrastructure/merck-and-mastercard-are-seeing-real-agentic-ai-results-both-say-the-plumbing-came-first": {
-    "sent_at": "2026-05-27T21:02:37.568380",
-    "title": "Merck and Mastercard are seeing real agentic AI results. Both say the plumbing came first.",
-    "url": "https://venturebeat.com/infrastructure/merck-and-mastercard-are-seeing-real-agentic-ai-results-both-say-the-plumbing-came-first"
-  },
   "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance": {
     "sent_at": "2026-05-28T16:52:11.879319",
     "title": "Are designers the new SWEs? Figma Make's new two-way GitHub integration turns designs into live, production code — with built-in governance",
@@ -433,5 +423,10 @@
     "sent_at": "2026-06-26T20:48:32.711232",
     "title": "OpenAI unveils GPT-5.6 Sol, Terra and Luna models — but only accessible to limited preview partners for now, per US Gov",
     "url": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov"
+  },
+  "https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m": {
+    "sent_at": "2026-06-27T04:55:19.344387",
+    "title": "New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M.",
+    "url": "https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m"
   }
 }
