@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance": {
-    "sent_at": "2026-05-28T16:52:11.879319",
-    "title": "Are designers the new SWEs? Figma Make's new two-way GitHub integration turns designs into live, production code — with built-in governance",
-    "url": "https://venturebeat.com/technology/are-designers-the-new-swes-figma-makes-new-two-way-github-integration-turns-designs-into-live-production-code-with-built-in-governance"
-  },
-  "https://venturebeat.com/data/sql-query-logs-hold-the-context-ai-agents-need-to-stop-hallucinating-joins": {
-    "sent_at": "2026-05-28T16:52:11.879319",
-    "title": "SQL query logs hold the context AI agents need to stop hallucinating joins",
-    "url": "https://venturebeat.com/data/sql-query-logs-hold-the-context-ai-agents-need-to-stop-hallucinating-joins"
-  },
   "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai": {
     "sent_at": "2026-05-28T21:10:53.282377",
     "title": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
@@ -428,5 +418,10 @@
     "sent_at": "2026-06-27T04:55:19.344387",
     "title": "New agentic memory framework uses 118K tokens per query. LangMem burns through 3.26M.",
     "url": "https://venturebeat.com/orchestration/new-agentic-memory-framework-uses-118k-tokens-per-query-langmem-burns-through-3-26m"
+  },
+  "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers": {
+    "sent_at": "2026-06-27T20:10:36.052106",
+    "title": "Claude Code turned every engineer into three. Now companies need more product thinkers",
+    "url": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers"
   }
 }
