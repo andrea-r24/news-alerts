@@ -1,39 +1,4 @@
 {
-  "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai": {
-    "sent_at": "2026-05-28T21:10:53.282377",
-    "title": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
-    "url": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai"
-  },
-  "https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment": {
-    "sent_at": "2026-05-28T21:10:53.282377",
-    "title": "Anthropic's Claude Opus 4.8 is here with 3X cheaper fast mode and near-Mythos level alignment",
-    "url": "https://venturebeat.com/technology/anthropics-claude-opus-4-8-is-here-with-3x-cheaper-fast-mode-and-near-mythos-level-alignment"
-  },
-  "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/": {
-    "sent_at": "2026-05-28T21:10:53.282377",
-    "title": "Trump loses more control over AI regulation as Illinois passes landmark law",
-    "url": "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/"
-  },
-  "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat": {
-    "sent_at": "2026-05-28T21:10:53.282377",
-    "title": "How DeepSeek’s radical architecture is shattering Silicon Valley's token moat",
-    "url": "https://venturebeat.com/infrastructure/how-deepseeks-radical-architecture-is-shattering-silicon-valleys-token-moat"
-  },
-  "https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer": {
-    "sent_at": "2026-05-29T16:40:19.650742",
-    "title": "Pinterest cut AI costs 90% by gutting a frontier model's vision layer",
-    "url": "https://venturebeat.com/orchestration/pinterest-cut-ai-costs-90-by-gutting-a-frontier-models-vision-layer"
-  },
-  "https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem": {
-    "sent_at": "2026-05-29T16:40:19.650742",
-    "title": "AI agents are entering their rebuild era as enterprises confront the reliability problem",
-    "url": "https://venturebeat.com/orchestration/ai-agents-are-entering-their-rebuild-era-as-enterprises-confront-the-reliability-problem"
-  },
-  "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions": {
-    "sent_at": "2026-05-30T04:53:53.781693",
-    "title": "The AI agent bottleneck isn't model performance — it's permissions",
-    "url": "https://venturebeat.com/orchestration/the-ai-agent-bottleneck-isnt-model-performance-its-permissions"
-  },
   "https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow": {
     "sent_at": "2026-05-31T20:14:13.574263",
     "title": "Claude Mythos exposed a hard truth: Your enterprise patching process is way too slow",
@@ -423,5 +388,10 @@
     "sent_at": "2026-06-27T20:10:36.052106",
     "title": "Claude Code turned every engineer into three. Now companies need more product thinkers",
     "url": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers"
+  },
+  "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/": {
+    "sent_at": "2026-06-29T16:36:54.063053",
+    "title": "Agent confidence on the technical frontier",
+    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
   }
 }
