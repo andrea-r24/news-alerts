@@ -393,5 +393,20 @@
     "sent_at": "2026-06-29T16:36:54.063053",
     "title": "Agent confidence on the technical frontier",
     "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
+  },
+  "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85": {
+    "sent_at": "2026-06-29T20:49:41.146712",
+    "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
+    "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85"
+  },
+  "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/": {
+    "sent_at": "2026-06-29T20:49:41.146712",
+    "title": "AI agents are not your “coworkers”",
+    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
+  },
+  "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure": {
+    "sent_at": "2026-06-29T20:49:41.146712",
+    "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
+    "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure"
   }
 }
