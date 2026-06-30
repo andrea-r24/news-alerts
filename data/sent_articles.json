@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow": {
-    "sent_at": "2026-05-31T20:14:13.574263",
-    "title": "Claude Mythos exposed a hard truth: Your enterprise patching process is way too slow",
-    "url": "https://venturebeat.com/security/claude-mythos-exposed-a-hard-truth-your-enterprise-patching-process-is-way-too-slow"
-  },
   "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost": {
     "sent_at": "2026-06-01T18:35:32.887178",
     "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
@@ -423,5 +418,15 @@
     "sent_at": "2026-06-30T15:24:18.860922",
     "title": "Building tech in the world’s secret R&D hub",
     "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/"
+  },
+  "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo": {
+    "sent_at": "2026-06-30T20:57:43.941872",
+    "title": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
+    "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo"
+  },
+  "https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation": {
+    "sent_at": "2026-06-30T20:57:43.941872",
+    "title": "Google's Gemini Omni Flash hits the API, turning enterprise video production into a conversation",
+    "url": "https://venturebeat.com/technology/googles-gemini-omni-flash-hits-the-api-turning-enterprise-video-production-into-a-conversation"
   }
 }
