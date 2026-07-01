@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost": {
-    "sent_at": "2026-06-01T18:35:32.887178",
-    "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
-    "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost"
-  },
-  "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged": {
-    "sent_at": "2026-06-01T18:35:32.887178",
-    "title": "Anthropic’s browser agent got hijacked 31.5% of the time before safeguards engaged",
-    "url": "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged"
-  },
-  "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/": {
-    "sent_at": "2026-06-01T18:35:32.887178",
-    "title": "An OpenAI model solved a famous math problem that stumped humans for 80 years",
-    "url": "https://arstechnica.com/ai/2026/06/openais-math-breakthrough-played-to-ais-strengths/"
-  },
   "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/": {
     "sent_at": "2026-06-01T22:12:24.722031",
     "title": "Florida sues OpenAI, Sam Altman after multiple ChatGPT-linked murders",
@@ -448,5 +433,15 @@
     "sent_at": "2026-07-01T15:38:35.548157",
     "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
     "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
+  },
+  "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/": {
+    "sent_at": "2026-07-01T20:48:21.254968",
+    "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
+    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
+  },
+  "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it": {
+    "sent_at": "2026-07-01T20:48:21.254968",
+    "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
+    "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it"
   }
 }
