@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary": {
-    "sent_at": "2026-06-03T06:05:45.355676",
-    "title": "Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary",
-    "url": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary"
-  },
   "https://venturebeat.com/technology/anthropic-says-80-of-its-new-production-code-is-now-authored-by-claude-how-your-enterprise-can-keep-up": {
     "sent_at": "2026-06-04T20:59:54.599102",
     "title": "Anthropic says 80% of its new production code is now authored by Claude — how your enterprise can keep up",
@@ -423,5 +418,10 @@
     "sent_at": "2026-07-03T04:44:22.872498",
     "title": "New Alibaba AI framework skips loading every tool, cutting agent token use 99%",
     "url": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99"
+  },
+  "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models": {
+    "sent_at": "2026-07-03T15:07:55.386125",
+    "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+    "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models"
   }
 }
