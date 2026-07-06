@@ -408,5 +408,15 @@
     "sent_at": "2026-07-06T16:17:45.216439",
     "title": "What billions of AI predictions taught Expedia before the age of AI agents",
     "url": "https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents"
+  },
+  "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/": {
+    "sent_at": "2026-07-06T20:53:48.480205",
+    "title": "Your family’s $300 stake in OpenAI",
+    "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
+  },
+  "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/": {
+    "sent_at": "2026-07-06T20:53:48.480205",
+    "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/"
   }
 }
