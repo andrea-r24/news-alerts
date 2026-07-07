@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering": {
-    "sent_at": "2026-06-07T20:15:33.921723",
-    "title": "Agentic AI solved coding — and exposed every other problem in software engineering",
-    "url": "https://venturebeat.com/technology/agentic-ai-solved-coding-and-exposed-every-other-problem-in-software-engineering"
-  },
   "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/": {
     "sent_at": "2026-06-08T16:46:32.904851",
     "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
@@ -428,5 +423,15 @@
     "sent_at": "2026-07-07T15:41:38.634874",
     "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
     "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/"
+  },
+  "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents": {
+    "sent_at": "2026-07-07T20:50:52.062797",
+    "title": "The real cost, security, and culture problems behind enterprise AI agents",
+    "url": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents"
+  },
+  "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding": {
+    "sent_at": "2026-07-07T20:50:52.062797",
+    "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding",
+    "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding"
   }
 }
