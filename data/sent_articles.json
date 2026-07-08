@@ -1,14 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/": {
-    "sent_at": "2026-06-08T16:46:32.904851",
-    "title": "\"Chat is dead\": OpenAI preps overhaul of ChatGPT",
-    "url": "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/"
-  },
-  "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/": {
-    "sent_at": "2026-06-08T16:46:32.904851",
-    "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-    "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/"
-  },
   "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information": {
     "sent_at": "2026-06-09T05:09:23.084885",
     "title": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
@@ -438,5 +428,10 @@
     "sent_at": "2026-07-08T15:18:12.329292",
     "title": "Slack’s Slackbot can now pull your CRM data, generate charts, and send DocuSigns — all from a chat message.",
     "url": "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message"
+  },
+  "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person": {
+    "sent_at": "2026-07-08T20:22:59.265315",
+    "title": "OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person",
+    "url": "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person"
   }
 }
