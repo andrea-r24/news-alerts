@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information": {
-    "sent_at": "2026-06-09T05:09:23.084885",
-    "title": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
-    "url": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information"
-  },
-  "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/": {
-    "sent_at": "2026-06-09T15:52:41.167744",
-    "title": "Learning to lead in a hybrid human-AI enterprise",
-    "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
-  },
   "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/": {
     "sent_at": "2026-06-09T21:01:35.438781",
     "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
@@ -438,5 +428,10 @@
     "sent_at": "2026-07-09T04:56:17.923185",
     "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI",
     "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai"
+  },
+  "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone": {
+    "sent_at": "2026-07-09T15:54:16.007809",
+    "title": "The enterprise AI challenge nobody solves with code generation alone",
+    "url": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone"
   }
 }
