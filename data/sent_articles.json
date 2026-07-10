@@ -1,19 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/": {
-    "sent_at": "2026-06-09T21:01:35.438781",
-    "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
-    "url": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/"
-  },
-  "https://venturebeat.com/technology/on-device-ai-agents-hit-a-hard-memory-limit-apples-new-architecture-routes-around-it": {
-    "sent_at": "2026-06-09T21:01:35.438781",
-    "title": "On-device AI agents hit a hard memory limit. Apple's new architecture routes around it.",
-    "url": "https://venturebeat.com/technology/on-device-ai-agents-hit-a-hard-memory-limit-apples-new-architecture-routes-around-it"
-  },
-  "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever": {
-    "sent_at": "2026-06-09T21:01:35.438781",
-    "title": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
-    "url": "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever"
-  },
   "https://venturebeat.com/technology/cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100": {
     "sent_at": "2026-06-10T05:22:11.925045",
     "title": "Cohere open-sources a coding agent that runs on a single H100",
@@ -443,5 +428,10 @@
     "sent_at": "2026-07-09T20:49:24.168730",
     "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
     "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/"
+  },
+  "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/": {
+    "sent_at": "2026-07-10T04:54:38.314116",
+    "title": "OpenAI wants its new tool to do your work for you and with you",
+    "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
   }
 }
