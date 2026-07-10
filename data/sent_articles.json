@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/technology/cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100": {
-    "sent_at": "2026-06-10T05:22:11.925045",
-    "title": "Cohere open-sources a coding agent that runs on a single H100",
-    "url": "https://venturebeat.com/technology/cohere-open-sources-a-coding-agent-that-runs-on-a-single-h100"
-  },
   "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know": {
     "sent_at": "2026-06-10T21:25:54.900020",
     "title": "Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know",
@@ -433,5 +428,10 @@
     "sent_at": "2026-07-10T04:54:38.314116",
     "title": "OpenAI wants its new tool to do your work for you and with you",
     "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
+  },
+  "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/": {
+    "sent_at": "2026-07-10T15:29:22.245594",
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
   }
 }
