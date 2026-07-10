@@ -433,5 +433,15 @@
     "sent_at": "2026-07-10T15:29:22.245594",
     "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
     "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
+  },
+  "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less": {
+    "sent_at": "2026-07-10T20:26:14.383094",
+    "title": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
+    "url": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less"
+  },
+  "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them": {
+    "sent_at": "2026-07-10T20:26:14.383094",
+    "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
+    "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them"
   }
 }
