@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know": {
-    "sent_at": "2026-06-10T21:25:54.900020",
-    "title": "Anthropic CEO calls for FAA-style regulation of powerful AI models: what enterprises should know",
-    "url": "https://venturebeat.com/technology/anthropic-ceo-calls-for-faa-style-regulation-of-powerful-ai-models-what-enterprises-should-know"
-  },
-  "https://venturebeat.com/orchestration/massmutuals-ai-strategy-12-month-contracts-30-productivity-gains-zero-lock-in": {
-    "sent_at": "2026-06-10T21:25:54.900020",
-    "title": "MassMutual's AI strategy: 12-month contracts, 30% productivity gains, zero lock-in",
-    "url": "https://venturebeat.com/orchestration/massmutuals-ai-strategy-12-month-contracts-30-productivity-gains-zero-lock-in"
-  },
   "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark": {
     "sent_at": "2026-06-11T05:51:48.637407",
     "title": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark",
@@ -443,5 +433,15 @@
     "sent_at": "2026-07-10T20:26:14.383094",
     "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
     "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them"
+  },
+  "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one": {
+    "sent_at": "2026-07-11T04:14:11.350852",
+    "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
+    "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one"
+  },
+  "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars": {
+    "sent_at": "2026-07-11T04:14:11.350852",
+    "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
+    "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars"
   }
 }
