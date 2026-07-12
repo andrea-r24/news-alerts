@@ -1,29 +1,4 @@
 {
-  "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark": {
-    "sent_at": "2026-06-11T05:51:48.637407",
-    "title": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark",
-    "url": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark"
-  },
-  "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights": {
-    "sent_at": "2026-06-11T16:51:57.652845",
-    "title": "Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
-    "url": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights"
-  },
-  "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes": {
-    "sent_at": "2026-06-11T16:51:57.652845",
-    "title": "Google's DiffusionGemma generates 256 tokens in parallel and self-corrects as it goes",
-    "url": "https://venturebeat.com/technology/googles-diffusiongemma-generates-256-tokens-in-parallel-and-self-corrects-as-it-goes"
-  },
-  "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/": {
-    "sent_at": "2026-06-11T16:51:57.652845",
-    "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-    "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
-  },
-  "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks": {
-    "sent_at": "2026-06-12T05:50:47.731972",
-    "title": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
-    "url": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks"
-  },
   "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code": {
     "sent_at": "2026-06-12T21:03:10.085105",
     "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
@@ -443,5 +418,10 @@
     "sent_at": "2026-07-11T04:14:11.350852",
     "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
     "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars"
+  },
+  "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains": {
+    "sent_at": "2026-07-12T20:06:59.275577",
+    "title": "DeepSeek cut prices 75%. The 100x problem remains",
+    "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains"
   }
 }
