@@ -1,29 +1,4 @@
 {
-  "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code": {
-    "sent_at": "2026-06-12T21:03:10.085105",
-    "title": "NanoClaw and JFrog launch 'immune system' to block AI agents from downloading malicious code",
-    "url": "https://venturebeat.com/security/nanoclaw-and-jfrog-launch-immune-system-to-block-ai-agents-from-downloading-malicious-code"
-  },
-  "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/": {
-    "sent_at": "2026-06-13T05:22:26.377105",
-    "title": "Anthropic shuts down Fable, Mythos models following Trump admin directive",
-    "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/"
-  },
-  "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out": {
-    "sent_at": "2026-06-13T05:22:26.377105",
-    "title": "Kimi K2.7-Code cuts thinking tokens 30% — but practitioners say the benchmarks don't check out",
-    "url": "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out"
-  },
-  "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations": {
-    "sent_at": "2026-06-13T05:22:26.377105",
-    "title": "Google researchers introduce 'faithful uncertainty,' allowing LLMs to offer best guesses instead of hallucinations",
-    "url": "https://venturebeat.com/orchestration/google-researchers-introduce-faithful-uncertainty-allowing-llms-to-offer-best-guesses-instead-of-hallucinations"
-  },
-  "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do": {
-    "sent_at": "2026-06-13T14:58:05.588801",
-    "title": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do",
-    "url": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do"
-  },
   "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later": {
     "sent_at": "2026-06-15T17:58:33.330976",
     "title": "Vibe coding can build your pipeline. It can't explain it six months later",
@@ -423,5 +398,10 @@
     "sent_at": "2026-07-12T20:06:59.275577",
     "title": "DeepSeek cut prices 75%. The 100x problem remains",
     "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains"
+  },
+  "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/": {
+    "sent_at": "2026-07-13T20:17:59.101652",
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
   }
 }
