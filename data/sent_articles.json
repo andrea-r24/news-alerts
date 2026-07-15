@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later": {
-    "sent_at": "2026-06-15T17:58:33.330976",
-    "title": "Vibe coding can build your pipeline. It can't explain it six months later",
-    "url": "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later"
-  },
   "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization": {
     "sent_at": "2026-06-15T21:46:07.633958",
     "title": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
@@ -418,5 +413,25 @@
     "sent_at": "2026-07-14T14:45:57.690177",
     "title": "The Download: Claude’s inner workings, and the future of world models",
     "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
+  },
+  "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack": {
+    "sent_at": "2026-07-15T20:13:22.652769",
+    "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
+    "url": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack"
+  },
+  "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/": {
+    "sent_at": "2026-07-15T20:13:22.652769",
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+  },
+  "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/": {
+    "sent_at": "2026-07-15T20:13:22.652769",
+    "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+    "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/"
+  },
+  "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026": {
+    "sent_at": "2026-07-15T20:13:22.652769",
+    "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026",
+    "url": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026"
   }
 }
