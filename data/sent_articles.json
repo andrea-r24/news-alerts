@@ -443,5 +443,30 @@
     "sent_at": "2026-07-16T14:57:50.925525",
     "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
     "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/"
+  },
+  "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems": {
+    "sent_at": "2026-07-16T20:04:21.059904",
+    "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
+    "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems"
+  },
+  "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs": {
+    "sent_at": "2026-07-16T20:04:21.059904",
+    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+  },
+  "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials": {
+    "sent_at": "2026-07-16T20:04:21.059904",
+    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+  },
+  "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed": {
+    "sent_at": "2026-07-16T20:04:21.059904",
+    "title": "Zero trust must now move at agent speed",
+    "url": "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed"
+  },
+  "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix": {
+    "sent_at": "2026-07-16T20:04:21.059904",
+    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
   }
 }
