@@ -1,29 +1,4 @@
 {
-  "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation": {
-    "sent_at": "2026-06-18T05:57:21.690207",
-    "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
-    "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation"
-  },
-  "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration": {
-    "sent_at": "2026-06-18T16:27:20.074016",
-    "title": "Adobe embeds agentic AI workflows across Creative Cloud, shifting from media generation to production orchestration",
-    "url": "https://venturebeat.com/orchestration/adobe-embeds-agentic-ai-workflows-across-creative-cloud-shifting-from-media-generation-to-production-orchestration"
-  },
-  "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget": {
-    "sent_at": "2026-06-18T21:22:25.592878",
-    "title": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
-    "url": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget"
-  },
-  "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin": {
-    "sent_at": "2026-06-18T21:22:25.592878",
-    "title": "Copilot searched your mailbox. LiteLLM handed out admin keys. Run this 5-check audit before your stack is next",
-    "url": "https://venturebeat.com/security/copilot-searched-your-mailbox-litellm-handed-out-admin"
-  },
-  "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises": {
-    "sent_at": "2026-06-19T06:22:32.021957",
-    "title": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
-    "url": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises"
-  },
   "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system": {
     "sent_at": "2026-06-22T17:28:52.362198",
     "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
@@ -463,5 +438,15 @@
     "sent_at": "2026-07-18T03:56:12.748329",
     "title": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
     "url": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path"
+  },
+  "https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build": {
+    "sent_at": "2026-07-20T20:24:00.312484",
+    "title": "At VB Transform 2026, Zillow's engineering chief said AI ROI numbers only hold up if you measure before you build",
+    "url": "https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build"
+  },
+  "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems": {
+    "sent_at": "2026-07-20T20:24:00.312484",
+    "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
+    "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems"
   }
 }
