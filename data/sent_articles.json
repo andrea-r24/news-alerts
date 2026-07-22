@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system": {
-    "sent_at": "2026-06-22T17:28:52.362198",
-    "title": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
-    "url": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system"
-  },
-  "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60": {
-    "sent_at": "2026-06-22T17:28:52.362198",
-    "title": "Researchers introduce Self-Harness, a framework that lets AI agents rewrite their own rules, boosting performance up to 60%",
-    "url": "https://venturebeat.com/orchestration/researchers-introduce-self-harness-a-framework-that-lets-ai-agents-rewrite-their-own-rules-boosting-performance-up-to-60"
-  },
-  "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/": {
-    "sent_at": "2026-06-22T17:28:52.362198",
-    "title": "How Anthropic may have talked itself into an AI export ban",
-    "url": "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/"
-  },
   "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away": {
     "sent_at": "2026-06-22T21:32:26.291788",
     "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away",
@@ -473,5 +458,15 @@
     "sent_at": "2026-07-22T15:01:30.066789",
     "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
     "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/"
+  },
+  "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering": {
+    "sent_at": "2026-07-22T20:12:59.807447",
+    "title": "AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering",
+    "url": "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering"
+  },
+  "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/": {
+    "sent_at": "2026-07-22T20:12:59.807447",
+    "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+    "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/"
   }
 }
