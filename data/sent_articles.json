@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away": {
-    "sent_at": "2026-06-22T21:32:26.291788",
-    "title": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away",
-    "url": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away"
-  },
-  "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/": {
-    "sent_at": "2026-06-22T21:32:26.291788",
-    "title": "Three things to watch amid Anthropic’s latest feud with the government",
-    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/"
-  },
   "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/": {
     "sent_at": "2026-06-23T15:44:45.874131",
     "title": "The Download: the future of chipmaking and Anthropic’s government clash",
@@ -468,5 +458,10 @@
     "sent_at": "2026-07-22T20:12:59.807447",
     "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
     "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/"
+  },
+  "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now": {
+    "sent_at": "2026-07-23T04:16:46.396909",
+    "title": "The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now",
+    "url": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now"
   }
 }
