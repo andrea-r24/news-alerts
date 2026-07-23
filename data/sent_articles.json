@@ -1,9 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/": {
-    "sent_at": "2026-06-23T15:44:45.874131",
-    "title": "The Download: the future of chipmaking and Anthropic’s government clash",
-    "url": "https://www.technologyreview.com/2026/06/23/1139483/the-download-chipmaking-future-asml-ai-anthropic-government-clash/"
-  },
   "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license": {
     "sent_at": "2026-06-23T21:01:05.398637",
     "title": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
@@ -463,5 +458,30 @@
     "sent_at": "2026-07-23T04:16:46.396909",
     "title": "The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now",
     "url": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now"
+  },
+  "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start": {
+    "sent_at": "2026-07-23T20:15:56.202479",
+    "title": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio — but in limited release to start",
+    "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start"
+  },
+  "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs": {
+    "sent_at": "2026-07-23T20:15:56.202479",
+    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "url": "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
+  },
+  "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials": {
+    "sent_at": "2026-07-23T20:15:56.202479",
+    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+    "url": "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
+  },
+  "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix": {
+    "sent_at": "2026-07-23T20:15:56.202479",
+    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+    "url": "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
+  },
+  "https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway": {
+    "sent_at": "2026-07-23T20:15:56.202479",
+    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+    "url": "https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
   }
 }
