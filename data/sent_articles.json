@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models": {
-    "sent_at": "2026-06-24T15:31:22.225168",
-    "title": "OpenAI unveils first custom AI inference chip, Jalapeño, with Broadcom — and its development was sped-up with OpenAI's own models",
-    "url": "https://venturebeat.com/infrastructure/openai-unveils-first-custom-ai-inference-chip-jalapeno-with-broadcom-and-its-development-was-sped-up-with-openais-own-models"
-  },
-  "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/": {
-    "sent_at": "2026-06-24T15:31:22.225168",
-    "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
-    "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/"
-  },
   "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks": {
     "sent_at": "2026-06-24T20:49:51.866088",
     "title": "Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks",
@@ -483,5 +473,15 @@
     "sent_at": "2026-07-24T04:16:55.642980",
     "title": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
     "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop"
+  },
+  "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up": {
+    "sent_at": "2026-07-24T20:22:47.822866",
+    "title": "VentureBeat Research: Where enterprise AI agent governance hasn't caught up",
+    "url": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up"
+  },
+  "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows": {
+    "sent_at": "2026-07-24T20:22:47.822866",
+    "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
+    "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows"
   }
 }
