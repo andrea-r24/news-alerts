@@ -1,29 +1,4 @@
 {
-  "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks": {
-    "sent_at": "2026-06-24T20:49:51.866088",
-    "title": "Alibaba's model never trained as an agent — and improved agent performance across seven benchmarks",
-    "url": "https://venturebeat.com/technology/alibabas-model-never-trained-as-an-agent-and-improved-agent-performance-across-seven-benchmarks"
-  },
-  "https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most": {
-    "sent_at": "2026-06-24T20:49:51.866088",
-    "title": "Xiaomi's HarnessX rewrites its own AI scaffolding mid-task — and smaller models gain the most",
-    "url": "https://venturebeat.com/orchestration/xiaomis-harnessx-rewrites-its-own-ai-scaffolding-mid-task-and-smaller-models-gain-the-most"
-  },
-  "https://venturebeat.com/data/stanford-researchers-will-discuss-their-agentic-scientists-that-are-on-course-to-reshape-drug-discovery-at-vb-transform-2026": {
-    "sent_at": "2026-06-24T20:49:51.866088",
-    "title": "Stanford researchers will discuss their agentic 'scientists' that are on course to reshape drug discovery at VB Transform 2026",
-    "url": "https://venturebeat.com/data/stanford-researchers-will-discuss-their-agentic-scientists-that-are-on-course-to-reshape-drug-discovery-at-vb-transform-2026"
-  },
-  "https://venturebeat.com/orchestration/amazon-will-present-its-framework-for-engineering-trustworthy-ai-agents-at-vb-transform-2026": {
-    "sent_at": "2026-06-24T20:49:51.866088",
-    "title": "Amazon will present its framework for engineering trustworthy AI agents at VB Transform 2026",
-    "url": "https://venturebeat.com/orchestration/amazon-will-present-its-framework-for-engineering-trustworthy-ai-agents-at-vb-transform-2026"
-  },
-  "https://venturebeat.com/orchestration/intuit-will-show-off-how-it-rebuilt-its-ai-infrastructure-to-support-fast-and-complex-tasks-at-vb-transform-2026": {
-    "sent_at": "2026-06-24T20:49:51.866088",
-    "title": "Intuit will show off how it rebuilt its AI infrastructure to support fast and complex tasks at VB Transform 2026",
-    "url": "https://venturebeat.com/orchestration/intuit-will-show-off-how-it-rebuilt-its-ai-infrastructure-to-support-fast-and-complex-tasks-at-vb-transform-2026"
-  },
   "https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel": {
     "sent_at": "2026-06-25T05:06:59.316876",
     "title": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel",
@@ -483,5 +458,10 @@
     "sent_at": "2026-07-24T20:22:47.822866",
     "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
     "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows"
+  },
+  "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/": {
+    "sent_at": "2026-07-25T04:13:30.058960",
+    "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
+    "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
   }
 }
