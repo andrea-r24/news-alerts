@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers": {
-    "sent_at": "2026-06-27T20:10:36.052106",
-    "title": "Claude Code turned every engineer into three. Now companies need more product thinkers",
-    "url": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers"
-  },
   "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/": {
     "sent_at": "2026-06-29T16:36:54.063053",
     "title": "Agent confidence on the technical frontier",
@@ -433,5 +428,20 @@
     "sent_at": "2026-07-27T15:39:35.225461",
     "title": "Building the enterprise environment for agentic AI",
     "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
+  },
+  "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs": {
+    "sent_at": "2026-07-27T20:24:48.339903",
+    "title": "Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs",
+    "url": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs"
+  },
+  "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/": {
+    "sent_at": "2026-07-27T20:24:48.339903",
+    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
+  },
+  "https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward": {
+    "sent_at": "2026-07-27T20:24:48.339903",
+    "title": "AI cites the deep pages but sends humans to the homepage — most sites are built backward",
+    "url": "https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward"
   }
 }
