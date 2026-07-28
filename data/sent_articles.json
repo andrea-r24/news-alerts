@@ -458,5 +458,15 @@
     "sent_at": "2026-07-28T15:16:38.453745",
     "title": "MCP just got its biggest update ever — here’s what changes for AI agents",
     "url": "https://venturebeat.com/infrastructure/mcp-just-got-its-biggest-update-ever-heres-what-changes-for-ai-agents"
+  },
+  "https://venturebeat.com/orchestration/instacarts-cto-says-ai-made-the-company-stop-worrying-about-tech-debt": {
+    "sent_at": "2026-07-28T20:18:17.074835",
+    "title": "Instacart's CTO says AI made the company stop worrying about tech debt",
+    "url": "https://venturebeat.com/orchestration/instacarts-cto-says-ai-made-the-company-stop-worrying-about-tech-debt"
+  },
+  "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests": {
+    "sent_at": "2026-07-28T20:18:17.074835",
+    "title": "GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests",
+    "url": "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests"
   }
 }
