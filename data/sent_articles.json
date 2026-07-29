@@ -468,5 +468,15 @@
     "sent_at": "2026-07-28T20:18:17.074835",
     "title": "GM redesigned its engineering workflows around AI agents — and tripled its merged pull requests",
     "url": "https://venturebeat.com/orchestration/gm-redesigned-its-engineering-workflows-around-ai-agents-and-tripled-its-merged-pull-requests"
+  },
+  "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible": {
+    "sent_at": "2026-07-29T04:13:39.086920",
+    "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible",
+    "url": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible"
+  },
+  "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/": {
+    "sent_at": "2026-07-29T04:13:39.086920",
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
   }
 }
