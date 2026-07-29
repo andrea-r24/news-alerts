@@ -1,9 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/": {
-    "sent_at": "2026-06-29T16:36:54.063053",
-    "title": "Agent confidence on the technical frontier",
-    "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
-  },
   "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85": {
     "sent_at": "2026-06-29T20:49:41.146712",
     "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
@@ -478,5 +473,25 @@
     "sent_at": "2026-07-29T04:13:39.086920",
     "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
     "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
+  },
+  "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that": {
+    "sent_at": "2026-07-29T20:13:57.682781",
+    "title": "Enterprise AI agents can't talk to each other, can't be trusted with permissions, and can't be audited — 5 startups are already fixing that",
+    "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that"
+  },
+  "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy": {
+    "sent_at": "2026-07-29T20:13:57.682781",
+    "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
+    "url": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy"
+  },
+  "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them": {
+    "sent_at": "2026-07-29T20:13:57.682781",
+    "title": "Target SVP says its real AI moat isn't the models — it's everything built around them",
+    "url": "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them"
+  },
+  "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/": {
+    "sent_at": "2026-07-29T20:13:57.682781",
+    "title": "Anthropic is finding bugs faster than Microsoft can fix them",
+    "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/"
   }
 }
