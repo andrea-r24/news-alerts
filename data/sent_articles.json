@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85": {
-    "sent_at": "2026-06-29T20:49:41.146712",
-    "title": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
-    "url": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85"
-  },
-  "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/": {
-    "sent_at": "2026-06-29T20:49:41.146712",
-    "title": "AI agents are not your “coworkers”",
-    "url": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/"
-  },
-  "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure": {
-    "sent_at": "2026-06-29T20:49:41.146712",
-    "title": "The attack that hijacked Claude Code came through Sentry. Datadog, PagerDuty, and Jira have the same exposure.",
-    "url": "https://venturebeat.com/security/the-attack-that-hijacked-claude-code-came-through-sentry-datadog-pagerduty-and-jira-have-the-same-exposure"
-  },
   "https://venturebeat.com/data/ai-agents-need-context-everywhere-they-run-even-where-the-cloud-cant-follow": {
     "sent_at": "2026-06-30T15:24:18.860922",
     "title": "AI agents need context everywhere they run, even where the cloud can't follow",
@@ -493,5 +478,10 @@
     "sent_at": "2026-07-29T20:13:57.682781",
     "title": "Anthropic is finding bugs faster than Microsoft can fix them",
     "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/"
+  },
+  "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well": {
+    "sent_at": "2026-07-30T04:07:37.748161",
+    "title": "At Waymo, an AI project isn't ready until its evals are — not when the model performs well",
+    "url": "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well"
   }
 }
