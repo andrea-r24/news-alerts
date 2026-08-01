@@ -1,14 +1,4 @@
 {
-  "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/": {
-    "sent_at": "2026-07-01T20:48:21.254968",
-    "title": "After spooking Trump into safety testing, Anthropic AI models get global release",
-    "url": "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
-  },
-  "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it": {
-    "sent_at": "2026-07-01T20:48:21.254968",
-    "title": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
-    "url": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it"
-  },
   "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand": {
     "sent_at": "2026-07-02T04:59:52.956325",
     "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand",
@@ -468,5 +458,10 @@
     "sent_at": "2026-07-31T20:21:37.662161",
     "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
     "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud"
+  },
+  "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap": {
+    "sent_at": "2026-08-01T04:22:18.937502",
+    "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
+    "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap"
   }
 }
