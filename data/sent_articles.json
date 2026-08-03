@@ -1,34 +1,4 @@
 {
-  "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand": {
-    "sent_at": "2026-07-02T04:59:52.956325",
-    "title": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand",
-    "url": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand"
-  },
-  "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding": {
-    "sent_at": "2026-07-02T15:12:59.772223",
-    "title": "Z.ai launches ZCode to challenge Cursor, Claude Code and GitHub Copilot in AI coding",
-    "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding"
-  },
-  "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/": {
-    "sent_at": "2026-07-02T20:21:18.793740",
-    "title": "Trump gets OpenAI to offer US 5% stake, far lower than Sanders’ target",
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-floats-giving-us-5-stake-to-win-over-ai-haters/"
-  },
-  "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge": {
-    "sent_at": "2026-07-03T04:44:22.872498",
-    "title": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
-    "url": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge"
-  },
-  "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99": {
-    "sent_at": "2026-07-03T04:44:22.872498",
-    "title": "New Alibaba AI framework skips loading every tool, cutting agent token use 99%",
-    "url": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99"
-  },
-  "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models": {
-    "sent_at": "2026-07-03T15:07:55.386125",
-    "title": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
-    "url": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models"
-  },
   "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence": {
     "sent_at": "2026-07-04T20:11:18.153295",
     "title": "How America's 250th birthday became a test of AI-powered collective intelligence",
@@ -463,5 +433,15 @@
     "sent_at": "2026-08-01T04:22:18.937502",
     "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
     "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap"
+  },
+  "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/": {
+    "sent_at": "2026-08-03T15:40:50.113392",
+    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
+  },
+  "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/": {
+    "sent_at": "2026-08-03T15:40:50.113392",
+    "title": "Here’s why AI agents lie and cheat to reach their goals",
+    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
   }
 }
