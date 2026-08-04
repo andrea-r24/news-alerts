@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence": {
-    "sent_at": "2026-07-04T20:11:18.153295",
-    "title": "How America's 250th birthday became a test of AI-powered collective intelligence",
-    "url": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence"
-  },
   "https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents": {
     "sent_at": "2026-07-06T16:17:45.216439",
     "title": "What billions of AI predictions taught Expedia before the age of AI agents",
@@ -443,5 +438,15 @@
     "sent_at": "2026-08-03T15:40:50.113392",
     "title": "Here’s why AI agents lie and cheat to reach their goals",
     "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+  },
+  "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use": {
+    "sent_at": "2026-08-04T04:16:01.116911",
+    "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
+    "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use"
+  },
+  "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets": {
+    "sent_at": "2026-08-04T04:16:01.116911",
+    "title": "Asana's AI agents share memory across your company — but not your secrets",
+    "url": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets"
   }
 }
