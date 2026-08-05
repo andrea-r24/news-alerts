@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents": {
-    "sent_at": "2026-07-06T16:17:45.216439",
-    "title": "What billions of AI predictions taught Expedia before the age of AI agents",
-    "url": "https://venturebeat.com/orchestration/what-billions-of-ai-predictions-taught-expedia-before-the-age-of-ai-agents"
-  },
   "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/": {
     "sent_at": "2026-07-06T20:53:48.480205",
     "title": "Your family’s $300 stake in OpenAI",
@@ -458,5 +453,20 @@
     "sent_at": "2026-08-04T20:27:07.811967",
     "title": "AI coding agents are blowing through budgets — Replit, Kilo Code, and Symbotic explain how they're managing it",
     "url": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it"
+  },
+  "https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know": {
+    "sent_at": "2026-08-05T20:34:27.363775",
+    "title": "Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know",
+    "url": "https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know"
+  },
+  "https://venturebeat.com/security/the-shai-hulud-npm-worm-didnt-fake-its-security-check-it-earned-a-legitimate-one": {
+    "sent_at": "2026-08-05T20:34:27.363775",
+    "title": "The Shai-Hulud npm worm didn't fake its security check — it earned a legitimate one",
+    "url": "https://venturebeat.com/security/the-shai-hulud-npm-worm-didnt-fake-its-security-check-it-earned-a-legitimate-one"
+  },
+  "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff": {
+    "sent_at": "2026-08-05T20:34:27.363775",
+    "title": "AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff",
+    "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff"
   }
 }
