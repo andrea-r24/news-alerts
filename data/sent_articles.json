@@ -1,14 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/": {
-    "sent_at": "2026-07-06T20:53:48.480205",
-    "title": "Your family’s $300 stake in OpenAI",
-    "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
-  },
-  "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/": {
-    "sent_at": "2026-07-06T20:53:48.480205",
-    "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-    "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/"
-  },
   "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness": {
     "sent_at": "2026-07-07T04:54:38.208412",
     "title": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness",
@@ -468,5 +458,15 @@
     "sent_at": "2026-08-05T20:34:27.363775",
     "title": "AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff",
     "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff"
+  },
+  "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents": {
+    "sent_at": "2026-08-06T04:15:04.437092",
+    "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
+    "url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents"
+  },
+  "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/": {
+    "sent_at": "2026-08-06T04:15:04.437092",
+    "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
+    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
   }
 }
