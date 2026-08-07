@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness": {
-    "sent_at": "2026-07-07T04:54:38.208412",
-    "title": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness",
-    "url": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness"
-  },
-  "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/": {
-    "sent_at": "2026-07-07T15:41:38.634874",
-    "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-    "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/"
-  },
-  "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents": {
-    "sent_at": "2026-07-07T20:50:52.062797",
-    "title": "The real cost, security, and culture problems behind enterprise AI agents",
-    "url": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents"
-  },
-  "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding": {
-    "sent_at": "2026-07-07T20:50:52.062797",
-    "title": "Anthropic brings Claude Cowork to mobile and web as usage data shows most users aren’t coding",
-    "url": "https://venturebeat.com/technology/anthropic-brings-claude-cowork-to-mobile-and-web-as-usage-data-shows-most-users-arent-coding"
-  },
   "https://venturebeat.com/orchestration/slacks-slackbot-can-now-pull-your-crm-data-generate-charts-and-send-docusigns-all-from-a-chat-message": {
     "sent_at": "2026-07-08T15:18:12.329292",
     "title": "Slack’s Slackbot can now pull your CRM data, generate charts, and send DocuSigns — all from a chat message.",
@@ -468,5 +448,15 @@
     "sent_at": "2026-08-06T04:15:04.437092",
     "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
     "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
+  },
+  "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi": {
+    "sent_at": "2026-08-07T00:41:56.420624",
+    "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
+    "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi"
+  },
+  "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/": {
+    "sent_at": "2026-08-07T00:41:56.420624",
+    "title": "Anthropic will design its own hardware to power Claude",
+    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/"
   }
 }
