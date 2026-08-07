@@ -458,5 +458,10 @@
     "sent_at": "2026-08-07T00:41:56.420624",
     "title": "Anthropic will design its own hardware to power Claude",
     "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/"
+  },
+  "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/": {
+    "sent_at": "2026-08-07T14:10:53.897160",
+    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
+    "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
   }
 }
