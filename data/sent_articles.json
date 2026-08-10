@@ -1,54 +1,4 @@
 {
-  "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai": {
-    "sent_at": "2026-07-09T04:56:17.923185",
-    "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI",
-    "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai"
-  },
-  "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone": {
-    "sent_at": "2026-07-09T15:54:16.007809",
-    "title": "The enterprise AI challenge nobody solves with code generation alone",
-    "url": "https://venturebeat.com/orchestration/the-enterprise-ai-challenge-nobody-solves-with-code-generation-alone"
-  },
-  "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research": {
-    "sent_at": "2026-07-09T20:49:24.168730",
-    "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
-    "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research"
-  },
-  "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/": {
-    "sent_at": "2026-07-09T20:49:24.168730",
-    "title": "OpenAI may have made a fatal misstep in copyright fight with news orgs",
-    "url": "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/"
-  },
-  "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/": {
-    "sent_at": "2026-07-10T04:54:38.314116",
-    "title": "OpenAI wants its new tool to do your work for you and with you",
-    "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/"
-  },
-  "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/": {
-    "sent_at": "2026-07-10T15:29:22.245594",
-    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
-  },
-  "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less": {
-    "sent_at": "2026-07-10T20:26:14.383094",
-    "title": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
-    "url": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less"
-  },
-  "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them": {
-    "sent_at": "2026-07-10T20:26:14.383094",
-    "title": "Enterprise AI is entering an evaluation gap: Agents are gaining autonomy faster than companies can verify them",
-    "url": "https://venturebeat.com/orchestration/enterprise-ai-is-entering-an-evaluation-gap-agents-are-gaining-autonomy-faster-than-companies-can-verify-them"
-  },
-  "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one": {
-    "sent_at": "2026-07-11T04:14:11.350852",
-    "title": "57% of enterprises have watched AI agents be confidently wrong. The fix is an agentic context layer, but who has one?",
-    "url": "https://venturebeat.com/data/57-of-enterprises-have-watched-ai-agents-be-confidently-wrong-the-fix-is-an-agentic-context-layer-but-who-has-one"
-  },
-  "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars": {
-    "sent_at": "2026-07-11T04:14:11.350852",
-    "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
-    "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars"
-  },
   "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains": {
     "sent_at": "2026-07-12T20:06:59.275577",
     "title": "DeepSeek cut prices 75%. The 100x problem remains",
@@ -473,5 +423,15 @@
     "sent_at": "2026-08-08T02:55:12.762832",
     "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
     "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks"
+  },
+  "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/": {
+    "sent_at": "2026-08-10T14:18:05.200458",
+    "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+    "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
+  },
+  "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority": {
+    "sent_at": "2026-08-10T14:18:05.200458",
+    "title": "Your agent didn’t hallucinate; it exceeded its authority",
+    "url": "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority"
   }
 }
