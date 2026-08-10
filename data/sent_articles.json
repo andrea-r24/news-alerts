@@ -433,5 +433,20 @@
     "sent_at": "2026-08-10T14:18:05.200458",
     "title": "Your agent didn’t hallucinate; it exceeded its authority",
     "url": "https://venturebeat.com/technology/your-agent-didnt-hallucinate-it-exceeded-its-authority"
+  },
+  "https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code": {
+    "sent_at": "2026-08-10T19:55:44.437104",
+    "title": "Brex assumes its AI agents could do anything — so it watches the network, not the code",
+    "url": "https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code"
+  },
+  "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now": {
+    "sent_at": "2026-08-10T19:55:44.437104",
+    "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now",
+    "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now"
+  },
+  "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next": {
+    "sent_at": "2026-08-10T19:55:44.437104",
+    "title": "Token-maxxing is dead. Agentic memory is what comes next.",
+    "url": "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next"
   }
 }
