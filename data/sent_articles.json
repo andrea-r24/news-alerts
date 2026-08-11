@@ -448,5 +448,15 @@
     "sent_at": "2026-08-10T19:55:44.437104",
     "title": "Token-maxxing is dead. Agentic memory is what comes next.",
     "url": "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next"
+  },
+  "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks": {
+    "sent_at": "2026-08-11T03:04:28.694294",
+    "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
+    "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks"
+  },
+  "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push": {
+    "sent_at": "2026-08-11T03:04:28.694294",
+    "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
+    "url": "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push"
   }
 }
