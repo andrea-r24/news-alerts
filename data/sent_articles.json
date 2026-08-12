@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains": {
-    "sent_at": "2026-07-12T20:06:59.275577",
-    "title": "DeepSeek cut prices 75%. The 100x problem remains",
-    "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains"
-  },
   "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/": {
     "sent_at": "2026-07-13T20:17:59.101652",
     "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
@@ -478,5 +473,10 @@
     "sent_at": "2026-08-11T20:01:04.052940",
     "title": "Why AI-driven purchase intent so rarely becomes a completed sale",
     "url": "https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale"
+  },
+  "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month": {
+    "sent_at": "2026-08-12T03:23:30.245847",
+    "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
+    "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month"
   }
 }
