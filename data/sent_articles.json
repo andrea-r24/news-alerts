@@ -1,9 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/": {
-    "sent_at": "2026-07-13T20:17:59.101652",
-    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
-  },
   "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis": {
     "sent_at": "2026-07-14T14:45:57.690177",
     "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
@@ -518,5 +513,15 @@
     "sent_at": "2026-08-12T20:00:39.742203",
     "title": "Scaling AI agents with trustworthy data",
     "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
+  },
+  "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models": {
+    "sent_at": "2026-08-13T14:20:03.923130",
+    "title": "Why Capital One built its multi-agent AI platform around open-weight models",
+    "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models"
+  },
+  "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges": {
+    "sent_at": "2026-08-13T14:20:03.923130",
+    "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
+    "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges"
   }
 }
