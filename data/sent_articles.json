@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis": {
-    "sent_at": "2026-07-14T14:45:57.690177",
-    "title": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
-    "url": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis"
-  },
-  "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts": {
-    "sent_at": "2026-07-14T14:45:57.690177",
-    "title": "Canva launches Code 2.0, offering AI website building to every user — including free accounts",
-    "url": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts"
-  },
-  "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/": {
-    "sent_at": "2026-07-14T14:45:57.690177",
-    "title": "The Download: Claude’s inner workings, and the future of world models",
-    "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
-  },
   "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack": {
     "sent_at": "2026-07-15T20:13:22.652769",
     "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
@@ -523,5 +508,20 @@
     "sent_at": "2026-08-13T14:20:03.923130",
     "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
     "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges"
+  },
+  "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut": {
+    "sent_at": "2026-08-13T19:56:21.051993",
+    "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
+    "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut"
+  },
+  "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices": {
+    "sent_at": "2026-08-13T19:56:21.051993",
+    "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
+    "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices"
+  },
+  "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/": {
+    "sent_at": "2026-08-13T19:56:21.051993",
+    "title": "Anthropic could be worth $2 trillion when it goes public",
+    "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
   }
 }
