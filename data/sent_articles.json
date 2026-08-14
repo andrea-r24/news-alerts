@@ -523,5 +523,10 @@
     "sent_at": "2026-08-13T19:56:21.051993",
     "title": "Anthropic could be worth $2 trillion when it goes public",
     "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
+  },
+  "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done": {
+    "sent_at": "2026-08-14T03:24:50.165814",
+    "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done",
+    "url": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done"
   }
 }
