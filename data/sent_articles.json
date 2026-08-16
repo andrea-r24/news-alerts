@@ -1,64 +1,4 @@
 {
-  "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack": {
-    "sent_at": "2026-07-15T20:13:22.652769",
-    "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
-    "url": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack"
-  },
-  "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/": {
-    "sent_at": "2026-07-15T20:13:22.652769",
-    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
-  },
-  "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/": {
-    "sent_at": "2026-07-15T20:13:22.652769",
-    "title": "OpenAI's first branded hardware is... a light-up keyboard?",
-    "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/"
-  },
-  "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026": {
-    "sent_at": "2026-07-15T20:13:22.652769",
-    "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026",
-    "url": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026"
-  },
-  "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents": {
-    "sent_at": "2026-07-16T04:10:20.311694",
-    "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-    "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents"
-  },
-  "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship": {
-    "sent_at": "2026-07-16T04:10:20.311694",
-    "title": "Thinking Machines open sources first multimodal language model, Inkling, focused on low cost and 'resistance to censorship'",
-    "url": "https://venturebeat.com/technology/thinking-machines-open-sources-first-multimodal-language-model-inkling-focused-on-low-cost-and-resistance-to-censorship"
-  },
-  "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/": {
-    "sent_at": "2026-07-16T14:57:50.925525",
-    "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-    "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/"
-  },
-  "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems": {
-    "sent_at": "2026-07-16T20:04:21.059904",
-    "title": "China’s Moonshot AI releases Kimi K3, the largest open-source model ever, rivaling top U.S. systems",
-    "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems"
-  },
-  "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs": {
-    "sent_at": "2026-07-16T20:04:21.059904",
-    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-    "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
-  },
-  "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials": {
-    "sent_at": "2026-07-16T20:04:21.059904",
-    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-    "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
-  },
-  "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed": {
-    "sent_at": "2026-07-16T20:04:21.059904",
-    "title": "Zero trust must now move at agent speed",
-    "url": "https://venturebeat.com/security/zero-trust-must-now-move-at-agent-speed"
-  },
-  "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix": {
-    "sent_at": "2026-07-16T20:04:21.059904",
-    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-    "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
-  },
   "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026": {
     "sent_at": "2026-07-17T20:08:25.333072",
     "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
@@ -533,5 +473,10 @@
     "sent_at": "2026-08-14T19:49:28.922659",
     "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
     "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+  },
+  "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge": {
+    "sent_at": "2026-08-16T13:27:22.640893",
+    "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
+    "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge"
   }
 }
