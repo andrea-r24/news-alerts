@@ -503,5 +503,15 @@
     "sent_at": "2026-08-18T19:30:06.602209",
     "title": "Commerce AI is fragmenting. Here is why that matters.",
     "url": "https://venturebeat.com/orchestration/commerce-ai-is-fragmenting-here-is-why-that-matters"
+  },
+  "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens": {
+    "sent_at": "2026-08-19T02:18:34.232194",
+    "title": "GLM-5.3 hits the API at $1.4/$4.4 per million tokens",
+    "url": "https://venturebeat.com/technology/glm-5-3-hits-the-api-at-1-4-4-4-per-million-tokens"
+  },
+  "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally": {
+    "sent_at": "2026-08-19T02:18:34.232194",
+    "title": "Block’s new Apache 2.0 agent workspace Berd works across models and harnesses, stores conversation history locally",
+    "url": "https://venturebeat.com/orchestration/blocks-new-apache-2-0-agent-workspace-berd-works-across-models-and-harnesses-stores-conversation-history-locally"
   }
 }
