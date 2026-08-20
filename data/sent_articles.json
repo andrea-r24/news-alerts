@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build": {
-    "sent_at": "2026-07-20T20:24:00.312484",
-    "title": "At VB Transform 2026, Zillow's engineering chief said AI ROI numbers only hold up if you measure before you build",
-    "url": "https://venturebeat.com/data/at-vb-transform-2026-zillows-engineering-chief-said-ai-roi-numbers-only-hold-up-if-you-measure-before-you-build"
-  },
-  "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems": {
-    "sent_at": "2026-07-20T20:24:00.312484",
-    "title": "Safety guardrails blocked Hugging Face's defenders, not the attacker, when an AI agent breached its systems",
-    "url": "https://venturebeat.com/security/safety-guardrails-blocked-hugging-faces-defenders-not-the-attacker-when-an-ai-agent-breached-its-systems"
-  },
   "https://venturebeat.com/technology/googles-gemini-3-6-flash-model-cuts-ai-agent-token-costs-by-up-to-65-on-long-horizon-engineering-tasks-and-3-5-pro-is-on-the-way": {
     "sent_at": "2026-07-21T20:19:52.135129",
     "title": "Google's Gemini 3.6 Flash model cuts AI agent token costs by up to 65% on long horizon engineering tasks —and 3.5 Pro is on the way",
@@ -518,5 +508,10 @@
     "sent_at": "2026-08-19T19:28:52.375865",
     "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
     "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
+  },
+  "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents": {
+    "sent_at": "2026-08-20T02:17:29.439592",
+    "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+    "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents"
   }
 }
