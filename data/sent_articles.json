@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size": {
-    "sent_at": "2026-07-22T04:18:56.781848",
-    "title": "Poolside drops Laguna S 2.1, an open-weight coding model that beats rivals 10x its size",
-    "url": "https://venturebeat.com/infrastructure/poolside-drops-laguna-s-2-1-an-open-weight-coding-model-that-beats-rivals-10x-its-size"
-  },
-  "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots": {
-    "sent_at": "2026-07-22T15:01:30.066789",
-    "title": "OpenAI unveils Presence, a new platform that lets enterprises launch and manage realtime voice agents and chatbots",
-    "url": "https://venturebeat.com/orchestration/openai-unveils-presence-a-new-platform-that-lets-enterprises-launch-and-manage-realtime-voice-agents-and-chatbots"
-  },
-  "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/": {
-    "sent_at": "2026-07-22T15:01:30.066789",
-    "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
-    "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/"
-  },
   "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering": {
     "sent_at": "2026-07-22T20:12:59.807447",
     "title": "AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering",
@@ -528,5 +513,10 @@
     "sent_at": "2026-08-21T02:23:28.807672",
     "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
     "url": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time"
+  },
+  "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs": {
+    "sent_at": "2026-08-21T19:28:00.813321",
+    "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
+    "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs"
   }
 }
