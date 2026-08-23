@@ -1,44 +1,4 @@
 {
-  "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering": {
-    "sent_at": "2026-07-22T20:12:59.807447",
-    "title": "AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering",
-    "url": "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering"
-  },
-  "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/": {
-    "sent_at": "2026-07-22T20:12:59.807447",
-    "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
-    "url": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/"
-  },
-  "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now": {
-    "sent_at": "2026-07-23T04:16:46.396909",
-    "title": "The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now",
-    "url": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now"
-  },
-  "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start": {
-    "sent_at": "2026-07-23T20:15:56.202479",
-    "title": "Black Forest Labs launches FLUX 3 capable of generating images and 20-second video with audio — but in limited release to start",
-    "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start"
-  },
-  "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs": {
-    "sent_at": "2026-07-23T20:15:56.202479",
-    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-    "url": "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs"
-  },
-  "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials": {
-    "sent_at": "2026-07-23T20:15:56.202479",
-    "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-    "url": "https://venturebeat.com/resources/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials"
-  },
-  "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix": {
-    "sent_at": "2026-07-23T20:15:56.202479",
-    "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-    "url": "https://venturebeat.com/resources/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix"
-  },
-  "https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway": {
-    "sent_at": "2026-07-23T20:15:56.202479",
-    "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-    "url": "https://venturebeat.com/resources/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway"
-  },
   "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai": {
     "sent_at": "2026-07-24T04:16:55.642980",
     "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
@@ -518,5 +478,10 @@
     "sent_at": "2026-08-21T19:28:00.813321",
     "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
     "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs"
+  },
+  "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone": {
+    "sent_at": "2026-08-23T02:23:59.183796",
+    "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
+    "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone"
   }
 }
