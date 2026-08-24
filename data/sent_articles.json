@@ -1,9 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/": {
-    "sent_at": "2026-07-25T04:13:30.058960",
-    "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-    "url": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/"
-  },
   "https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search": {
     "sent_at": "2026-07-27T15:39:35.225461",
     "title": "Uh-oh: Some Claude shared conversations and Artifacts appear to be indexed and publicly accessible on Google Search",
@@ -468,5 +463,10 @@
     "sent_at": "2026-08-24T02:23:17.189874",
     "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
     "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them"
+  },
+  "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted": {
+    "sent_at": "2026-08-24T13:47:59.014159",
+    "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+    "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted"
   }
 }
