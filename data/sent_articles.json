@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai": {
-    "sent_at": "2026-07-24T04:16:55.642980",
-    "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
-    "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai"
-  },
-  "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop": {
-    "sent_at": "2026-07-24T04:16:55.642980",
-    "title": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
-    "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop"
-  },
-  "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up": {
-    "sent_at": "2026-07-24T20:22:47.822866",
-    "title": "VentureBeat Research: Where enterprise AI agent governance hasn't caught up",
-    "url": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up"
-  },
-  "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows": {
-    "sent_at": "2026-07-24T20:22:47.822866",
-    "title": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
-    "url": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows"
-  },
   "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/": {
     "sent_at": "2026-07-25T04:13:30.058960",
     "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
@@ -483,5 +463,10 @@
     "sent_at": "2026-08-23T02:23:59.183796",
     "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
     "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone"
+  },
+  "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them": {
+    "sent_at": "2026-08-24T02:23:17.189874",
+    "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
+    "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them"
   }
 }
