@@ -473,5 +473,10 @@
     "sent_at": "2026-08-25T13:45:43.510481",
     "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
     "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs"
+  },
+  "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan": {
+    "sent_at": "2026-08-25T19:34:35.177443",
+    "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
+    "url": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan"
   }
 }
