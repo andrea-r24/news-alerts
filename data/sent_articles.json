@@ -1,39 +1,4 @@
 {
-  "https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search": {
-    "sent_at": "2026-07-27T15:39:35.225461",
-    "title": "Uh-oh: Some Claude shared conversations and Artifacts appear to be indexed and publicly accessible on Google Search",
-    "url": "https://venturebeat.com/technology/uh-oh-some-claude-shared-conversations-and-artifacts-appear-to-be-indexed-and-publicly-accessible-on-google-search"
-  },
-  "https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance": {
-    "sent_at": "2026-07-27T15:39:35.225461",
-    "title": "Why SAP says enterprise AI agents need knowledge graphs and governance",
-    "url": "https://venturebeat.com/orchestration/why-sap-says-enterprise-ai-agents-need-knowledge-graphs-and-governance"
-  },
-  "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/": {
-    "sent_at": "2026-07-27T15:39:35.225461",
-    "title": "The path to artificial superintelligence",
-    "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
-  },
-  "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/": {
-    "sent_at": "2026-07-27T15:39:35.225461",
-    "title": "Building the enterprise environment for agentic AI",
-    "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
-  },
-  "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs": {
-    "sent_at": "2026-07-27T20:24:48.339903",
-    "title": "Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs",
-    "url": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs"
-  },
-  "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/": {
-    "sent_at": "2026-07-27T20:24:48.339903",
-    "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-    "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
-  },
-  "https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward": {
-    "sent_at": "2026-07-27T20:24:48.339903",
-    "title": "AI cites the deep pages but sends humans to the homepage — most sites are built backward",
-    "url": "https://venturebeat.com/technology/ai-cites-the-deep-pages-but-sends-humans-to-the-homepage-most-sites-are-built-backward"
-  },
   "https://venturebeat.com/security/snowflake-launches-cortex-ai-gateway-to-control-ai-agents-and-prevent-runaway-enterprise-costs": {
     "sent_at": "2026-07-28T15:16:38.453745",
     "title": "Snowflake launches Cortex AI Gateway to control AI agents and prevent runaway enterprise costs",
@@ -478,5 +443,25 @@
     "sent_at": "2026-08-25T19:34:35.177443",
     "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
     "url": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan"
+  },
+  "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again": {
+    "sent_at": "2026-08-26T21:42:36.410336",
+    "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
+    "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again"
+  },
+  "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/": {
+    "sent_at": "2026-08-26T21:42:36.410336",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+  },
+  "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it": {
+    "sent_at": "2026-08-26T21:42:36.410336",
+    "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
+    "url": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it"
+  },
+  "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents": {
+    "sent_at": "2026-08-26T21:42:36.410336",
+    "title": "Orchestration is the new challenge for CX in the age of AI agents",
+    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
   }
 }
