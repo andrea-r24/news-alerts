@@ -1,34 +1,4 @@
 {
-  "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible": {
-    "sent_at": "2026-07-29T04:13:39.086920",
-    "title": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible",
-    "url": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible"
-  },
-  "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/": {
-    "sent_at": "2026-07-29T04:13:39.086920",
-    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-    "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/"
-  },
-  "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that": {
-    "sent_at": "2026-07-29T20:13:57.682781",
-    "title": "Enterprise AI agents can't talk to each other, can't be trusted with permissions, and can't be audited — 5 startups are already fixing that",
-    "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-cant-talk-to-each-other-cant-be-trusted-with-permissions-and-cant-be-audited-5-startups-are-already-fixing-that"
-  },
-  "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy": {
-    "sent_at": "2026-07-29T20:13:57.682781",
-    "title": "Nimble claims its new, domain-specialized Web Search Agents cut token costs in half while boosting retrieval accuracy",
-    "url": "https://venturebeat.com/orchestration/nimble-claims-its-new-domain-specialized-web-search-agents-cut-token-costs-in-half-while-boosting-retrieval-accuracy"
-  },
-  "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them": {
-    "sent_at": "2026-07-29T20:13:57.682781",
-    "title": "Target SVP says its real AI moat isn't the models — it's everything built around them",
-    "url": "https://venturebeat.com/orchestration/target-svp-says-its-real-ai-moat-isnt-the-models-its-everything-built-around-them"
-  },
-  "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/": {
-    "sent_at": "2026-07-29T20:13:57.682781",
-    "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-    "url": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/"
-  },
   "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well": {
     "sent_at": "2026-07-30T04:07:37.748161",
     "title": "At Waymo, an AI project isn't ready until its evals are — not when the model performs well",
@@ -443,5 +413,25 @@
     "sent_at": "2026-08-27T22:45:27.182938",
     "title": "Anthropic's new hardware standard lets AI agents control the physical world",
     "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
+  },
+  "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/": {
+    "sent_at": "2026-08-28T22:51:56.170621",
+    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
+  },
+  "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents": {
+    "sent_at": "2026-08-28T22:51:56.170621",
+    "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
+    "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents"
+  },
+  "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag": {
+    "sent_at": "2026-08-28T22:51:56.170621",
+    "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
+    "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag"
+  },
+  "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page": {
+    "sent_at": "2026-08-28T22:51:56.170621",
+    "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
+    "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page"
   }
 }
