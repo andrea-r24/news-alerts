@@ -1,39 +1,4 @@
 {
-  "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well": {
-    "sent_at": "2026-07-30T04:07:37.748161",
-    "title": "At Waymo, an AI project isn't ready until its evals are — not when the model performs well",
-    "url": "https://venturebeat.com/technology/at-waymo-an-ai-project-isnt-ready-until-its-evals-are-not-when-the-model-performs-well"
-  },
-  "https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying": {
-    "sent_at": "2026-07-30T20:16:11.699685",
-    "title": "Mastercard spent decades training its fraud system to see bots as thieves. Now bots are the ones doing the buying.",
-    "url": "https://venturebeat.com/security/mastercard-spent-decades-training-its-fraud-system-to-see-bots-as-thieves-now-bots-are-the-ones-doing-the-buying"
-  },
-  "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread": {
-    "sent_at": "2026-07-30T20:16:11.699685",
-    "title": "Hush Security says the AI security problem has shifted from protecting models to governing identities as autonomous agents spread",
-    "url": "https://venturebeat.com/security/hush-security-says-the-ai-security-problem-has-shifted-from-protecting-models-to-governing-identities-as-autonomous-agents-spread"
-  },
-  "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations": {
-    "sent_at": "2026-07-31T04:24:26.577616",
-    "title": "Not just OpenAI: Now Anthropic says its internal models got online and cyberattacked 3 other organizations",
-    "url": "https://venturebeat.com/security/not-just-openai-now-anthropic-says-its-internal-models-got-online-and-cyberattacked-3-other-organizations"
-  },
-  "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size": {
-    "sent_at": "2026-07-31T04:24:26.577616",
-    "title": "Thinking Machines debuts Inkling Small open source AI model nearing performance of predecessor at about 1/4 size",
-    "url": "https://venturebeat.com/technology/thinking-machines-debuts-inkling-small-open-source-ai-model-nearing-performance-of-predecessor-at-about-1-4-size"
-  },
-  "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost": {
-    "sent_at": "2026-07-31T04:24:26.577616",
-    "title": "AI price wars: OpenAI cuts GPT-5.6 Luna prices by 80% as model competition shifts toward cost",
-    "url": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost"
-  },
-  "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud": {
-    "sent_at": "2026-07-31T20:21:37.662161",
-    "title": "How is your enterprise tracking AI agent telemetry? Groundcover thinks it should never leave your cloud",
-    "url": "https://venturebeat.com/data/how-is-your-enterprise-tracking-ai-agent-telemetry-groundcover-thinks-it-should-never-leave-your-cloud"
-  },
   "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap": {
     "sent_at": "2026-08-01T04:22:18.937502",
     "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
@@ -433,5 +398,10 @@
     "sent_at": "2026-08-28T22:51:56.170621",
     "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
     "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page"
+  },
+  "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned": {
+    "sent_at": "2026-08-30T21:51:49.640591",
+    "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
+    "url": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned"
   }
 }
