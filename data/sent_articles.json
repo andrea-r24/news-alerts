@@ -403,5 +403,20 @@
     "sent_at": "2026-08-31T06:47:54.344171",
     "title": "AI agents need their own identity before they need a gateway",
     "url": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway"
+  },
+  "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break": {
+    "sent_at": "2026-08-31T19:22:01.679122",
+    "title": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
+    "url": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break"
+  },
+  "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/": {
+    "sent_at": "2026-08-31T19:22:01.679122",
+    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+  },
+  "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior": {
+    "sent_at": "2026-08-31T19:22:01.679122",
+    "title": "Identity and permissions aren’t enough to govern AI agent behavior",
+    "url": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior"
   }
 }
