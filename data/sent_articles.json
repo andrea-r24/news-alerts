@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap": {
-    "sent_at": "2026-08-01T04:22:18.937502",
-    "title": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
-    "url": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap"
-  },
   "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/": {
     "sent_at": "2026-08-03T15:40:50.113392",
     "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
@@ -403,5 +398,10 @@
     "sent_at": "2026-08-30T21:51:49.640591",
     "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
     "url": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned"
+  },
+  "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway": {
+    "sent_at": "2026-08-31T06:47:54.344171",
+    "title": "AI agents need their own identity before they need a gateway",
+    "url": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway"
   }
 }
