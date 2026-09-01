@@ -433,5 +433,15 @@
     "sent_at": "2026-09-01T17:07:56.968475",
     "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
     "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
+  },
+  "https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open": {
+    "sent_at": "2026-09-01T21:39:13.850503",
+    "title": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
+    "url": "https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open"
+  },
+  "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads": {
+    "sent_at": "2026-09-01T21:39:13.850503",
+    "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
+    "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads"
   }
 }
