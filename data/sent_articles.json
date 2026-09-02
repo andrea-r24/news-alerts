@@ -1,14 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/": {
-    "sent_at": "2026-08-03T15:40:50.113392",
-    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-    "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
-  },
-  "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/": {
-    "sent_at": "2026-08-03T15:40:50.113392",
-    "title": "Here’s why AI agents lie and cheat to reach their goals",
-    "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
-  },
   "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use": {
     "sent_at": "2026-08-04T04:16:01.116911",
     "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
@@ -443,5 +433,20 @@
     "sent_at": "2026-09-01T21:39:13.850503",
     "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 arrive with a 75% cost reduction for Fable cache reads",
     "url": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads"
+  },
+  "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises": {
+    "sent_at": "2026-09-02T21:38:33.645633",
+    "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
+    "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises"
+  },
+  "https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists": {
+    "sent_at": "2026-09-02T21:38:33.645633",
+    "title": "Enterprises put non-Nvidia chips 14 points ahead of Nvidia's next-gen GPUs on their evaluation lists",
+    "url": "https://venturebeat.com/data/enterprises-put-non-nvidia-chips-14-points-ahead-of-nvidias-next-gen-gpus-on-their-evaluation-lists"
+  },
+  "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke": {
+    "sent_at": "2026-09-02T21:38:33.645633",
+    "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
+    "url": "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke"
   }
 }
