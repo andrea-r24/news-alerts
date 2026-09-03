@@ -1,9 +1,4 @@
 {
-  "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/": {
-    "sent_at": "2026-08-04T15:21:50.235267",
-    "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
-    "url": "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/"
-  },
   "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it": {
     "sent_at": "2026-08-04T20:27:07.811967",
     "title": "AI coding agents are blowing through budgets — Replit, Kilo Code, and Symbotic explain how they're managing it",
@@ -443,5 +438,20 @@
     "sent_at": "2026-09-03T05:33:06.273678",
     "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
     "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities"
+  },
+  "https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-performance-but-its-best-results-come-from-a-model-developers-cant-broadly-use-yet": {
+    "sent_at": "2026-09-03T16:54:06.300342",
+    "title": "Meta says Muse Spark 1.3 has frontier performance — but its best results come from a model developers can’t broadly use yet",
+    "url": "https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-performance-but-its-best-results-come-from-a-model-developers-cant-broadly-use-yet"
+  },
+  "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed": {
+    "sent_at": "2026-09-03T16:54:06.300342",
+    "title": "Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
+    "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed"
+  },
+  "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/": {
+    "sent_at": "2026-09-03T16:54:06.300342",
+    "title": "Scaling agentic AI pilots across the enterprise",
+    "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
   }
 }
