@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use": {
-    "sent_at": "2026-08-04T04:16:01.116911",
-    "title": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
-    "url": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use"
-  },
-  "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets": {
-    "sent_at": "2026-08-04T04:16:01.116911",
-    "title": "Asana's AI agents share memory across your company — but not your secrets",
-    "url": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets"
-  },
   "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/": {
     "sent_at": "2026-08-04T15:21:50.235267",
     "title": "OpenAI says Apple's trade secrets lawsuit is \"aggressive and oddly personal\"",
@@ -448,5 +438,10 @@
     "sent_at": "2026-09-02T21:38:33.645633",
     "title": "Stolen Claude session cookies can reach corporate Gmail through grants no IT admin can revoke",
     "url": "https://venturebeat.com/security/stolen-claude-session-cookies-can-reach-corporate-gmail-through-grants-no-it-admin-can-revoke"
+  },
+  "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities": {
+    "sent_at": "2026-09-03T05:33:06.273678",
+    "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+    "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities"
   }
 }
