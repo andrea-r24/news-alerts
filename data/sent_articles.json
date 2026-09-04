@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it": {
-    "sent_at": "2026-08-04T20:27:07.811967",
-    "title": "AI coding agents are blowing through budgets — Replit, Kilo Code, and Symbotic explain how they're managing it",
-    "url": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it"
-  },
-  "https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know": {
-    "sent_at": "2026-08-05T20:34:27.363775",
-    "title": "Claude Mythos 5 made sock puppet accounts to socially engineer developers: here's what enterprises should know",
-    "url": "https://venturebeat.com/security/claude-mythos-5-made-sock-puppet-accounts-to-socially-engineer-developers-heres-what-enterprises-should-know"
-  },
-  "https://venturebeat.com/security/the-shai-hulud-npm-worm-didnt-fake-its-security-check-it-earned-a-legitimate-one": {
-    "sent_at": "2026-08-05T20:34:27.363775",
-    "title": "The Shai-Hulud npm worm didn't fake its security check — it earned a legitimate one",
-    "url": "https://venturebeat.com/security/the-shai-hulud-npm-worm-didnt-fake-its-security-check-it-earned-a-legitimate-one"
-  },
-  "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff": {
-    "sent_at": "2026-08-05T20:34:27.363775",
-    "title": "AI startup Hark unveils first product: an affordable, fast computer use agent Hark Handoff",
-    "url": "https://venturebeat.com/technology/ai-startup-hark-unveils-first-product-an-affordable-fast-computer-use-agent-hark-handoff"
-  },
   "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents": {
     "sent_at": "2026-08-06T04:15:04.437092",
     "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
@@ -453,5 +433,10 @@
     "sent_at": "2026-09-03T16:54:06.300342",
     "title": "Scaling agentic AI pilots across the enterprise",
     "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
+  },
+  "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/": {
+    "sent_at": "2026-09-04T21:18:21.376224",
+    "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+    "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/"
   }
 }
