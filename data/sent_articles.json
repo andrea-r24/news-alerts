@@ -1,14 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents": {
-    "sent_at": "2026-08-06T04:15:04.437092",
-    "title": "Meta enters the AI coding wars with Muse Spark 1.2 and Muse Code with persistent async background agents",
-    "url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents"
-  },
-  "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/": {
-    "sent_at": "2026-08-06T04:15:04.437092",
-    "title": "Anthropic’s AI used fake identities, malware in rogue attack on GitHub project",
-    "url": "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/"
-  },
   "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi": {
     "sent_at": "2026-08-07T00:41:56.420624",
     "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
@@ -438,5 +428,10 @@
     "sent_at": "2026-09-04T21:18:21.376224",
     "title": "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
     "url": "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/"
+  },
+  "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/": {
+    "sent_at": "2026-09-05T05:23:27.678865",
+    "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+    "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
   }
 }
