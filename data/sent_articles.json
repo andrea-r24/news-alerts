@@ -1,39 +1,4 @@
 {
-  "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi": {
-    "sent_at": "2026-08-07T00:41:56.420624",
-    "title": "No cloud, no GPUs, no problem: Liquid AI's new model LFM2.5-2.6B brings powerful AI agents to devices as small as a Raspberry Pi",
-    "url": "https://venturebeat.com/technology/no-cloud-no-gpus-no-problem-liquid-ais-new-model-lfm2-5-2-6b-brings-powerful-ai-agents-to-devices-as-small-as-a-raspberry-pi"
-  },
-  "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/": {
-    "sent_at": "2026-08-07T00:41:56.420624",
-    "title": "Anthropic will design its own hardware to power Claude",
-    "url": "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/"
-  },
-  "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/": {
-    "sent_at": "2026-08-07T14:10:53.897160",
-    "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-    "url": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
-  },
-  "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/": {
-    "sent_at": "2026-08-07T19:52:59.518908",
-    "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-    "url": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/"
-  },
-  "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck": {
-    "sent_at": "2026-08-07T19:52:59.518908",
-    "title": "Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck",
-    "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck"
-  },
-  "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong": {
-    "sent_at": "2026-08-07T19:52:59.518908",
-    "title": "Tencent's Team Memory shares AI agent memory across a team — with no governance yet for when it's wrong",
-    "url": "https://venturebeat.com/data/tencents-team-memory-shares-ai-agent-memory-across-a-team-with-no-governance-yet-for-when-its-wrong"
-  },
-  "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks": {
-    "sent_at": "2026-08-08T02:55:12.762832",
-    "title": "Four AI agents coordinating in real time outperformed Claude Opus 4.8 on enterprise coding tasks",
-    "url": "https://venturebeat.com/orchestration/four-ai-agents-coordinating-in-real-time-outperformed-claude-opus-4-8-on-enterprise-coding-tasks"
-  },
   "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/": {
     "sent_at": "2026-08-10T14:18:05.200458",
     "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
@@ -433,5 +398,10 @@
     "sent_at": "2026-09-05T05:23:27.678865",
     "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
     "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/"
+  },
+  "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/": {
+    "sent_at": "2026-09-07T18:04:36.678947",
+    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+    "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
   }
 }
