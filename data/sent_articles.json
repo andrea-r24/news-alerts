@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code": {
-    "sent_at": "2026-08-10T19:55:44.437104",
-    "title": "Brex assumes its AI agents could do anything — so it watches the network, not the code",
-    "url": "https://venturebeat.com/orchestration/brex-assumes-its-ai-agents-could-do-anything-so-it-watches-the-network-not-the-code"
-  },
-  "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now": {
-    "sent_at": "2026-08-10T19:55:44.437104",
-    "title": "Meta returns to open source with Muse Glimmer, an Apache 2.0 licensed 30B parameter AI model optimized for agents — available now",
-    "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now"
-  },
-  "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next": {
-    "sent_at": "2026-08-10T19:55:44.437104",
-    "title": "Token-maxxing is dead. Agentic memory is what comes next.",
-    "url": "https://venturebeat.com/data/token-maxxing-is-dead-agentic-memory-is-what-comes-next"
-  },
   "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks": {
     "sent_at": "2026-08-11T03:04:28.694294",
     "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
@@ -408,5 +393,10 @@
     "sent_at": "2026-09-09T17:00:42.736571",
     "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
     "url": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/"
+  },
+  "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/": {
+    "sent_at": "2026-09-09T21:33:35.520299",
+    "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+    "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/"
   }
 }
