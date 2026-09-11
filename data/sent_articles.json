@@ -1,79 +1,4 @@
 {
-  "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks": {
-    "sent_at": "2026-08-11T03:04:28.694294",
-    "title": "OpenAI launches GPT-5.6-Cyber with reduced refusals, 95% completion on advanced cybersecurity tasks",
-    "url": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks"
-  },
-  "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push": {
-    "sent_at": "2026-08-11T03:04:28.694294",
-    "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
-    "url": "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push"
-  },
-  "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now": {
-    "sent_at": "2026-08-11T14:17:49.776674",
-    "title": "Mistral AI wants to build 1 gigawatt of European compute by 2030 — and lock in customers now.",
-    "url": "https://venturebeat.com/infrastructure/mistral-ai-wants-to-build-1-gigawatt-of-european-compute-by-2030-and-lock-in-customers-now"
-  },
-  "https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt": {
-    "sent_at": "2026-08-11T14:17:49.776674",
-    "title": "Your AI agent may be ready. Your sales motion probably isn’t.",
-    "url": "https://venturebeat.com/technology/your-ai-agent-may-be-ready-your-sales-motion-probably-isnt"
-  },
-  "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests": {
-    "sent_at": "2026-08-11T14:17:49.776674",
-    "title": "Nvidia's Switchyard router reshuffles AI models mid-task, cutting task costs to a third in its own tests",
-    "url": "https://venturebeat.com/orchestration/nvidias-switchyard-router-reshuffles-ai-models-mid-task-cutting-task-costs-to-a-third-in-its-own-tests"
-  },
-  "https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale": {
-    "sent_at": "2026-08-11T20:01:04.052940",
-    "title": "Why AI-driven purchase intent so rarely becomes a completed sale",
-    "url": "https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale"
-  },
-  "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month": {
-    "sent_at": "2026-08-12T03:23:30.245847",
-    "title": "SpaceXAI's Grok Bot turns agents into persistent digital coworkers that can operate your apps for $120-per-month",
-    "url": "https://venturebeat.com/orchestration/spacexais-grok-bot-turns-agents-into-persistent-digital-coworkers-that-can-operate-your-apps-for-120-per-month"
-  },
-  "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai": {
-    "sent_at": "2026-08-12T14:18:19.666733",
-    "title": "Skan AI raises $63 million betting that watching how employees actually work is the missing layer of enterprise AI",
-    "url": "https://venturebeat.com/data/skan-ai-raises-63-million-betting-that-watching-how-employees-actually-work-is-the-missing-layer-of-enterprise-ai"
-  },
-  "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs": {
-    "sent_at": "2026-08-12T14:18:19.666733",
-    "title": "Infrastructure and compute: Enterprises are buying AI compute for speed while flying blind on what it costs",
-    "url": "https://venturebeat.com/resources/infrastructure-and-compute-enterprises-are-buying-ai-compute-for-speed-while-flying-blind-on-what-it-costs"
-  },
-  "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least": {
-    "sent_at": "2026-08-12T14:18:19.666733",
-    "title": "Agentic reliability and evaluations : Enterprises that got burned by a bad eval are the most likely to remove humans from the loop, not the least",
-    "url": "https://venturebeat.com/resources/agentic-reliability-and-evaluations-enterprises-that-got-burned-by-a-bad-eval-are-the-most-likely-to-remove-humans-from-the-loop-not-the-least"
-  },
-  "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent": {
-    "sent_at": "2026-08-12T14:18:19.666733",
-    "title": "Agent context layers: Enterprises governing their AI data are catching twice as many bad answers as the ones who aren't",
-    "url": "https://venturebeat.com/resources/agent-context-layers-enterprises-governing-their-ai-data-are-catching-twice-as-many-bad-answers-as-the-ones-who-arent"
-  },
-  "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost": {
-    "sent_at": "2026-08-12T14:18:19.666733",
-    "title": "Agentic orchestration: Enterprise AI organizations know how to govern agents but still can't meter what they cost",
-    "url": "https://venturebeat.com/resources/agentic-orchestration-enterprise-ai-organizations-know-how-to-govern-agents-but-still-cant-meter-what-they-cost"
-  },
-  "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue": {
-    "sent_at": "2026-08-12T20:00:39.742203",
-    "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
-    "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue"
-  },
-  "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis": {
-    "sent_at": "2026-08-12T20:00:39.742203",
-    "title": "SpaceXAI debuts Grok 4.6, overtaking Kimi K3's performance and matching GPT-5.6 Sol for world's third best on Artificial Analysis",
-    "url": "https://venturebeat.com/technology/spacexai-debuts-grok-4-6-overtaking-kimi-k3s-performance-and-matching-gpt-5-6-sol-for-worlds-third-best-on-artificial-analysis"
-  },
-  "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/": {
-    "sent_at": "2026-08-12T20:00:39.742203",
-    "title": "Scaling AI agents with trustworthy data",
-    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
-  },
   "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models": {
     "sent_at": "2026-08-13T14:20:03.923130",
     "title": "Why Capital One built its multi-agent AI platform around open-weight models",
@@ -398,5 +323,10 @@
     "sent_at": "2026-09-09T21:33:35.520299",
     "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
     "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/"
+  },
+  "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/": {
+    "sent_at": "2026-09-11T21:36:06.124628",
+    "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+    "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/"
   }
 }
