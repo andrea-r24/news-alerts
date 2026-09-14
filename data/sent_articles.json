@@ -1,39 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models": {
-    "sent_at": "2026-08-13T14:20:03.923130",
-    "title": "Why Capital One built its multi-agent AI platform around open-weight models",
-    "url": "https://venturebeat.com/orchestration/why-capital-one-built-its-multi-agent-ai-platform-around-open-weight-models"
-  },
-  "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges": {
-    "sent_at": "2026-08-13T14:20:03.923130",
-    "title": "Writer says its new Palmyra X6 model cuts AI agent costs by 52% as token spending surges",
-    "url": "https://venturebeat.com/orchestration/writer-says-its-new-palmyra-x6-model-cuts-ai-agent-costs-by-52-as-token-spending-surges"
-  },
-  "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut": {
-    "sent_at": "2026-08-13T19:56:21.051993",
-    "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
-    "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut"
-  },
-  "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices": {
-    "sent_at": "2026-08-13T19:56:21.051993",
-    "title": "DeepSeek Harness launches as open source rival to Claude Code, alongside V4-Pro on API with higher prices",
-    "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices"
-  },
-  "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/": {
-    "sent_at": "2026-08-13T19:56:21.051993",
-    "title": "Anthropic could be worth $2 trillion when it goes public",
-    "url": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
-  },
-  "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done": {
-    "sent_at": "2026-08-14T03:24:50.165814",
-    "title": "Three Claude agents given conflicting orders sabotaged each other on a shared server — then didn't tell users what they'd done",
-    "url": "https://venturebeat.com/security/three-claude-agents-given-conflicting-orders-sabotaged-each-other-on-a-shared-server-then-didnt-tell-users-what-theyd-done"
-  },
-  "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/": {
-    "sent_at": "2026-08-14T19:49:28.922659",
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
-  },
   "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge": {
     "sent_at": "2026-08-16T13:27:22.640893",
     "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
@@ -328,5 +293,10 @@
     "sent_at": "2026-09-11T21:36:06.124628",
     "title": "Oracle tries to appease Stargate data center opponents with renewables push",
     "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/"
+  },
+  "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/": {
+    "sent_at": "2026-09-14T18:19:29.494704",
+    "title": "AI agents blew the whistle on their cheating colleagues",
+    "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
   }
 }
