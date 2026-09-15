@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge": {
-    "sent_at": "2026-08-16T13:27:22.640893",
-    "title": "DeepSeek's top-ranked V4 Flash stumbles on real agent tasks as its prices surge",
-    "url": "https://venturebeat.com/orchestration/deepseeks-top-ranked-v4-flash-stumbles-on-real-agent-tasks-as-its-prices-surge"
-  },
   "https://venturebeat.com/data/enterprises-with-ai-context-layers-report-agent-failures-at-more-than-twice-the-rate-of-those-without-one": {
     "sent_at": "2026-08-17T19:31:06.157476",
     "title": "Enterprises with AI context layers report agent failures at more than twice the rate of those without one",
@@ -308,5 +303,10 @@
     "sent_at": "2026-09-14T22:21:24.212151",
     "title": "The AI industry has taken a doomer turn. What now?",
     "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+  },
+  "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/": {
+    "sent_at": "2026-09-15T17:27:09.764858",
+    "title": "AI models need more data about biology, and OpenAI is paying to create it",
+    "url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/"
   }
 }
