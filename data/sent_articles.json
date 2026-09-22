@@ -1,49 +1,4 @@
 {
-  "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push": {
-    "sent_at": "2026-08-19T19:28:52.375865",
-    "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-    "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push"
-  },
-  "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents": {
-    "sent_at": "2026-08-20T02:17:29.439592",
-    "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
-    "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents"
-  },
-  "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message": {
-    "sent_at": "2026-08-20T19:33:52.827531",
-    "title": "NanoClaw comes to Slack, letting you create persistent AI agent teams and colleagues from a single message",
-    "url": "https://venturebeat.com/orchestration/nanoclaw-comes-to-slack-letting-you-create-persistent-ai-agent-teams-and-colleagues-from-a-single-message"
-  },
-  "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/": {
-    "sent_at": "2026-08-20T19:33:52.827531",
-    "title": "Debates over AI consciousness are a trap",
-    "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
-  },
-  "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed": {
-    "sent_at": "2026-08-20T19:33:52.827531",
-    "title": "Serval’s super agent Catalyst creates roving background agents to identify and fix IT issues before they’re ticketed",
-    "url": "https://venturebeat.com/infrastructure/servals-super-agent-catalyst-creates-roving-background-agents-to-identify-and-fix-it-issues-before-theyre-ticketed"
-  },
-  "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat": {
-    "sent_at": "2026-08-21T02:23:28.807672",
-    "title": "Slack wants to drag AI coding out of the terminal and into the group chat",
-    "url": "https://venturebeat.com/orchestration/slack-wants-to-drag-ai-coding-out-of-the-terminal-and-into-the-group-chat"
-  },
-  "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time": {
-    "sent_at": "2026-08-21T02:23:28.807672",
-    "title": "One in five enterprises can't stop a runaway AI agent's spending in real time",
-    "url": "https://venturebeat.com/orchestration/one-in-five-enterprises-cant-stop-a-runaway-ai-agents-spending-in-real-time"
-  },
-  "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs": {
-    "sent_at": "2026-08-21T19:28:00.813321",
-    "title": "Nvidia finds that simple linear math can replace costly AI model handoffs",
-    "url": "https://venturebeat.com/technology/nvidia-finds-that-simple-linear-math-can-replace-costly-ai-model-handoffs"
-  },
-  "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone": {
-    "sent_at": "2026-08-23T02:23:59.183796",
-    "title": "Enterprises winning with AI agents are limiting how much the agents can do alone",
-    "url": "https://venturebeat.com/orchestration/enterprises-winning-with-ai-agents-are-limiting-how-much-the-agents-can-do-alone"
-  },
   "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them": {
     "sent_at": "2026-08-24T02:23:17.189874",
     "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
@@ -268,5 +223,10 @@
     "sent_at": "2026-09-18T16:55:09.692095",
     "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
     "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
+  },
+  "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/": {
+    "sent_at": "2026-09-22T17:30:12.356326",
+    "title": "Don’t be fooled by this summer of AI hype",
+    "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
   }
 }
