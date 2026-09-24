@@ -1,24 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them": {
-    "sent_at": "2026-08-24T02:23:17.189874",
-    "title": "Enterprise AI agents are only as reliable as the messiest documents behind them",
-    "url": "https://venturebeat.com/orchestration/enterprise-ai-agents-are-only-as-reliable-as-the-messiest-documents-behind-them"
-  },
-  "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted": {
-    "sent_at": "2026-08-24T13:47:59.014159",
-    "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
-    "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted"
-  },
-  "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs": {
-    "sent_at": "2026-08-25T13:45:43.510481",
-    "title": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
-    "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs"
-  },
-  "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan": {
-    "sent_at": "2026-08-25T19:34:35.177443",
-    "title": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
-    "url": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan"
-  },
   "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again": {
     "sent_at": "2026-08-26T21:42:36.410336",
     "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
@@ -233,5 +213,10 @@
     "sent_at": "2026-09-22T21:53:29.234431",
     "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
     "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/"
+  },
+  "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/": {
+    "sent_at": "2026-09-24T22:08:27.653081",
+    "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
+    "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/"
   }
 }
