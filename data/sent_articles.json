@@ -1,49 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again": {
-    "sent_at": "2026-08-26T21:42:36.410336",
-    "title": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
-    "url": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again"
-  },
-  "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/": {
-    "sent_at": "2026-08-26T21:42:36.410336",
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
-  },
-  "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it": {
-    "sent_at": "2026-08-26T21:42:36.410336",
-    "title": "The fix for the AI agent that hijacked a company's DNS: it can propose the change, but it can't approve it",
-    "url": "https://venturebeat.com/security/the-fix-for-the-ai-agent-that-hijacked-a-companys-dns-it-can-propose-the-change-but-it-cant-approve-it"
-  },
-  "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents": {
-    "sent_at": "2026-08-26T21:42:36.410336",
-    "title": "Orchestration is the new challenge for CX in the age of AI agents",
-    "url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents"
-  },
-  "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/": {
-    "sent_at": "2026-08-27T22:45:27.182938",
-    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-    "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
-  },
-  "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/": {
-    "sent_at": "2026-08-28T22:51:56.170621",
-    "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
-    "url": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/"
-  },
-  "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents": {
-    "sent_at": "2026-08-28T22:51:56.170621",
-    "title": "The three layers of agentic AI security: A defense-in-depth architecture for autonomous agents",
-    "url": "https://venturebeat.com/security/the-three-layers-of-agentic-ai-security-a-defense-in-depth-architecture-for-autonomous-agents"
-  },
-  "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag": {
-    "sent_at": "2026-08-28T22:51:56.170621",
-    "title": "Meta researchers taught an 8B AI model to match Claude Opus 4.5 — without the frontier price tag",
-    "url": "https://venturebeat.com/orchestration/meta-researchers-taught-an-8b-ai-model-to-match-claude-opus-4-5-without-the-frontier-price-tag"
-  },
-  "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page": {
-    "sent_at": "2026-08-28T22:51:56.170621",
-    "title": "Cohere Parse 5 loses the benchmark on points. It wins on cost per page.",
-    "url": "https://venturebeat.com/data/cohere-parse-5-loses-the-benchmark-on-points-it-wins-on-cost-per-page"
-  },
   "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned": {
     "sent_at": "2026-08-30T21:51:49.640591",
     "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
@@ -218,5 +173,20 @@
     "sent_at": "2026-09-24T22:08:27.653081",
     "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
     "url": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/"
+  },
+  "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/": {
+    "sent_at": "2026-09-28T19:58:15.828238",
+    "title": "When can we say AI made a scientific discovery?",
+    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
+  },
+  "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/": {
+    "sent_at": "2026-09-28T19:58:15.828238",
+    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
+  },
+  "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/": {
+    "sent_at": "2026-09-28T19:58:15.828238",
+    "title": "The Download: rogue agent liability and the AI Hype Index",
+    "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/"
   }
 }
