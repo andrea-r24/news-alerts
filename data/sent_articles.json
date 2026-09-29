@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned": {
-    "sent_at": "2026-08-30T21:51:49.640591",
-    "title": "AI agents that pass authentication can still drift, expose data, or get memory-poisoned",
-    "url": "https://venturebeat.com/security/ai-agents-that-pass-authentication-can-still-drift-expose-data-or-get-memory-poisoned"
-  },
   "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway": {
     "sent_at": "2026-08-31T06:47:54.344171",
     "title": "AI agents need their own identity before they need a gateway",
@@ -203,5 +198,10 @@
     "sent_at": "2026-09-29T18:26:28.126972",
     "title": "Anthropic’s IPO pitch includes a warning about human extinction",
     "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
+  },
+  "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/": {
+    "sent_at": "2026-09-29T22:52:30.877730",
+    "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+    "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
   }
 }
