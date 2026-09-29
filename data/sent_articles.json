@@ -193,5 +193,15 @@
     "sent_at": "2026-09-28T23:45:54.090809",
     "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
     "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/"
+  },
+  "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/": {
+    "sent_at": "2026-09-29T18:26:28.126972",
+    "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
+  },
+  "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/": {
+    "sent_at": "2026-09-29T18:26:28.126972",
+    "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+    "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
   }
 }
