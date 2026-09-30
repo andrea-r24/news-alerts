@@ -1,19 +1,4 @@
 {
-  "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break": {
-    "sent_at": "2026-08-31T19:22:01.679122",
-    "title": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
-    "url": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break"
-  },
-  "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/": {
-    "sent_at": "2026-08-31T19:22:01.679122",
-    "title": "Hugging Face hack could indicate cultural issues at OpenAI",
-    "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
-  },
-  "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior": {
-    "sent_at": "2026-08-31T19:22:01.679122",
-    "title": "Identity and permissions aren’t enough to govern AI agent behavior",
-    "url": "https://venturebeat.com/security/identity-and-permissions-arent-enough-to-govern-ai-agent-behavior"
-  },
   "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/": {
     "sent_at": "2026-08-31T23:09:11.560232",
     "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
@@ -208,5 +193,10 @@
     "sent_at": "2026-09-30T18:15:20.275353",
     "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
     "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+  },
+  "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/": {
+    "sent_at": "2026-09-30T22:52:35.391748",
+    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/"
   }
 }
