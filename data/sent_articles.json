@@ -1,9 +1,4 @@
 {
-  "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway": {
-    "sent_at": "2026-08-31T06:47:54.344171",
-    "title": "AI agents need their own identity before they need a gateway",
-    "url": "https://venturebeat.com/security/ai-agents-need-their-own-identity-before-they-need-a-gateway"
-  },
   "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break": {
     "sent_at": "2026-08-31T19:22:01.679122",
     "title": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
@@ -203,5 +198,15 @@
     "sent_at": "2026-09-29T22:52:30.877730",
     "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
     "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
+  },
+  "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/": {
+    "sent_at": "2026-09-30T18:15:20.275353",
+    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+    "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
+  },
+  "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/": {
+    "sent_at": "2026-09-30T18:15:20.275353",
+    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
   }
 }
