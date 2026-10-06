@@ -138,5 +138,10 @@
     "sent_at": "2026-10-06T18:45:03.972830",
     "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
     "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+  },
+  "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/": {
+    "sent_at": "2026-10-06T22:56:21.170021",
+    "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+    "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
   }
 }
