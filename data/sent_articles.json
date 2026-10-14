@@ -133,5 +133,15 @@
     "sent_at": "2026-10-13T19:43:10.884999",
     "title": "The Download: open model trade-offs and geothermal power’s promise",
     "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
+  },
+  "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/": {
+    "sent_at": "2026-10-14T17:45:23.674064",
+    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+  },
+  "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/": {
+    "sent_at": "2026-10-14T17:45:23.674064",
+    "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+    "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
   }
 }
