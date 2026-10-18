@@ -1,19 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/": {
-    "sent_at": "2026-09-16T17:26:42.565747",
-    "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-    "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/"
-  },
-  "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/": {
-    "sent_at": "2026-09-18T16:55:09.692095",
-    "title": "Researchers used Claude to hack OpenAI",
-    "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/"
-  },
-  "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/": {
-    "sent_at": "2026-09-18T16:55:09.692095",
-    "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-    "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
-  },
   "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/": {
     "sent_at": "2026-09-22T17:30:12.356326",
     "title": "Don’t be fooled by this summer of AI hype",
@@ -133,5 +118,10 @@
     "sent_at": "2026-10-15T17:34:35.828987",
     "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
     "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
+  },
+  "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/": {
+    "sent_at": "2026-10-18T21:19:53.461704",
+    "title": "Anthropic gives outside AI watchdog “employee-like” access",
+    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
   }
 }
