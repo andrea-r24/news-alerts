@@ -1,34 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/": {
-    "sent_at": "2026-09-28T19:58:15.828238",
-    "title": "When can we say AI made a scientific discovery?",
-    "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
-  },
-  "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/": {
-    "sent_at": "2026-09-28T19:58:15.828238",
-    "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-    "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/"
-  },
-  "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/": {
-    "sent_at": "2026-09-28T19:58:15.828238",
-    "title": "The Download: rogue agent liability and the AI Hype Index",
-    "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/"
-  },
-  "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/": {
-    "sent_at": "2026-09-28T23:45:54.090809",
-    "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-    "url": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/"
-  },
-  "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/": {
-    "sent_at": "2026-09-29T18:26:28.126972",
-    "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-    "url": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/"
-  },
-  "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/": {
-    "sent_at": "2026-09-29T18:26:28.126972",
-    "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-    "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/"
-  },
   "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/": {
     "sent_at": "2026-09-29T22:52:30.877730",
     "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
@@ -148,5 +118,10 @@
     "sent_at": "2026-10-27T22:53:18.615778",
     "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
     "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
+  },
+  "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/": {
+    "sent_at": "2026-10-29T18:46:07.560123",
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
   }
 }
