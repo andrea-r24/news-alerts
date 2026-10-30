@@ -1,19 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/": {
-    "sent_at": "2026-09-29T22:52:30.877730",
-    "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
-    "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
-  },
-  "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/": {
-    "sent_at": "2026-09-30T18:15:20.275353",
-    "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-    "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
-  },
-  "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/": {
-    "sent_at": "2026-09-30T18:15:20.275353",
-    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-    "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
-  },
   "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/": {
     "sent_at": "2026-09-30T22:52:35.391748",
     "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
@@ -123,5 +108,15 @@
     "sent_at": "2026-10-29T18:46:07.560123",
     "title": "The Download: AI agent tracking and climate feedback loops",
     "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
+  },
+  "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/": {
+    "sent_at": "2026-10-30T22:51:10.569097",
+    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+    "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
+  },
+  "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/": {
+    "sent_at": "2026-10-30T22:51:10.569097",
+    "title": "Basically no one is using AI agents for their DoorDash orders",
+    "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
   }
 }
