@@ -1,14 +1,4 @@
 {
-  "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/": {
-    "sent_at": "2026-09-30T22:52:35.391748",
-    "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
-    "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/"
-  },
-  "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/": {
-    "sent_at": "2026-10-03T06:11:41.508463",
-    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-    "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/"
-  },
   "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/": {
     "sent_at": "2026-10-06T18:45:03.972830",
     "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -118,5 +108,10 @@
     "sent_at": "2026-10-30T22:51:10.569097",
     "title": "Basically no one is using AI agents for their DoorDash orders",
     "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
+  },
+  "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/": {
+    "sent_at": "2026-11-02T22:06:03.554976",
+    "title": "Raising the quality of insights in agentic analytics",
+    "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
   }
 }
