@@ -1,9 +1,4 @@
 {
-  "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/": {
-    "sent_at": "2026-10-14T22:07:37.429653",
-    "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-    "url": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/"
-  },
   "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/": {
     "sent_at": "2026-10-15T17:34:35.828987",
     "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
@@ -98,5 +93,10 @@
     "sent_at": "2026-11-13T20:17:30.705581",
     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
     "url": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+  },
+  "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/": {
+    "sent_at": "2026-11-14T00:14:38.112805",
+    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
+    "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
   }
 }
