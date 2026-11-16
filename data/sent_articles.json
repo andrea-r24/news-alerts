@@ -1,9 +1,4 @@
 {
-  "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/": {
-    "sent_at": "2026-10-15T17:34:35.828987",
-    "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
-  },
   "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/": {
     "sent_at": "2026-10-18T21:19:53.461704",
     "title": "Anthropic gives outside AI watchdog “employee-like” access",
@@ -98,5 +93,10 @@
     "sent_at": "2026-11-14T00:14:38.112805",
     "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
     "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+  },
+  "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/": {
+    "sent_at": "2026-11-16T22:42:59.909140",
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
   }
 }
