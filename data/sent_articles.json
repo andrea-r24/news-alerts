@@ -1,9 +1,4 @@
 {
-  "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/": {
-    "sent_at": "2026-10-18T21:19:53.461704",
-    "title": "Anthropic gives outside AI watchdog “employee-like” access",
-    "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
-  },
   "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/": {
     "sent_at": "2026-10-19T18:58:10.946442",
     "title": "Making the internet better for AI agents might make it worse for everyone else",
@@ -98,5 +93,10 @@
     "sent_at": "2026-11-16T22:42:59.909140",
     "title": "Building trustworthy AI by fencing it in, not predicting it",
     "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+  },
+  "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/": {
+    "sent_at": "2026-11-17T21:29:08.549833",
+    "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+    "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"
   }
 }
