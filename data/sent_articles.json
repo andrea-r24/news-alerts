@@ -1,24 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/": {
-    "sent_at": "2026-10-19T18:58:10.946442",
-    "title": "Making the internet better for AI agents might make it worse for everyone else",
-    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
-  },
-  "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/": {
-    "sent_at": "2026-10-19T18:58:10.946442",
-    "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-    "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/"
-  },
-  "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/": {
-    "sent_at": "2026-10-19T22:49:58.272719",
-    "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-    "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
-  },
-  "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/": {
-    "sent_at": "2026-10-21T22:12:08.529860",
-    "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-    "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
-  },
   "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/": {
     "sent_at": "2026-10-26T19:00:07.427787",
     "title": "Will the real Anthropic please stand up",
@@ -98,5 +78,10 @@
     "sent_at": "2026-11-17T21:29:08.549833",
     "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
     "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/"
+  },
+  "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/": {
+    "sent_at": "2026-11-24T00:33:40.028741",
+    "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+    "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
   }
 }
